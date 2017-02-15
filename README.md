@@ -69,6 +69,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Herding Cats: Observing Live Coding in the Wild](http://www.mitpressjournals.org/doi/pdf/10.1162/COMJ_a_00216), Thor Magnusson - Department of Music - University of Sussex
 * [Algorave: the live coding movement that makes next-level electronic music](http://mixmag.net/feature/algorave), MixMag magazine article about live coding
 * [Alex McLean's publications](https://slab.org/publications/), Conference papers, book chapters and journal articles
+* [Live Coding Mailing List Archive](https://raw.githubusercontent.com/yaxu/unravelling/master/livecodemlarchive.txt), a piece of history
 
 ## To Dance
 
