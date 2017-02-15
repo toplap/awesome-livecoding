@@ -19,15 +19,18 @@ This list was created with the intention of giving a quick-glance over the many 
   * [Related lists](#related-lists)
   * [License](#license)
 
+
 ## What is livecoding?
 
 Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 > Live coding (sometimes referred to as 'on-the-fly programming', 'just in time programming' and 'conversational programming') is a performing arts form and a creativity technique centred upon the writing of source code and the use of interactive programming in an improvised way.
 
+
 ## Websites
 
 * [TOPLAP](https://toplap.org/), the home of Live Coding
+
 
 ## Languages
 
@@ -53,13 +56,15 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [vvvv](https://vvvv.org/),  a hybrid visual/textual live-programming environment for easy prototyping and development.  `Windows | OS X | GNU/Linux` `visual-language` `Freeware | Commercial`
 * [xi](https://github.com/xi-livecode), a domain-specific language for Live Coding musical patterns in Ruby. `Windows | OS X | GNU/Linux` `Ruby` `Supercollider` `FLOSS`
 
+
 ## Libraries and tools
 
-* [Gibberwocky](https://github.com/charlieroberts/gibberwocky), Use Gibber inside Max/MSP and Max4Live
+* [Gibberwocky](https://github.com/charlieroberts/gibberwocky), use Gibber inside Max/MSP and Max4Live
 * [s2hs2](https://github.com/yecto/s2hs2-TidalCycles-0.8-), an interface between TidalCycles and Processing
 * [TidalUnity](https://github.com/moxuse/tidal-unity), an interface between TidalCycles and Unity 3D
 * [Tidal-Unity](https://github.com/lvm/Tidal-Unity), TidalCycles meets Unity 3D
 * [WavTexture](https://github.com/keijiro/WavTexture), a Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader
+* [CHmUsiCK](https://github.com/essteban/CHmUsiCK), library to make chucK a 'more algorave like' language
 
 
 ## To Watch
@@ -106,10 +111,12 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [POTAC](https://medium.com/potac), Programing of The Art Computer, `Weblog`
 * [/r/livecoding](https://www.reddit.com/r/livecoding/), the Live Coding subreddit
 
+
 ## Related lists
 
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding), :art: Creative Coding, Generative Art, Interaction Design, Resources
 * [Awesome Audio visualization](https://github.com/willianjusten/awesome-audio-visualization), A curated list about Audio Visualization
+
 
 ## License
 
