@@ -39,16 +39,16 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Extempore](http://extempore.moso.com.au/), a programming language and runtime environment designed to support 'cyberphysical programming'. `Windows | OS X | GNU/Linux` `lisp` `FLOSS`
 * [Fluxus](http://www.pawfal.org/fluxus/), a rapid prototyping, playing and learning environment for 3D graphics, sound and games. `Windows | OS X | GNU/Linux | Android | PS2` `racket-lang` `lisp` `FLOSS`
 * [FoxDot](http://foxdot.org/), Live Coding with Python and SuperCollider. `Windows | OS X | GNU/Linux` `Python` `Supercollider` `FLOSS`
-* [Gibber](http://charlie-roberts.com/gibber/), creative coding for JavaScript. `Google Chrome | Mozilla Firefox.` `web` `JavaScript` `FLOSS`
+* [Gibber](http://charlie-roberts.com/gibber/), creative coding for JavaScript. `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS`
 * [Impromptu](http://impromptu.moso.com.au/), an OSX programming language and environment for composers, sound artists, VJ's and graphic artists with an interest in live or interactive programming. `OS X` `lisp` `Closed source`
 * [ixi lang](http://www.ixi-audio.net/), an experimental project concerned with the creation of digital musical instruments and environments for generative music. `Windows | OS X | GNU/Linux` `Supercollider`
-* [LiveCodeLab](http://livecodelab.net), a web-based language and environment for VJs, musicians and graphic artists. Allows for immediate and engaging run-as-you-type prototyping, also used in education. `web` `Windows | OS X | GNU/Linux` `FLOSS`
+* [LiveCodeLab](http://livecodelab.net), a web-based language and environment for VJs, musicians and graphic artists. Allows for immediate and engaging run-as-you-type prototyping, also used in education. `Windows | OS X | GNU/Linux` `web` `FLOSS`
 * [Max](https://cycling74.com/products/max/), a visual programming language for media. `Windows | OS X` `graphical-language` `Commercial`
 * [Overtone](http://overtone.github.io/), an open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming. `Windows | OS X | GNU/Linux` `Supercollider` `lisp` `FLOSS`
 * [Pure Data](https://puredata.info/), an open source visual programming language that can be used to process and generate sound, video, 2D/3D graphics, and interface sensors, input devices, and MIDI. `Windows | OS X | GNU/Linux` `graphical-language` `FLOSS`
 * [Sonic Pi](http://sonic-pi.net/), the Live Coding music synth for everyone. `Windows | OS X | GNU/Linux` `Ruby` `Supercollider` `FLOSS`
 * [SuperCollider](http://supercollider.github.io/), a platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound. `Windows | OS X | GNU/Linux` `FLOSS`
-* [TidalCycles](https://tidalcycles.org/), is a language for Live Coding pattern. ([youtube channel](https://www.youtube.com/channel/UCG5Ynx9mvouuSHYEyxaJ0Cg)) `Windows | OS X | GNU/Linxux` `Haskell` `Supercollider` `FLOSS`
+* [TidalCycles](https://tidalcycles.org/), is a language for Live Coding pattern `Windows | OS X | GNU/Linxux` `Haskell` `Supercollider` `FLOSS`
 * [vvvv](https://vvvv.org/),  a hybrid visual/textual live-programming environment for easy prototyping and development.  `Windows | OS X | GNU/Linux` `visual-language` `Freeware | Commercial`
 * [xi](https://github.com/xi-livecode), a domain-specific language for Live Coding musical patterns in Ruby. `Windows | OS X | GNU/Linux` `Ruby` `Supercollider` `FLOSS`
 
@@ -71,6 +71,9 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [ComputerMusic(now)](https://www.youtube.com/watch?v=GSGKEy8vHqg), Andrew Sorensen
 * [Show Us Your Screens](https://vimeo.com/20241649), a Documentary about live coding practise by Louis McCallum and Davy Smith
 * [Algorithms are Thoughts, Chainsaws are Tools](https://vimeo.com/9790850), a short film on livecoding presented as part of the Critical Code Studies Working Group, March 2010, by Stephen Ramsay
+* [ICLC Youtube Channel](https://www.youtube.com/channel/UCN-9RKW_izkIUMH0eQ60H2g/videos?shelf_id=0&view=0&sort=dd), International Conference on Live Coding
+* [TidalCycles Youtube Channel](https://www.youtube.com/channel/UCG5Ynx9mvouuSHYEyxaJ0Cg), Official channel of the TidalCycles collective
+
 
 ## To Read
 
@@ -88,6 +91,11 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 * [Algorave](https://algorave.com/), embrace the alien sounds of raves from the past, and introduce alien, futuristic rhythms and beats made through strange, algorithm-aided processes
 * [Euleroom](http://www.eulerroom.com/), algorithmic music streams, mainly live coded and/or algorave but possibly also stranger things
+
+## Conferences
+
+* [ICLC](http://iclc.livecodenetwork.org/), International Conference on Live Coding
+
 
 ## Community
 
