@@ -47,7 +47,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Pure Data](https://puredata.info/), an open source visual programming language that can be used to process and generate sound, video, 2D/3D graphics, and interface sensors, input devices, and MIDI. `Windows | OS X | GNU/Linux` `graphical-language` `FLOSS`
 * [Sonic Pi](http://sonic-pi.net/), the Live Coding music synth for everyone. `Windows | OS X | GNU/Linux` `Ruby` `Supercollider` `FLOSS`
 * [SuperCollider](http://supercollider.github.io/), a platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound. `Windows | OS X | GNU/Linux` `FLOSS`
-* [TidalCycles](https://tidalcycles.org/), is a language for Live Coding pattern. `Windows | OS X | GNU/Linxux` `Haskell` `Supercollider` `FLOSS`
+* [TidalCycles](https://tidalcycles.org/), is a language for Live Coding pattern. ([youtube channel](https://www.youtube.com/channel/UCG5Ynx9mvouuSHYEyxaJ0Cg)) `Windows | OS X | GNU/Linxux` `Haskell` `Supercollider` `FLOSS`
 * [vvvv](https://vvvv.org/),  a hybrid visual/textual live-programming environment for easy prototyping and development.  `Windows | OS X | GNU/Linux` `visual-language` `Freeware | Commercial`
 * [xi](https://github.com/xi-livecode), a domain-specific language for Live Coding musical patterns in Ruby. `Windows | OS X | GNU/Linux` `Ruby` `Supercollider` `FLOSS`
 
@@ -86,7 +86,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 ## To Dance
 
 * [Algorave](https://algorave.com/), embrace the alien sounds of raves from the past, and introduce alien, futuristic rhythms and beats made through strange, algorithm-aided processes
-* [Eulerrom](http://www.eulerroom.com/), algorithmic music streams, mainly live coded and/or algorave but possibly also stranger things
+* [Euleroom](http://www.eulerroom.com/), algorithmic music streams, mainly live coded and/or algorave but possibly also stranger things
 
 ## Community
 
