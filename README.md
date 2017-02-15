@@ -73,6 +73,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Algorithms are Thoughts, Chainsaws are Tools](https://vimeo.com/9790850), a short film on livecoding presented as part of the Critical Code Studies Working Group, March 2010, by Stephen Ramsay
 * [ICLC Youtube Channel](https://www.youtube.com/channel/UCN-9RKW_izkIUMH0eQ60H2g/videos?shelf_id=0&view=0&sort=dd), International Conference on Live Coding
 * [TidalCycles Youtube Channel](https://www.youtube.com/channel/UCG5Ynx9mvouuSHYEyxaJ0Cg), Official channel of the TidalCycles collective
+* [SuperCollider Tutorials](https://www.youtube.com/playlist?list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC), a video series by Eli Fieldsteel
 
 
 ## To Read
