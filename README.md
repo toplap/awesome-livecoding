@@ -7,16 +7,17 @@ This list was created with the intention of giving a quick-glance over the many 
 **Table of Contents**
 
 - [All things livecoding](#all-things-livecoding)
-	- [What is livecoding?](#what-is-livecoding)
-	- [Websites](#websites)
-	- [Languages](#languages)
-	- [Libraries and tools](#libraries-and-tools)
-	- [To Watch](#to-watch)
-	- [To Read](#to-read)
-	- [To Dance](#to-dance)
-	- [Community](#community)
-	- [Related lists](#related-lists)
-	- [License](#license)
+  * [What is livecoding?](#what-is-livecoding)
+  * [Websites](#websites)
+  * [Languages](#languages)
+  * [Libraries and tools](#libraries-and-tools)
+  * [To Watch](#to-watch)
+  * [To Read](#to-read)
+  * [To Dance](#to-dance)
+  * [Conferences](#conferences)
+  * [Community](#community)
+  * [Related lists](#related-lists)
+  * [License](#license)
 
 ## What is livecoding?
 
@@ -26,7 +27,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## Websites
 
-* [TOPLAP](https://toplap.org/), the home of Live Coding.
+* [TOPLAP](https://toplap.org/), the home of Live Coding
 
 ## Languages
 
@@ -48,7 +49,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Pure Data](https://puredata.info/), an open source visual programming language that can be used to process and generate sound, video, 2D/3D graphics, and interface sensors, input devices, and MIDI. `Windows | OS X | GNU/Linux` `graphical-language` `FLOSS`
 * [Sonic Pi](http://sonic-pi.net/), the Live Coding music synth for everyone. `Windows | OS X | GNU/Linux` `Ruby` `Supercollider` `FLOSS`
 * [SuperCollider](http://supercollider.github.io/), a platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound. `Windows | OS X | GNU/Linux` `FLOSS`
-* [TidalCycles](https://tidalcycles.org/), is a language for Live Coding pattern `Windows | OS X | GNU/Linxux` `Haskell` `Supercollider` `FLOSS`
+* [TidalCycles](https://tidalcycles.org/), is a language for Live Coding pattern. `Windows | OS X | GNU/Linxux` `Haskell` `Supercollider` `FLOSS`
 * [vvvv](https://vvvv.org/),  a hybrid visual/textual live-programming environment for easy prototyping and development.  `Windows | OS X | GNU/Linux` `visual-language` `Freeware | Commercial`
 * [xi](https://github.com/xi-livecode), a domain-specific language for Live Coding musical patterns in Ruby. `Windows | OS X | GNU/Linux` `Ruby` `Supercollider` `FLOSS`
 
@@ -58,7 +59,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [s2hs2](https://github.com/yecto/s2hs2-TidalCycles-0.8-), an interface between TidalCycles and Processing
 * [TidalUnity](https://github.com/moxuse/tidal-unity), an interface between TidalCycles and Unity 3D
 * [Tidal-Unity](https://github.com/lvm/Tidal-Unity), TidalCycles meets Unity 3D
-* [WaveTexture](https://github.com/keijiro/WavTexture), A Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader
+* [WavTexture](https://github.com/keijiro/WavTexture), a Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader
 
 
 ## To Watch
