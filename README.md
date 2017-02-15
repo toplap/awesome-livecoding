@@ -62,6 +62,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## To Watch
 
+* [Live coding for Algoraving](https://www.youtube.com/watch?v=RpzEzUCgVoQ), Shelly Knotts+Joanne Armitage / workshop supported by YSWN + LCRN
 * [Programming as Performance](https://www.youtube.com/watch?v=TK1mBqKvIyU), Sam Aaron
 * [THIS is computer music](https://www.youtube.com/watch?v=S-T8kcSRLL0), Ge Wang
 * [Programming in Time - Live Coding for creative performances](https://www.youtube.com/watch?v=Sg2BjFQnr9s), Andrew Sorensen
