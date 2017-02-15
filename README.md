@@ -2,6 +2,8 @@
 
 > A curated list of livecoding languages and tools
 
+This list was created with the intention of giving a quick-glance over the many possibilities to engage in this practice. For further information, head over to [TOPLAP](https://toplap.org).
+
 **Table of Contents**
 
 - [All things livecoding](#all-things-livecoding)
@@ -55,6 +57,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [s2hs2](https://github.com/yecto/s2hs2-TidalCycles-0.8-), an interface between TidalCycles and Processing
 * [TidalUnity](https://github.com/moxuse/tidal-unity), an interface between TidalCycles and Unity 3D
 * [Tidal-Unity](https://github.com/lvm/Tidal-Unity), TidalCycles meets Unity 3D
+* [WaveTexture](https://github.com/keijiro/WavTexture), A Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader
+
 
 ## To Watch
 
@@ -62,19 +66,25 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [THIS is computer music](https://www.youtube.com/watch?v=S-T8kcSRLL0), Ge Wang
 * [Programming in Time - Live Coding for creative performances](https://www.youtube.com/watch?v=Sg2BjFQnr9s), Andrew Sorensen
 * [ComputerMusic(now)](https://www.youtube.com/watch?v=GSGKEy8vHqg), Andrew Sorensen
+* [Show Us Your Screens](https://vimeo.com/20241649), a Documentary about live coding practise by Louis McCallum and Davy Smith
+* [Algorithms are Thoughts, Chainsaws are Tools](https://vimeo.com/9790850), a short film on livecoding presented as part of the Critical Code Studies Working Group, March 2010, by Stephen Ramsay
 
 ## To Read
 
+* [Manifesto (draft)](https://toplap.org/wiki/ManifestoDraft), Obscurantism is dangerous. Show us your screens
 * [Origins of Live Coding](http://composerprogrammer.com/research/originsoflivecoding.pdf), Nick Collins - Durham University
 * [Herding Cats: Observing Live Coding in the Wild](http://www.mitpressjournals.org/doi/pdf/10.1162/COMJ_a_00216), Thor Magnusson - Department of Music - University of Sussex
-* [Algorave: the live coding movement that makes next-level electronic music](http://mixmag.net/feature/algorave), MixMag magazine article about live coding
+* [Algorave: the live coding movement that makes next-level electronic music](http://mixmag.net/feature/algorave), MixMag magazine article about live coding (2017)
+* [Real DJs Code Live](https://www.wired.com/2006/07/real-djs-code-live/), Wired magazine article about live coding (2006)
 * [Alex McLean's publications](https://slab.org/publications/), Conference papers, book chapters and journal articles
 * [Live Coding Mailing List Archive](https://raw.githubusercontent.com/yaxu/unravelling/master/livecodemlarchive.txt), a piece of history
+* [TOPLAP Wiki](https://toplap.org/wiki/Videos,_Articles_and_Papers), videos, articles, and papers
+
 
 ## To Dance
 
 * [Algorave](https://algorave.com/), embrace the alien sounds of raves from the past, and introduce alien, futuristic rhythms and beats made through strange, algorithm-aided processes
-* [Eulerrom](http://www.eulerroom.com/), algorithmic music streams, mainly live coded and/or algorave but possibly also stranger things.
+* [Eulerrom](http://www.eulerroom.com/), algorithmic music streams, mainly live coded and/or algorave but possibly also stranger things
 
 ## Community
 
@@ -85,8 +95,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## Related lists
 
-* [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding), :art: Creative Coding, Generative Art, Interaction Design, Resources.
-* [Awesome Audio visualization](https://github.com/willianjusten/awesome-audio-visualization), A curated list about Audio Visualization.
+* [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding), :art: Creative Coding, Generative Art, Interaction Design, Resources
+* [Awesome Audio visualization](https://github.com/willianjusten/awesome-audio-visualization), A curated list about Audio Visualization
 
 ## License
 
