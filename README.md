@@ -2,6 +2,20 @@
 
 > A curated list of livecoding languages and tools
 
+**Table of Contents**
+
+- [All things livecoding](#)
+	- [What is livecoding?](#)
+	- [Websites](#)
+	- [Languages](#)
+	- [Libraries and tools](#)
+	- [To Watch](#)
+	- [To Read](#)
+	- [To Dance](#)
+	- [Community](#)
+	- [Related lists](#)
+	- [License](#)
+
 ## What is livecoding?
 
 Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
