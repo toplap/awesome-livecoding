@@ -61,6 +61,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## Libraries and tools
 
+* [Arcadia](https://arcadia-unity.github.io/), live coding Clojure in Unity3D
 * [Gibberwocky](https://github.com/charlieroberts/gibberwocky), use Gibber inside Max/MSP and Max4Live
 * [s2hs2](https://github.com/yecto/s2hs2-TidalCycles-0.8-), an interface between TidalCycles and Processing
 * [TidalUnity](https://github.com/moxuse/tidal-unity), an interface between TidalCycles and Unity 3D
@@ -85,7 +86,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [ICLC Youtube Channel](https://www.youtube.com/channel/UCN-9RKW_izkIUMH0eQ60H2g/videos?shelf_id=0&view=0&sort=dd), International Conference on Live Coding
 * [TidalCycles Youtube Channel](https://www.youtube.com/channel/UCG5Ynx9mvouuSHYEyxaJ0Cg), Official channel of the TidalCycles collective
 * [SuperCollider Tutorials](https://www.youtube.com/playlist?list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC), a video series by Eli Fieldsteel
-
+* [Hacking Choreography](https://www.youtube.com/watch?v=hoV01_P6PGw), a live coded dance performance
 
 ## To Read
 
