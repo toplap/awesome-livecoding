@@ -67,6 +67,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [WavTexture](https://github.com/keijiro/WavTexture), a Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader
 * [CHmUsiCK](https://github.com/essteban/CHmUsiCK), library to make chucK a 'more algorave like' language
 * [REPL Mode](https://github.com/joelmoniz/REPLmode), this mode adds in a Read-Evaluate-Print-Loop console to Processing 3.0
+* [KodeLife](https://hexler.net/software/kodelife), Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad
+* [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer), Live GLSL coding render for MacOS and Linux
 
 
 ## To Watch
