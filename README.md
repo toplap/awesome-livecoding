@@ -120,10 +120,12 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 ## Related lists
 
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding), :art: Creative Coding, Generative Art, Interaction Design, Resources
-* [Awesome Audio visualization](https://github.com/willianjusten/awesome-audio-visualization), A curated list about Audio Visualization
-
+* [Awesome Audio visualization](https://github.com/willianjusten/awesome-audio-visualization), a curated list about Audio Visualization
+* [Awesome Music](https://github.com/ciconia/awesome-music), a categorized collection of awesome music libraries, tools, frameworks and software.
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).  
+
+To the extent possible under law, [Mauro Lizaur](http://lvm.github.io) has waived all copyright and related or neighboring rights to this work.
