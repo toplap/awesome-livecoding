@@ -46,6 +46,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Gibber](http://charlie-roberts.com/gibber/), creative coding for JavaScript. `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS`
 * [Impromptu](http://impromptu.moso.com.au/), an OSX programming language and environment for composers, sound artists, VJ's and graphic artists with an interest in live or interactive programming. `OS X` `lisp` `Closed source`
 * [ixi lang](http://www.ixi-audio.net/), an experimental project concerned with the creation of digital musical instruments and environments for generative music. `Windows | OS X | GNU/Linux` `Supercollider`
+* [i-score](http://www.i-score.org/), an interactive sequencer that allows live programming of OSC-enabled applications, through a visual language and JavaScript scripting. `Windows | OS X | GNU/Linux` `C++` `FLOSS`
 * [LiveCodeLab](http://livecodelab.net), a web-based language and environment for VJs, musicians and graphic artists. Allows for immediate and engaging run-as-you-type prototyping, also used in education. `Windows | OS X | GNU/Linux` `web` `FLOSS`
 * [Max](https://cycling74.com/products/max/), a visual programming language for media. `Windows | OS X` `graphical-language` `Commercial`
 * [Overtone](http://overtone.github.io/), an open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming. `Windows | OS X | GNU/Linux` `Supercollider` `lisp` `FLOSS`
