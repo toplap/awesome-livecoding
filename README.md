@@ -37,7 +37,6 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 (In Alphabetical Order)
 
 * [Alda](https://github.com/alda-lang/alda), a music programming language for musicians. `Windows | OS X | GNU/Linux` `FLOSS`
-* [Arcadia](https://arcadia-unity.github.io/), live coding Clojure in Unity3D
 * [ChucK](http://chuck.cs.princeton.edu/), Strongly-timed, Concurrent, and On-the-fly Music Programming Language. `Windows | OS X | GNU/Linux` `FLOSS`
 * [Conductive](http://www.renickbell.net/doku.php?id=conductive),  a set of Haskell libraries for livecoding and real-time music applications. `Windows | OS X | GNU/Linux` `haskell`  `Supercollider` `FLOSS`
 * [Cyril](http://cyrilcode.com/), a programming language designed for fast prototyping of visualisations and livecoding visuals. `Windows | OS X | GNU/Linux` `openFrameworks` `FLOSS`
@@ -62,6 +61,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## Libraries and tools
 
+* [Arcadia](https://arcadia-unity.github.io/), live coding Clojure in Unity3D
 * [Gibberwocky](https://github.com/charlieroberts/gibberwocky), use Gibber inside Max/MSP and Max4Live
 * [s2hs2](https://github.com/yecto/s2hs2-TidalCycles-0.8-), an interface between TidalCycles and Processing
 * [TidalUnity](https://github.com/moxuse/tidal-unity), an interface between TidalCycles and Unity 3D
