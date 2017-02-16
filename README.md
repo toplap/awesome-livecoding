@@ -49,6 +49,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [LiveCodeLab](http://livecodelab.net), a web-based language and environment for VJs, musicians and graphic artists. Allows for immediate and engaging run-as-you-type prototyping, also used in education. `Windows | OS X | GNU/Linux` `web` `FLOSS`
 * [Max](https://cycling74.com/products/max/), a visual programming language for media. `Windows | OS X` `graphical-language` `Commercial`
 * [Overtone](http://overtone.github.io/), an open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming. `Windows | OS X | GNU/Linux` `Supercollider` `lisp` `FLOSS`
+* [PraxisLive](http://www.praxislive.org/), hybrid visual IDE for live creative coding `Windows | OS X | GNU/Linux` `Java` `Processing` `GLSL` `graphical-language` `FLOSS`
 * [Pure Data](https://puredata.info/), an open source visual programming language that can be used to process and generate sound, video, 2D/3D graphics, and interface sensors, input devices, and MIDI. `Windows | OS X | GNU/Linux` `graphical-language` `FLOSS`
 * [Sonic Pi](http://sonic-pi.net/), the Live Coding music synth for everyone. `Windows | OS X | GNU/Linux` `Ruby` `Supercollider` `FLOSS`
 * [SuperCollider](http://supercollider.github.io/), a platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound. `Windows | OS X | GNU/Linux` `FLOSS`
@@ -65,6 +66,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Tidal-Unity](https://github.com/lvm/Tidal-Unity), TidalCycles meets Unity 3D
 * [WavTexture](https://github.com/keijiro/WavTexture), a Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader
 * [CHmUsiCK](https://github.com/essteban/CHmUsiCK), library to make chucK a 'more algorave like' language
+* [REPL Mode](https://github.com/joelmoniz/REPLmode), his mode adds in a Read-Evaluate-Print-Loop console to Processing 3.0
 
 
 ## To Watch
