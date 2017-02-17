@@ -78,6 +78,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Gibberwocky](https://github.com/charlieroberts/gibberwocky), use Gibber inside Max/MSP and Max4Live
 * [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer), Live GLSL coding render for MacOS and Linux
 * [HYLOGEN](https://github.com/sleexyz/hylogen), an embedding of GLSL in Haskell
+* [isobar](https://github.com/ideoforms/isobar), a Python library for algorithmic composition by expressing and constructing musical patterns
 * [KodeLife](https://hexler.net/software/kodelife), Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad
 * [LÖVELive](https://github.com/sharow/lovelive), :two_hearts: Live coding framework for LÖVE(2D Game Engine)
 * [pytebeat](https://github.com/kragen/pytebeat), a piece of software for doing livecoding [bytebeat](http://canonical.org/%7Ekragen/bytebeat/) performances
