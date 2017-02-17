@@ -127,7 +127,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 ## To Dance
 
 * [Algorave](https://algorave.com/), embrace the alien sounds of raves from the past, and introduce alien, futuristic rhythms and beats made through strange, algorithm-aided processes
-* [Euleroom](http://www.eulerroom.com/), algorithmic music streams, mainly live coded and/or algorave but possibly also stranger things
+* [Eulerroom](http://www.eulerroom.com/), algorithmic music streams, mainly live coded and/or algorave but possibly also stranger things
 
 ## Conferences
 
@@ -139,7 +139,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [LiveCode Slack](http://live-code-slack.herokuapp.com/), enter your email address and you're [ready to go](https://livecode.slack.com/)! `chat`
 * [LURK](http://lurk.org/), a  host for discussions around cultural freedom, experimental, new media art, net and computational culture, and things like that `Mailing List`
 * [POTAC](https://medium.com/potac), Programing of The Art Computer, `Weblog`
-* [/r/livecoding](https://www.reddit.com/r/livecoding/), the Live Coding subreddit
+* [/r/livecoding](https://www.reddit.com/r/livecoding/), the Live Coding subreddit 
 
 
 ## Related lists
