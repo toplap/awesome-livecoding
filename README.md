@@ -61,16 +61,22 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## Libraries and tools
 
+(Also in Alphabetical Order)
+
 * [Arcadia](https://arcadia-unity.github.io/), live coding Clojure in Unity3D
+* [CHmUsiCK](https://github.com/essteban/CHmUsiCK), library to make chucK a 'more algorave like' language
+* [The Force](https://shawnlawson.github.io/The_Force/), webGL live coding performance IDE 
 * [Gibberwocky](https://github.com/charlieroberts/gibberwocky), use Gibber inside Max/MSP and Max4Live
+* [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer), Live GLSL coding render for MacOS and Linux
+* [HYLOGEN](https://github.com/sleexyz/hylogen), an embedding of GLSL in Haskell
+* [KodeLife](https://hexler.net/software/kodelife), Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad
+* [pytebeat](https://github.com/kragen/pytebeat), a piece of software for doing livecoding [bytebeat](http://canonical.org/%7Ekragen/bytebeat/) performances
+* [REPL Mode](https://github.com/joelmoniz/REPLmode), this mode adds in a Read-Evaluate-Print-Loop console to Processing 3.0
 * [s2hs2](https://github.com/yecto/s2hs2-TidalCycles-0.8-), an interface between TidalCycles and Processing
+* [tidal-autocode](https://atom.io/packages/tidal-autocode), auto-generates patterns for TidalCycles (requires [Atom](https://atom.io/) editor)
 * [TidalUnity](https://github.com/moxuse/tidal-unity), an interface between TidalCycles and Unity 3D
 * [Tidal-Unity](https://github.com/lvm/Tidal-Unity), TidalCycles meets Unity 3D
 * [WavTexture](https://github.com/keijiro/WavTexture), a Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader
-* [CHmUsiCK](https://github.com/essteban/CHmUsiCK), library to make chucK a 'more algorave like' language
-* [REPL Mode](https://github.com/joelmoniz/REPLmode), this mode adds in a Read-Evaluate-Print-Loop console to Processing 3.0
-* [KodeLife](https://hexler.net/software/kodelife), Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad
-* [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer), Live GLSL coding render for MacOS and Linux
 
 
 ## To Watch
@@ -87,6 +93,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [TidalCycles Youtube Channel](https://www.youtube.com/channel/UCG5Ynx9mvouuSHYEyxaJ0Cg), Official channel of the TidalCycles collective
 * [SuperCollider Tutorials](https://www.youtube.com/playlist?list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC), a video series by Eli Fieldsteel
 * [Hacking Choreography](https://www.youtube.com/watch?v=hoV01_P6PGw), a live coded dance performance
+
 
 ## To Read
 
@@ -123,6 +130,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding), :art: Creative Coding, Generative Art, Interaction Design, Resources
 * [Awesome Audio visualization](https://github.com/willianjusten/awesome-audio-visualization), a curated list about Audio Visualization
 * [Awesome Music](https://github.com/ciconia/awesome-music), a categorized collection of awesome music libraries, tools, frameworks and software.
+
 
 ## License
 
