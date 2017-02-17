@@ -55,8 +55,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [re<urse](https://github.com/carrierdown/recurse), a language for generating musical patterns.  `Windows | OS X | GNU/Linux` `TypeScript` `FLOSS`
 * [Sonic Pi](http://sonic-pi.net/), the Live Coding music synth for everyone. `Windows | OS X | GNU/Linux` `Ruby` `Supercollider` `FLOSS`
 * [SuperCollider](http://supercollider.github.io/), a platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound. `Windows | OS X | GNU/Linux` `FLOSS`
+* [synth-x](https://github.com/luiscript/synth-x), an experimental live coding environment for making music created with modern web technologies `Windows | OS X | GNU/Linux` `JavaScript` `nodejs`
 * [TidalCycles](https://tidalcycles.org/), is a language for Live Coding pattern. `Windows | OS X | GNU/Linxux` `Haskell` `Supercollider` `FLOSS`
 * [vvvv](https://vvvv.org/),  a hybrid visual/textual live-programming environment for easy prototyping and development.  `Windows | OS X | GNU/Linux` `visual-language` `Freeware | Commercial`
+* [Wulfcode](https://github.com/echolevel/wulfcode), a Midi live-coding environment for performance or composition `OS X | Windows* | GNU/Linux*` `FLOSS`
 * [xi](https://github.com/xi-livecode), a domain-specific language for Live Coding musical patterns in Ruby. `Windows | OS X | GNU/Linux` `Ruby` `Supercollider` `FLOSS`
 
 
@@ -66,7 +68,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 * [Arcadia](https://arcadia-unity.github.io/), live coding Clojure in Unity3D
 * [CHmUsiCK](https://github.com/essteban/CHmUsiCK), library to make chucK a 'more algorave like' language
-* [dafxpipe](https://github.com/nwoeanhinnogaehr/dafxpipe),  software for live coding audio effects and synths.
+* [dafxpipe](https://github.com/nwoeanhinnogaehr/dafxpipe),  software for live coding audio effects and synths
+* [disclojure](https://github.com/pjagielski/disclojure), a live coding environment for Overtone and Leipzig.
 * [The Force](https://shawnlawson.github.io/The_Force/), webGL live coding performance IDE 
 * [Gibberwocky](https://github.com/charlieroberts/gibberwocky), use Gibber inside Max/MSP and Max4Live
 * [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer), Live GLSL coding render for MacOS and Linux
