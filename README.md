@@ -52,6 +52,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Overtone](http://overtone.github.io/), an open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming. `Windows | OS X | GNU/Linux` `Supercollider` `lisp` `FLOSS`
 * [PraxisLive](http://www.praxislive.org/), hybrid visual IDE for live creative coding `Windows | OS X | GNU/Linux` `Java` `Processing` `GLSL` `graphical-language` `FLOSS`
 * [Pure Data](https://puredata.info/), an open source visual programming language that can be used to process and generate sound, video, 2D/3D graphics, and interface sensors, input devices, and MIDI. `Windows | OS X | GNU/Linux` `graphical-language` `FLOSS`
+* [re<urse](https://github.com/carrierdown/recurse), a language for generating musical patterns.  `Windows | OS X | GNU/Linux` `TypeScript` `FLOSS`
 * [Sonic Pi](http://sonic-pi.net/), the Live Coding music synth for everyone. `Windows | OS X | GNU/Linux` `Ruby` `Supercollider` `FLOSS`
 * [SuperCollider](http://supercollider.github.io/), a platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound. `Windows | OS X | GNU/Linux` `FLOSS`
 * [TidalCycles](https://tidalcycles.org/), is a language for Live Coding pattern. `Windows | OS X | GNU/Linxux` `Haskell` `Supercollider` `FLOSS`
@@ -65,6 +66,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 * [Arcadia](https://arcadia-unity.github.io/), live coding Clojure in Unity3D
 * [CHmUsiCK](https://github.com/essteban/CHmUsiCK), library to make chucK a 'more algorave like' language
+* [dafxpipe](https://github.com/nwoeanhinnogaehr/dafxpipe),  software for live coding audio effects and synths.
 * [The Force](https://shawnlawson.github.io/The_Force/), webGL live coding performance IDE 
 * [Gibberwocky](https://github.com/charlieroberts/gibberwocky), use Gibber inside Max/MSP and Max4Live
 * [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer), Live GLSL coding render for MacOS and Linux
@@ -73,9 +75,11 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [pytebeat](https://github.com/kragen/pytebeat), a piece of software for doing livecoding [bytebeat](http://canonical.org/%7Ekragen/bytebeat/) performances
 * [REPL Mode](https://github.com/joelmoniz/REPLmode), this mode adds in a Read-Evaluate-Print-Loop console to Processing 3.0
 * [s2hs2](https://github.com/yecto/s2hs2-TidalCycles-0.8-), an interface between TidalCycles and Processing
+* [sonic-pixels](https://github.com/emlyn/sonic-pixels), interactive lighting effects for Sonic Pi
 * [tidal-autocode](https://atom.io/packages/tidal-autocode), auto-generates patterns for TidalCycles (requires [Atom](https://atom.io/) editor)
 * [TidalUnity](https://github.com/moxuse/tidal-unity), an interface between TidalCycles and Unity 3D
 * [Tidal-Unity](https://github.com/lvm/Tidal-Unity), TidalCycles meets Unity 3D
+* [Troop](https://github.com/Qirky/Troop), real-time collaborative live coding with FoxDot
 * [WavTexture](https://github.com/keijiro/WavTexture), a Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader
 
 
