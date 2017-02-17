@@ -36,6 +36,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 (In Alphabetical Order)
 
+* [afterglow](https://github.com/brunchboy/afterglow), a live-coding lighting controller, building on the Open Lighting Architecture with Clojure and bits of Overtone `Windows | OS X | GNU/Linux` `lisp` `FLOSS` 
 * [Alda](https://github.com/alda-lang/alda), a music programming language for musicians. `Windows | OS X | GNU/Linux` `FLOSS`
 * [ChucK](http://chuck.cs.princeton.edu/), Strongly-timed, Concurrent, and On-the-fly Music Programming Language. `Windows | OS X | GNU/Linux` `FLOSS`
 * [Conductive](http://www.renickbell.net/doku.php?id=conductive),  a set of Haskell libraries for livecoding and real-time music applications. `Windows | OS X | GNU/Linux` `haskell`  `Supercollider` `FLOSS`
@@ -49,6 +50,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [i-score](http://www.i-score.org/), an interactive sequencer that allows live programming of OSC-enabled applications, through a visual language and JavaScript scripting. `Windows | OS X | GNU/Linux` `C++` `FLOSS`
 * [LiveCodeLab](http://livecodelab.net), a web-based language and environment for VJs, musicians and graphic artists. Allows for immediate and engaging run-as-you-type prototyping, also used in education. `Windows | OS X | GNU/Linux` `web` `FLOSS`
 * [Max](https://cycling74.com/products/max/), a visual programming language for media. `Windows | OS X` `graphical-language` `Commercial`
+* [Moonlet](https://github.com/elihugarret/Moonlet), Lua live coding `Windows | GNU/Linux` 
 * [Overtone](http://overtone.github.io/), an open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming. `Windows | OS X | GNU/Linux` `Supercollider` `lisp` `FLOSS`
 * [PraxisLive](http://www.praxislive.org/), hybrid visual IDE for live creative coding `Windows | OS X | GNU/Linux` `Java` `Processing` `GLSL` `graphical-language` `FLOSS`
 * [Pure Data](https://puredata.info/), an open source visual programming language that can be used to process and generate sound, video, 2D/3D graphics, and interface sensors, input devices, and MIDI. `Windows | OS X | GNU/Linux` `graphical-language` `FLOSS`
@@ -70,18 +72,25 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [CHmUsiCK](https://github.com/essteban/CHmUsiCK), library to make chucK a 'more algorave like' language
 * [dafxpipe](https://github.com/nwoeanhinnogaehr/dafxpipe),  software for live coding audio effects and synths
 * [disclojure](https://github.com/pjagielski/disclojure), a live coding environment for Overtone and Leipzig.
+* [EspGrid](https://github.com/d0kt0r0/EspGrid), synchronization and sharing for network music
+* [Extramuros](https://github.com/d0kt0r0/extramuros), language-neutral shared-buffer networked live coding system
 * [The Force](https://shawnlawson.github.io/The_Force/), webGL live coding performance IDE 
 * [Gibberwocky](https://github.com/charlieroberts/gibberwocky), use Gibber inside Max/MSP and Max4Live
 * [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer), Live GLSL coding render for MacOS and Linux
 * [HYLOGEN](https://github.com/sleexyz/hylogen), an embedding of GLSL in Haskell
 * [KodeLife](https://hexler.net/software/kodelife), Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad
+* [LÖVELive](https://github.com/sharow/lovelive), :two_hearts: Live coding framework for LÖVE(2D Game Engine)
 * [pytebeat](https://github.com/kragen/pytebeat), a piece of software for doing livecoding [bytebeat](http://canonical.org/%7Ekragen/bytebeat/) performances
+* [p5-live](https://github.com/yangsu/p5-live), Live Coding for p5.js
 * [REPL Mode](https://github.com/joelmoniz/REPLmode), this mode adds in a Read-Evaluate-Print-Loop console to Processing 3.0
 * [s2hs2](https://github.com/yecto/s2hs2-TidalCycles-0.8-), an interface between TidalCycles and Processing
 * [sonic-pixels](https://github.com/emlyn/sonic-pixels), interactive lighting effects for Sonic Pi
 * [tidal-autocode](https://atom.io/packages/tidal-autocode), auto-generates patterns for TidalCycles (requires [Atom](https://atom.io/) editor)
+* [tidal-chord](https://github.com/fp4me/tidal-chord), an add-on to the amazing live coding project TidalCycles
 * [TidalUnity](https://github.com/moxuse/tidal-unity), an interface between TidalCycles and Unity 3D
 * [Tidal-Unity](https://github.com/lvm/Tidal-Unity), TidalCycles meets Unity 3D
+* [tida1vm](https://github.com/lvm/tida1vm), another TidalCycles environment inside Docker
+* [tidebox](https://github.com/DoubleDensity/tidebox), TidalCycles live coding environment inside a Docker container 
 * [Troop](https://github.com/Qirky/Troop), real-time collaborative live coding with FoxDot
 * [WavTexture](https://github.com/keijiro/WavTexture), a Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader
 
@@ -137,6 +146,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding), :art: Creative Coding, Generative Art, Interaction Design, Resources
 * [Awesome Audio visualization](https://github.com/willianjusten/awesome-audio-visualization), a curated list about Audio Visualization
 * [Awesome Music](https://github.com/ciconia/awesome-music), a categorized collection of awesome music libraries, tools, frameworks and software.
+* [Awesome Live Coding Music](https://github.com/pjagielski/awesome-live-coding-music), a curated list of awesome Music Live Coding Music environments, libraries and talks
 
 
 ## License
