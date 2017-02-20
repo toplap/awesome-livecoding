@@ -17,7 +17,7 @@ This list was created with the intention of giving a quick-glance over the many 
   * [Conferences](#conferences)
   * [Community](#community)
   * [Related lists](#related-lists)
-  * [Thanks](#thanks)
+  * [Acknowledgement](#acknowledgement)
   * [License](#license)
 
 
