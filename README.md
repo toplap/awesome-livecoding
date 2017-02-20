@@ -17,6 +17,7 @@ This list was created with the intention of giving a quick-glance over the many 
   * [Conferences](#conferences)
   * [Community](#community)
   * [Related lists](#related-lists)
+  * [Thanks](#thanks)
   * [License](#license)
 
 
@@ -149,6 +150,11 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Awesome Audio visualization](https://github.com/willianjusten/awesome-audio-visualization), a curated list about Audio Visualization
 * [Awesome Music](https://github.com/ciconia/awesome-music), a categorized collection of awesome music libraries, tools, frameworks and software.
 * [Awesome Live Coding Music](https://github.com/pjagielski/awesome-live-coding-music), a curated list of awesome Music Live Coding Music environments, libraries and talks
+
+
+## Acknowledgement
+
+This has been brought to you by [these contributors](https://github.com/lvm/awesome-livecoding/graphs/contributors).
 
 
 ## License
