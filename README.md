@@ -61,7 +61,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [synth-x](https://github.com/luiscript/synth-x), an experimental live coding environment for making music created with modern web technologies `Windows | OS X | GNU/Linux` `JavaScript` `nodejs`
 * [TidalCycles](https://tidalcycles.org/), is a language for Live Coding pattern. `Windows | OS X | GNU/Linxux` `Haskell` `Supercollider` `FLOSS`
 * [Vivid](http://vivid-synth.com/), Haskell synth live coding `Haskell` `Supercollider`
-* [vvvv](https://vvvv.org/),  a hybrid visual/textual live-programming environment for easy prototyping and development.  `Windows | OS X | GNU/Linux` `visual-language` `Freeware | Commercial`
+* [vvvv](https://vvvv.org/),  a hybrid visual/textual live-programming environment for easy prototyping and development.  `Windows | OS X` `visual-language` `Freeware | Commercial`
 * [Wulfcode](https://github.com/echolevel/wulfcode), a Midi live-coding environment for performance or composition `OS X | Windows* | GNU/Linux*` `FLOSS`
 * [xi](https://github.com/xi-livecode), a domain-specific language for Live Coding musical patterns in Ruby. `Windows | OS X | GNU/Linux` `Ruby` `Supercollider` `FLOSS`
 
@@ -124,6 +124,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Alex McLean's publications](https://slab.org/publications/), Conference papers, book chapters and journal articles
 * [Live Coding Mailing List Archive](https://raw.githubusercontent.com/yaxu/unravelling/master/livecodemlarchive.txt), a piece of history
 * [TOPLAP Wiki](https://toplap.org/wiki/Videos,_Articles_and_Papers), videos, articles, and papers
+* [Collaboration and learning through live coding](http://drops.dagstuhl.de/opus/frontdoor.php?source_opus=4420), Blackwell, Alan ; McLean, Alex ; Noble, James ; Rohrhuber, Julian
 
 
 ## To Dance
