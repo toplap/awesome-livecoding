@@ -156,7 +156,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## Acknowledgement
 
-This has been brought to you by [these contributors](https://github.com/lvm/awesome-livecoding/graphs/contributors).
+This has been brought to you by [these](https://github.com/lvm/awesome-livecoding/issues) [contributors](https://github.com/lvm/awesome-livecoding/graphs/contributors).
 
 
 ## License
