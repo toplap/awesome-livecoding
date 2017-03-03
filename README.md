@@ -156,7 +156,26 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## Acknowledgement
 
-This has been brought to you by [these](https://github.com/lvm/awesome-livecoding/issues) [contributors](https://github.com/lvm/awesome-livecoding/graphs/contributors).
+This has been brought to you by [these](https://github.com/lvm/awesome-livecoding/issues) [contributors](https://github.com/lvm/awesome-livecoding/graphs/contributors).  
+
+### How to contribute?
+
+* Fork this repository  
+* Add the changes you feel appropriate (be it a language, something to read, something to watch, a tool, a conf, etc)  
+* Create a Pull Request with a description of what you've modified  
+* ???  
+* PROFIT !
+
+
+[Here](CONTRIB.md) is a friendly guide of how to proceed.
+
+### Code Of Conduct
+
+This list follows the [Contributor Covenant](http://contributor-covenant.org/) Code of Conduct v1.4.0, available [here](http://contributor-covenant.org/version/1/4/code_of_conduct.txt).
+
+> In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+
+TL;DR: _Be nice to each other_.
 
 
 ## License

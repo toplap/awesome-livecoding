@@ -19,7 +19,7 @@ If everything looks good, your change will be integrated to the list soon enough
 ## Tips and content formatting
 
 * Make sure your suggestion isn't already there
-* New categories or improvements to the existing categorization are welcome.
+* New categories or improvements to the existing categorization are welcome
 * Check your spelling and grammar (nobody is perfect anyway)
 * Make sure your text editor is set to remove trailing whitespace
 * The pull request and commit should be clear of what has been updated
@@ -33,7 +33,7 @@ When adding a new language, make sure that:
 * [Language](http://language.com), brief description of this language. `OS SUPPORTED | SEPARATED BY | A PIPE` `RELEVANT-TAG` `ANOTHER-RELEVANT-TAG` `LICENSE`
 ```
 
-* When adding anything else, make sure that:
+* When adding tool/library, make sure that:
 
 1. Is ordered alphabetically
 2. follows the following format:
@@ -42,7 +42,7 @@ When adding a new language, make sure that:
 ```
 _Note the missing dot (.) at the end of the line_
 
-When adding a tool/library, make sure that:
+When adding a anything else, make sure that:
 
 1. Is added to the bottom of the list
 2. follows the following format:
