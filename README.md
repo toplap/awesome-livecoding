@@ -135,9 +135,9 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## Conferences
 
-* [ICLC](http://iclc.livecodenetwork.org/), International Conference on Live Coding)
-* [FARM](http://functional-art.org/)
-* [ICLI](http://www.liveinterfaces.org/)
+* [ICLC](http://iclc.livecodenetwork.org/), International Conference on Live Coding
+* [FARM](http://functional-art.org/), Workshop on Functional Art, Music, Modeling and Design
+* [ICLI](http://www.liveinterfaces.org/), International Conference on Live Interfaces
 
 ## Community
 
