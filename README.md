@@ -42,11 +42,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [ChucK](http://chuck.cs.princeton.edu/), Strongly-timed, Concurrent, and On-the-fly Music Programming Language. `Windows | OS X | GNU/Linux` `FLOSS`
 * [Conductive](http://www.renickbell.net/doku.php?id=conductive),  a set of Haskell libraries for livecoding and real-time music applications. `Windows | OS X | GNU/Linux` `haskell`  `Supercollider` `FLOSS`
 * [Cyril](http://cyrilcode.com/), a programming language designed for fast prototyping of visualisations and livecoding visuals. `Windows | OS X | GNU/Linux` `openFrameworks` `FLOSS`
-* [Extempore](http://extempore.moso.com.au/), a programming language and runtime environment designed to support 'cyberphysical programming'. `Windows | OS X | GNU/Linux` `lisp` `FLOSS`
+* [Extempore](http://extempore.moso.com.au/), (previously [Impromptu](http://impromptu.moso.com.au/)) a programming language and runtime environment designed to support 'cyberphysical programming'. `Windows | OS X | GNU/Linux` `lisp` `FLOSS`
 * [Fluxus](http://www.pawfal.org/fluxus/), a rapid prototyping, playing and learning environment for 3D graphics, sound and games. `Windows | OS X | GNU/Linux | Android | PS2` `racket-lang` `lisp` `FLOSS`
 * [FoxDot](http://foxdot.org/), Live Coding with Python and SuperCollider. `Windows | OS X | GNU/Linux` `Python` `Supercollider` `FLOSS`
 * [Gibber](http://charlie-roberts.com/gibber/), creative coding for JavaScript. `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS`
-* [Impromptu](http://impromptu.moso.com.au/), an OSX programming language and environment for composers, sound artists, VJ's and graphic artists with an interest in live or interactive programming. `OS X` `lisp` `Closed source`
 * [ixi lang](http://www.ixi-audio.net/), an experimental project concerned with the creation of digital musical instruments and environments for generative music. `Windows | OS X | GNU/Linux` `Supercollider`
 * [i-score](http://www.i-score.org/), an interactive sequencer that allows live programming of OSC-enabled applications, through a visual language and JavaScript scripting. `Windows | OS X | GNU/Linux` `C++` `FLOSS`
 * [LiveCodeLab](http://livecodelab.net), a web-based language and environment for VJs, musicians and graphic artists. Allows for immediate and engaging run-as-you-type prototyping, also used in education. `Windows | OS X | GNU/Linux` `web` `FLOSS`
