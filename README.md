@@ -125,6 +125,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Live Coding Mailing List Archive](https://raw.githubusercontent.com/yaxu/unravelling/master/livecodemlarchive.txt), a piece of history
 * [TOPLAP Wiki](https://toplap.org/wiki/Videos,_Articles_and_Papers), videos, articles, and papers
 * [Collaboration and learning through live coding](http://drops.dagstuhl.de/opus/frontdoor.php?source_opus=4420), Blackwell, Alan ; McLean, Alex ; Noble, James ; Rohrhuber, Julian
+* [howto_co34pt_liveCode](https://theseanco.github.io/howto_co34pt_liveCode/), Guide on how to live code in SuperCollider based on the performance practice of live coder coï¿¥ï¾¡pt
 
 
 ## To Dance
