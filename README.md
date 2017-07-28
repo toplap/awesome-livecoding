@@ -87,6 +87,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [pytebeat](https://github.com/kragen/pytebeat), a piece of software for doing livecoding [bytebeat](http://canonical.org/%7Ekragen/bytebeat/) performances
 * [p5-live](https://github.com/yangsu/p5-live), Live Coding for p5.js
 * [REPL Mode](https://github.com/joelmoniz/REPLmode), this mode adds in a Read-Evaluate-Print-Loop console to Processing 3.0
+* [Republic](https://github.com/supercollider-quarks/Republic), SuperCollider library for conversational coding
 * [s2hs2](https://github.com/yecto/s2hs2-TidalCycles-0.8-), an interface between TidalCycles and Processing
 * [sonic-pixels](https://github.com/emlyn/sonic-pixels), interactive lighting effects for Sonic Pi
 * [tidal-autocode](https://atom.io/packages/tidal-autocode), auto-generates patterns for TidalCycles (requires [Atom](https://atom.io/) editor)
@@ -113,6 +114,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [TidalCycles Youtube Channel](https://www.youtube.com/channel/UCG5Ynx9mvouuSHYEyxaJ0Cg), Official channel of the TidalCycles collective
 * [SuperCollider Tutorials](https://www.youtube.com/playlist?list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC), a video series by Eli Fieldsteel
 * [Hacking Choreography](https://www.youtube.com/watch?v=hoV01_P6PGw), a live coded dance performance
+* [PBUP - a patchwork portrait](https://www.youtube.com/playlist?list=PLKRUGJaqJkAfU_PaYUeiRzD5qh5tkwvdj), a documentary about PowerBooks UnPlugged, "the first acoustic computer band".
 
 
 ## To Read
