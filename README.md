@@ -148,6 +148,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [LURK](http://lurk.org/), a  host for discussions around cultural freedom, experimental, new media art, net and computational culture, and things like that `Mailing List`
 * [POTAC](https://medium.com/potac), Programing of The Art Computer, `Weblog`
 * [/r/livecoding](https://www.reddit.com/r/livecoding/), the Live Coding subreddit 
+* [LiveCoders](https://github.com/toplap/livecoders/), a semi-curated list of people doing live coding in the performing arts
 
 
 ## Related lists
