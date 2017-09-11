@@ -73,6 +73,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 * [Arcadia](https://arcadia-unity.github.io/), live coding Clojure in Unity3D
 * [CHmUsiCK](https://github.com/essteban/CHmUsiCK), library to make chucK a 'more algorave like' language
+* [cl-collider](https://github.com/byulparan/cl-collider), A SuperCollider client for CommonLisp.
 * [dafxpipe](https://github.com/nwoeanhinnogaehr/dafxpipe),  software for live coding audio effects and synths
 * [disclojure](https://github.com/pjagielski/disclojure), a live coding environment for Overtone and Leipzig.
 * [EspGrid](https://github.com/d0kt0r0/EspGrid), synchronization and sharing for network music
