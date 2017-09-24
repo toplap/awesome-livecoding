@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> livecoding </h1>
+<h1 align="center"> livecoding <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> </h1>
 
 ## All things livecoding
 
