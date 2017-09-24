@@ -6,7 +6,7 @@
 
 This list was created with the intention of giving a quick-glance over the many possibilities to engage in this practice. For further information, head over to [TOPLAP](https://toplap.org).
 
-**Table of Contents**
+**Contents**
 
 - [All things livecoding](#all-things-livecoding)
   * [What is livecoding?](#what-is-livecoding)
