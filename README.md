@@ -177,7 +177,7 @@ This has been brought to you by [these](https://github.com/lvm/awesome-livecodin
 * PROFIT !
 
 
-[Here](CONTRIB.md) is a friendly guide of how to proceed.
+[Here](contributing.md) is a friendly guide of how to proceed.
 
 ### Code Of Conduct
 
