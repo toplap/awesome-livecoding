@@ -8,8 +8,8 @@ This list was created with the intention of giving a quick-glance over the many 
 
 **Contents**
 
-- [All things livecoding](#all-things-livecoding)
-  * [What is livecoding?](#what-is-livecoding)
+- [All things live coding](#all-things-livecoding)
+  * [What is live coding?](#what-is-livecoding)
   * [Websites](#websites)
   * [Languages](#languages)
   * [Libraries and tools](#libraries-and-tools)
