@@ -58,6 +58,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Pure Data](https://puredata.info/), an open source visual programming language that can be used to process and generate sound, video, 2D/3D graphics, and interface sensors, input devices, and MIDI. `Windows | macOS | GNU/Linux` `graphical-language` `FLOSS`
 * [re<urse](https://github.com/carrierdown/recurse), a language for generating musical patterns.  `Windows | macOS | GNU/Linux` `TypeScript` `FLOSS`
 * [serialist](https://github.com/irritant/serialist), a live coding environment that generates MIDI messages. `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS`
+* [Skoar](https://github.com/sofakid/Skoarcery), a high-level language for coding music with SuperCollider. `Windows | macOS | GNU/Linux` `SuperCollider` `Python` `FLOSS`
 * [Sonic Pi](http://sonic-pi.net/), the Live Coding music synth for everyone. `Windows | macOS | GNU/Linux` `Ruby` `Supercollider` `FLOSS`
 * [SuperCollider](http://supercollider.github.io/), a platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound. `Windows | macOS | GNU/Linux` `FLOSS`
 * [synth-x](https://github.com/luiscript/synth-x), an experimental live coding environment for making music created with modern web technologies `Windows | macOS | GNU/Linux` `JavaScript` `nodejs`
@@ -84,6 +85,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [The Force](https://shawnlawson.github.io/The_Force/), webGL live coding performance IDE 
 * [Gibberwocky](https://github.com/charlieroberts/gibberwocky), use Gibber inside Max/MSP and Max4Live
 * [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer), Live GLSL coding render for MacOS and Linux
+* [hsc3](https://hackage.haskell.org/package/hsc3), a Haskell SuperCollider client
 * [HYLOGEN](https://github.com/sleexyz/hylogen), an embedding of GLSL in Haskell
 * [incudine](http://incudine.sourceforge.net), Music/DSP programming environment for Common Lisp
 * [isobar](https://github.com/ideoforms/isobar), a Python library for algorithmic composition by expressing and constructing musical patterns
