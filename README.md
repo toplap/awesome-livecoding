@@ -145,6 +145,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 * [Algorave](https://algorave.com/), embrace the alien sounds of raves from the past, and introduce alien, futuristic rhythms and beats made through strange, algorithm-aided processes.
 * [Eulerroom](http://www.eulerroom.com/), algorithmic music streams, mainly live coded and/or algorave but possibly also stranger things.
+* [Algorave Guidelines](https://github.com/Algorave/guidelines), guidelines to host an Algorave.
 
 ## Conferences
 
