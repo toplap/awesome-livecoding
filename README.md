@@ -57,7 +57,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [PraxisLive](http://www.praxislive.org/), hybrid visual IDE for live creative coding. `Windows | macOS | GNU/Linux` `Java` `Processing` `GLSL` `graphical-language` `FLOSS`
 * [Pure Data](https://puredata.info/), an open source visual programming language that can be used to process and generate sound, video, 2D/3D graphics, and interface sensors, input devices, and MIDI. `Windows | macOS | GNU/Linux` `graphical-language` `FLOSS`
 * [re<urse](https://github.com/carrierdown/recurse), a language for generating musical patterns.  `Windows | macOS | GNU/Linux` `TypeScript` `FLOSS`
-* [Repetition.sc](https://github.com/lvm/Repetition.sc), a dsl for generating rhythmical patterns. `Windows | macOS | GNU/Linux` `Supercollider`
+* [Repetition.sc](https://github.com/lvm/Repetition.sc), a mini-lang for generating rhythmical patterns. `Windows | macOS | GNU/Linux` `Supercollider` `FLOSS`
 * [serialist](https://github.com/irritant/serialist), a live coding environment that generates MIDI messages. `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS`
 * [Skoar](https://github.com/sofakid/Skoarcery), a high-level language for coding music with SuperCollider. `Windows | macOS | GNU/Linux` `SuperCollider` `Python` `FLOSS`
 * [Sonic Pi](http://sonic-pi.net/), the Live Coding music synth for everyone. `Windows | macOS | GNU/Linux` `Ruby` `Supercollider` `FLOSS`
