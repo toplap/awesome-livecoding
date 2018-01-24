@@ -88,6 +88,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Gibberwocky](https://github.com/charlieroberts/gibberwocky), use Gibber inside Max/MSP and Max4Live.
 * [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer), Live GLSL coding render for MacOS and Linux.
 * [hsc3](https://hackage.haskell.org/package/hsc3), a Haskell SuperCollider client.
+* [hydra](https://github.com/ojack/hydra), Live Coding networked visuals in the browser.
 * [HYLOGEN](https://github.com/sleexyz/hylogen), an embedding of GLSL in Haskell.
 * [incudine](http://incudine.sourceforge.net), Music/DSP programming environment for Common Lisp.
 * [isobar](https://github.com/ideoforms/isobar), a Python library for algorithmic composition by expressing and constructing musical patterns.
