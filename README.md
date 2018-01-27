@@ -77,6 +77,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 (Also in Alphabetical Order)
 
 * [Arcadia](https://arcadia-unity.github.io/), live coding Clojure in Unity3D.
+* [Bonzomatic](https://github.com/Gargaj/Bonzomatic), GLSL and HLSL live coding environment, originally designed for live coding competitions at demoparties.
 * [CHmUsiCK](https://github.com/essteban/CHmUsiCK), library to make chucK a 'more algorave like' language.
 * [cl-collider](https://github.com/byulparan/cl-collider), A SuperCollider client for CommonLisp.
 * [dafxpipe](https://github.com/nwoeanhinnogaehr/dafxpipe),  software for live coding audio effects and synths.
