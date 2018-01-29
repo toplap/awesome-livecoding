@@ -95,6 +95,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [isobar](https://github.com/ideoforms/isobar), a Python library for algorithmic composition by expressing and constructing musical patterns.
 * [KodeLife](https://hexler.net/software/kodelife), Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
 * [LÖVELive](https://github.com/sharow/lovelive), :two_hearts: Live coding framework for LÖVE(2D Game Engine).
+* [Petal](https://github.com/siaflab/petal), a small language on Sonic Pi with similar syntax to TidalCycles.
 * [pytebeat](https://github.com/kragen/pytebeat), a piece of software for doing livecoding [bytebeat](http://canonical.org/%7Ekragen/bytebeat/) performances.
 * [p5-live](https://github.com/yangsu/p5-live), Live Coding for p5.js.
 * [REPL Mode](https://github.com/joelmoniz/REPLmode), this mode adds in a Read-Evaluate-Print-Loop console to Processing 3.0.
