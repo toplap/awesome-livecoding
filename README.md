@@ -102,8 +102,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Republic](https://github.com/supercollider-quarks/Republic), SuperCollider library for conversational coding.
 * [s2hs2](https://github.com/yecto/s2hs2-TidalCycles-0.8-), an interface between TidalCycles and Processing.
 * [sonic-pixels](https://github.com/emlyn/sonic-pixels), interactive lighting effects for Sonic Pi.
+* [SpectralTricks](https://github.com/datamads/SpectralTricks), a haskell package adding spectral effects to Tidal.
 * [tidal-autocode](https://atom.io/packages/tidal-autocode), auto-generates patterns for TidalCycles (requires [Atom](https://atom.io/) editor).
 * [tidal-chord](https://github.com/fp4me/tidal-chord), an add-on to the amazing live coding project TidalCycles.
+* [tidal-maxmsp](https://github.com/datamads/tidal-maxmsp), connecting the Tidal live coding environment to MaxMSP.
 * [TidalUnity](https://github.com/moxuse/tidal-unity), an interface between TidalCycles and Unity 3D.
 * [Tidal-Unity](https://github.com/lvm/Tidal-Unity), TidalCycles meets Unity 3D.
 * [tida1vm](https://github.com/lvm/tida1vm), another TidalCycles environment inside Docker.
