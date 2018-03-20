@@ -112,6 +112,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [tida1vm](https://github.com/lvm/tida1vm), another TidalCycles environment inside Docker.
 * [tidebox](https://github.com/DoubleDensity/tidebox), TidalCycles live coding environment inside a Docker container. 
 * [Troop](https://github.com/Qirky/Troop), real-time collaborative live coding with FoxDot.
+* [VEDA](https://veda.gl/), Real-time GLSL editor for Atom.
 * [WavTexture](https://github.com/keijiro/WavTexture), a Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader.
 
 
