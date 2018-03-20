@@ -1,4 +1,4 @@
-<h1 align="center"> Live coding <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> </h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/toplap/awesome-livecoding/images/toplap-small.png" alt="TOPLAP Logo"> </h1>
 
 ## All things live coding
 
@@ -161,8 +161,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## Community
 
-* [LiveCode Slack](http://live-code-slack.herokuapp.com/), enter your email address and you're [ready to go](https://livecode.slack.com/)!. `chat`
-* [LURK](http://lurk.org/), a  host for discussions around cultural freedom, experimental, new media art, net and computational culture, and things like that. `Mailing List`
+* [We.LURK](http://we.lurk.org/), a host for discussions around cultural freedom, experimental, new media art, net and computational culture, and things like that. `Mailing List`
+* [Talk.LURK](https://talk.lurk.org/), self-hosted + open-source + slack-like service. `Chat`
 * [POTAC](https://medium.com/potac), Programing of The Art Computer. `Weblog`
 * [/r/livecoding](https://www.reddit.com/r/livecoding/), the Live Coding subreddit. 
 * [LiveCoders](https://github.com/toplap/livecoders/), a semi-curated list of people doing live coding in the performing arts.
