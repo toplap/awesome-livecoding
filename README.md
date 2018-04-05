@@ -177,6 +177,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Awesome Music](https://github.com/ciconia/awesome-music), a categorized collection of awesome music libraries, tools, frameworks and software.
 * [Awesome Live Coding Music](https://github.com/pjagielski/awesome-live-coding-music), a curated list of awesome Music Live Coding Music environments, libraries and talks.
 * [Programming Languages Used for Music](http://www.nosuch.com/plum/cgi/showlist.cgi?sort=name&concise=yes), an historical list of languages to produce music.
+* [awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp), a curated list of Oli Larkin's favourite music DSP and audio plug-in frameworks.
 
 
 ## Acknowledgement
