@@ -53,6 +53,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [LiveCodeLab](http://livecodelab.net), a web-based language and environment for VJs, musicians and graphic artists. Allows for immediate and engaging run-as-you-type prototyping, also used in education. `Windows | macOS | GNU/Linux` `web` `FLOSS` `visuals` `audio`
 * [Max](https://cycling74.com/products/max/), a visual programming language for media. `Windows | macOS` `graphical-language` `Commercial` `audio` `visuals`
 * [Moonlet](https://github.com/elihugarret/Moonlet), Lua live coding. `Windows | GNU/Linux` `audio`
+* [Negasonic](https://github.com/merongivian/negasonic) Live coding in the browser with Ruby. `Google Chrome | Mozilla Firefox` `web` `Ruby` `FLOSS` `audio`
 * [Overtone](http://overtone.github.io/), an open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming. `Windows | macOS | GNU/Linux` `Supercollider` `lisp` `FLOSS` `audio`
 * [PraxisLive](http://www.praxislive.org/), hybrid visual IDE for live creative coding. `Windows | macOS | GNU/Linux` `Java` `Processing` `GLSL` `graphical-language` `FLOSS` `visuals` `audio`
 * [Pure Data](https://puredata.info/), an open source visual programming language that can be used to process and generate sound, video, 2D/3D graphics, and interface sensors, input devices, and MIDI. `Windows | macOS | GNU/Linux` `graphical-language` `FLOSS` `audio` `visuals`
