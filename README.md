@@ -51,8 +51,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [ixi lang](http://www.ixi-audio.net/), an experimental project concerned with the creation of digital musical instruments and environments for generative music. `Windows | macOS | GNU/Linux` `Supercollider` `audio`
 * [i-score](http://www.i-score.org/), an interactive sequencer that allows live programming of OSC-enabled applications, through a visual language and JavaScript scripting. `Windows | macOS | GNU/Linux` `C++` `FLOSS` `audio`
 * [LiveCodeLab](http://livecodelab.net), a web-based language and environment for VJs, musicians and graphic artists. Allows for immediate and engaging run-as-you-type prototyping, also used in education. `Windows | macOS | GNU/Linux` `web` `FLOSS` `visuals` `audio`
+* [Lua], dynamically typed programming/scripting language, live coding possible using [ZeroBrane Studio](http://studio.zerobrane.com/) editor
 * [Max](https://cycling74.com/products/max/), a visual programming language for media. `Windows | macOS` `graphical-language` `Commercial` `audio` `visuals`
-* [Moonlet](https://github.com/elihugarret/Moonlet), Lua live coding. `Windows | GNU/Linux` `audio`
 * [Negasonic](https://github.com/merongivian/negasonic) Live coding in the browser with Ruby. `Google Chrome | Mozilla Firefox` `web` `Ruby` `FLOSS` `audio`
 * [Overtone](http://overtone.github.io/), an open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming. `Windows | macOS | GNU/Linux` `Supercollider` `lisp` `FLOSS` `audio`
 * [PraxisLive](http://www.praxislive.org/), hybrid visual IDE for live creative coding. `Windows | macOS | GNU/Linux` `Java` `Processing` `GLSL` `graphical-language` `FLOSS` `visuals` `audio`
@@ -88,6 +88,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Fragment](https://www.fsynth.com), collaborative live GLSL coding environment, additive/spectral/granular synthesizer.
 * [The Force](https://shawnlawson.github.io/The_Force/), webGL live coding performance IDE. 
 * [Gibberwocky](https://github.com/charlieroberts/gibberwocky), use Gibber inside Max/MSP and Max4Live.
+* [Gideros](http://giderosmobile.com/), Lua 2d game engine with live coding using the [ZeroBrane Studio (http://studio.zerobrane.com/) Lua editor
 * [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer), Live GLSL coding render for MacOS and Linux.
 * [hsc3](https://hackage.haskell.org/package/hsc3), a Haskell SuperCollider client.
 * [hydra](https://github.com/ojack/hydra), Live Coding networked visuals in the browser.
@@ -95,7 +96,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [incudine](http://incudine.sourceforge.net), Music/DSP programming environment for Common Lisp.
 * [isobar](https://github.com/ideoforms/isobar), a Python library for algorithmic composition by expressing and constructing musical patterns.
 * [KodeLife](https://hexler.net/software/kodelife), Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
-* [LÖVELive](https://github.com/sharow/lovelive), :two_hearts: Live coding framework for LÖVE(2D Game Engine).
+* [LÖVELive](https://github.com/sharow/lovelive), :two_hearts: Live coding framework for LÖVE(2D Game Engine) using the Lua language.
+* [Moonlet](https://github.com/elihugarret/Moonlet), Lua live coding using the [ZeroBrane Studio](http://studio.zerobrane.com/) lua editor. `Windows | GNU/Linux` `audio`
 * [Petal](https://github.com/siaflab/petal), a small language on Sonic Pi with similar syntax to TidalCycles.
 * [pytebeat](https://github.com/kragen/pytebeat), a piece of software for doing livecoding [bytebeat](http://canonical.org/%7Ekragen/bytebeat/) performances.
 * [p5-live](https://github.com/yangsu/p5-live), Live Coding for p5.js.
@@ -115,6 +117,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Troop](https://github.com/Qirky/Troop), real-time collaborative live coding with FoxDot.
 * [VEDA](https://veda.gl/), Real-time GLSL editor for Atom.
 * [WavTexture](https://github.com/keijiro/WavTexture), a Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader.
+* [ZeroBrane Studio](http://studio.zerobrane.com/), editor that allows live coding the Lua language, see [live coding with ZeroBrane Studio](https://studio.zerobrane.com/documentation#live-coding)
 
 
 ## To Watch
