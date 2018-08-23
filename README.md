@@ -88,6 +88,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Fragment](https://www.fsynth.com), collaborative live GLSL coding environment, additive/spectral/granular synthesizer.
 * [The Force](https://shawnlawson.github.io/The_Force/), webGL live coding performance IDE. 
 * [Gibberwocky](https://github.com/charlieroberts/gibberwocky), use Gibber inside Max/MSP and Max4Live.
+* [Gideros](http://giderosmobile.com/), Lua 2D game engine with live coding capabilities.
 * [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer), Live GLSL coding render for MacOS and Linux.
 * [hsc3](https://hackage.haskell.org/package/hsc3), a Haskell SuperCollider client.
 * [hydra](https://github.com/ojack/hydra), Live Coding networked visuals in the browser.
@@ -115,6 +116,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Troop](https://github.com/Qirky/Troop), real-time collaborative live coding with FoxDot.
 * [VEDA](https://veda.gl/), Real-time GLSL editor for Atom.
 * [WavTexture](https://github.com/keijiro/WavTexture), a Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader.
+* [ZeroBrane Studio](http://studio.zerobrane.com/), editor that allows live coding using Lua language.
 
 
 ## To Watch
