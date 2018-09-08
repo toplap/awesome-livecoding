@@ -97,6 +97,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [isobar](https://github.com/ideoforms/isobar), a Python library for algorithmic composition by expressing and constructing musical patterns.
 * [KodeLife](https://hexler.net/software/kodelife), Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
 * [LÖVELive](https://github.com/sharow/lovelive), :two_hearts: Live coding framework for LÖVE(2D Game Engine).
+* [Lua2SC](https://github.com/sonoro1234/Lua2SC),  Lua client for supercollider scsynth and supernova.
 * [Petal](https://github.com/siaflab/petal), a small language on Sonic Pi with similar syntax to TidalCycles.
 * [pytebeat](https://github.com/kragen/pytebeat), a piece of software for doing livecoding [bytebeat](http://canonical.org/%7Ekragen/bytebeat/) performances.
 * [p5-live](https://github.com/yangsu/p5-live), Live Coding for p5.js.
@@ -106,6 +107,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Siren](https://github.com/cannc4/Siren/), a tracker interface that embodies abstractions where programming is realized as the medium for pattern sequencing in a modular fashion.
 * [sonic-pixels](https://github.com/emlyn/sonic-pixels), interactive lighting effects for Sonic Pi.
 * [SpectralTricks](https://github.com/datamads/SpectralTricks), a haskell package adding spectral effects to Tidal.
+* [Supriya](https://github.com/josiah-wolf-oberholtzer/supriya), A Python API for SuperCollider.
 * [tidal-autocode](https://atom.io/packages/tidal-autocode), auto-generates patterns for TidalCycles (requires [Atom](https://atom.io/) editor).
 * [tidal-chord](https://github.com/fp4me/tidal-chord), an add-on to the amazing live coding project TidalCycles.
 * [tidal-maxmsp](https://github.com/datamads/tidal-maxmsp), connecting the Tidal live coding environment to MaxMSP.
