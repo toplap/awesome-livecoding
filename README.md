@@ -98,6 +98,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [KodeLife](https://hexler.net/software/kodelife), Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
 * [LÖVELive](https://github.com/sharow/lovelive), :two_hearts: Live coding framework for LÖVE(2D Game Engine).
 * [Lua2SC](https://github.com/sonoro1234/Lua2SC),  Lua client for supercollider scsynth and supernova.
+* [ORCΛ](https://wiki.xxiivv.com/#orca), Each letter of the alphabet is an operation, where lowercase letters operate on bang, uppercase letters operate each frame. Also on [Github](https://github.com/hundredrabbits/Orca).
 * [Petal](https://github.com/siaflab/petal), a small language on Sonic Pi with similar syntax to TidalCycles.
 * [pytebeat](https://github.com/kragen/pytebeat), a piece of software for doing livecoding [bytebeat](http://canonical.org/%7Ekragen/bytebeat/) performances.
 * [p5-live](https://github.com/yangsu/p5-live), Live Coding for p5.js.
