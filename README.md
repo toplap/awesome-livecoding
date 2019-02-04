@@ -122,6 +122,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [VEDA](https://veda.gl/), Real-time GLSL editor for Atom.
 * [WavTexture](https://github.com/keijiro/WavTexture), a Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader.
 * [ZeroBrane Studio](http://studio.zerobrane.com/), editor that allows live coding using Lua language.
+* [blink](https://github.com/crosire/blink), a library which allows you to edit source code of any Windows C++ project live at runtime.
+* [jet-live](https://github.com/ddovod/jet-live), a library which implements c++ hot code reload approach for Linux and macOS
 
 
 ## To Watch
