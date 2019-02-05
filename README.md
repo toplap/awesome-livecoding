@@ -80,6 +80,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 (Also in Alphabetical Order)
 
 * [Arcadia](https://arcadia-unity.github.io/), live coding Clojure in Unity3D.
+* [blink](https://github.com/crosire/blink), a library which allows you to edit source code of any Windows C++ project live at runtime.
 * [Bonzomatic](https://github.com/Gargaj/Bonzomatic), GLSL and HLSL live coding environment, originally designed for live coding competitions at demoparties.
 * [CHmUsiCK](https://github.com/essteban/CHmUsiCK), library to make chucK a 'more algorave like' language.
 * [cl-collider](https://github.com/byulparan/cl-collider), A SuperCollider client for CommonLisp.
@@ -97,6 +98,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [HYLOGEN](https://github.com/sleexyz/hylogen), an embedding of GLSL in Haskell.
 * [incudine](http://incudine.sourceforge.net), Music/DSP programming environment for Common Lisp.
 * [isobar](https://github.com/ideoforms/isobar), a Python library for algorithmic composition by expressing and constructing musical patterns.
+* [jet-live](https://github.com/ddovod/jet-live), a library which implements c++ hot code reload approach for Linux and macOS.
 * [KodeLife](https://hexler.net/software/kodelife), Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
 * [LÖVELive](https://github.com/sharow/lovelive), :two_hearts: Live coding framework for LÖVE(2D Game Engine).
 * [Lua2SC](https://github.com/sonoro1234/Lua2SC),  Lua client for supercollider scsynth and supernova.
