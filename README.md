@@ -194,6 +194,30 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 This has been brought to you by [these](https://github.com/lvm/awesome-livecoding/issues) [contributors](https://github.com/lvm/awesome-livecoding/graphs/contributors).  
 
+ [<img src="https://avatars1.githubusercontent.com/u/34095?v=4" height=50 width=50>](https://github.com/lvm) 
+ [<img src="https://avatars0.githubusercontent.com/u/27940?v=4" height=50 width=50>](https://github.com/yaxu) 
+ [<img src="https://avatars3.githubusercontent.com/u/6239104?v=4" height=50 width=50>](https://github.com/sicchio) 
+ [<img src="https://avatars0.githubusercontent.com/u/9406025?v=4" height=50 width=50>](https://github.com/ddovod) 
+ [<img src="https://avatars3.githubusercontent.com/u/2441179?v=4" height=50 width=50>](https://github.com/grz0zrg) 
+ [<img src="https://avatars1.githubusercontent.com/u/194295?v=4" height=50 width=50>](https://github.com/charlieroberts) 
+ [<img src="https://avatars3.githubusercontent.com/u/1347511?v=4" height=50 width=50>](https://github.com/ajrussellaudio) 
+ [<img src="https://avatars1.githubusercontent.com/u/151947?v=4" height=50 width=50>](https://github.com/hellocatfood) 
+ [<img src="https://avatars0.githubusercontent.com/u/332104?v=4" height=50 width=50>](https://github.com/neuromancer85) 
+ [<img src="https://avatars3.githubusercontent.com/u/5509162?v=4" height=50 width=50>](https://github.com/bobvanluijt) 
+ [<img src="https://avatars2.githubusercontent.com/u/10728495?v=4" height=50 width=50>](https://github.com/claudeha) 
+ [<img src="https://avatars0.githubusercontent.com/u/769568?v=4" height=50 width=50>](https://github.com/davidedc) 
+ [<img src="https://avatars1.githubusercontent.com/u/130388?v=4" height=50 width=50>](https://github.com/mortuosplango) 
+ [<img src="https://avatars3.githubusercontent.com/u/2772730?v=4" height=50 width=50>](https://github.com/jcelerier) 
+ [<img src="https://avatars3.githubusercontent.com/u/4277403?v=4" height=50 width=50>](https://github.com/merongivian) 
+ [<img src="https://avatars0.githubusercontent.com/u/1670657?v=4" height=50 width=50>](https://github.com/kostik1337) 
+ [<img src="https://avatars3.githubusercontent.com/u/8597971?v=4" height=50 width=50>](https://github.com/theseanco) 
+ [<img src="https://avatars3.githubusercontent.com/u/190164?v=4" height=50 width=50>](https://github.com/smokris) 
+ [<img src="https://avatars3.githubusercontent.com/u/1403842?v=4" height=50 width=50>](https://github.com/fand) 
+ [<img src="https://avatars3.githubusercontent.com/u/2867036?v=4" height=50 width=50>](https://github.com/azimut) 
+ [<img src="https://avatars3.githubusercontent.com/u/3853086?v=4" height=50 width=50>](https://github.com/keszegh) 
+ [<img src="https://avatars1.githubusercontent.com/u/15203140?v=4" height=50 width=50>](https://github.com/paullucas) 
+ [<img src="https://avatars3.githubusercontent.com/u/22543694?v=4" height=50 width=50>](https://github.com/iyzsong) 
+
 ### How to contribute?
 
 * Fork this repository.  
