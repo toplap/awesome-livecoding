@@ -64,6 +64,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [serialist](https://github.com/irritant/serialist), a live coding environment that generates MIDI messages. `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `audio`
 * [Skoar](https://github.com/sofakid/Skoarcery), a high-level language for coding music with SuperCollider. `Windows | macOS | GNU/Linux` `SuperCollider` `Python` `FLOSS` `audio`
 * [Sonic Pi](http://sonic-pi.net/), the Live Coding music synth for everyone. `Windows | macOS | GNU/Linux` `Ruby` `Supercollider` `FLOSS` `audio`
+* [Speccy](https://chr15m.github.io/speccy), live code 8-bit algorave in ClojureScript. `Windows | macOS | GNU/Linux` `web` `FLOSS` `audio` `lisp`
 * [Steno](https://github.com/musikinformatik/Steno), Concatenative little metalanguage for live coding. `Windows | macOS | GNU/Linux` `Supercollider`  `audio`
 * [SuperCollider](http://supercollider.github.io/), a platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound. `Windows | macOS | GNU/Linux` `FLOSS` `audio`
 * [synth-x](https://github.com/luiscript/synth-x), an experimental live coding environment for making music created with modern web technologies. `Windows | macOS | GNU/Linux` `JavaScript` `nodejs` `audio`
