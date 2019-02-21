@@ -69,6 +69,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [SuperCollider](http://supercollider.github.io/), a platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound. `Windows | macOS | GNU/Linux` `FLOSS` `audio`
 * [synth-x](https://github.com/luiscript/synth-x), an experimental live coding environment for making music created with modern web technologies. `Windows | macOS | GNU/Linux` `JavaScript` `nodejs` `audio`
 * [TidalCycles](https://tidalcycles.org/), is a language for Live Coding pattern. `Windows | macOS | GNU/Linxux` `Haskell` `Supercollider` `FLOSS` `audio`
+* [TimeLines](https://github.com/lnfiniteMonkeys/TimeLines), a modular synthesizer for live coding the flow of time. `Windows | macOS | Gnu/LINUX` `Haskell` `SuperCollider` `audio`
 * [Vivid](http://vivid-synth.com/), Haskell synth live coding. `Haskell` `Supercollider` `audio`
 * [Vuo](https://vuo.org), a realtime visual programming language for interactive media. `macOS` `visual-language` `FLOSS | Commercial` `visuals`
 * [vvvv](https://vvvv.org/),  a hybrid visual/textual live-programming environment for easy prototyping and development.  `Windows` `visual-language` `Freeware | Commercial` `visuals`
