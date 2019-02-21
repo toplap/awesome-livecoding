@@ -43,38 +43,38 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [Alda](https://github.com/alda-lang/alda), a music programming language for musicians. `Windows | macOS | GNU/Linux` `FLOSS` `audio`
 * [ChucK](http://chuck.cs.princeton.edu/), Strongly-timed, Concurrent, and On-the-fly Music Programming Language. `Windows | macOS | GNU/Linux` `FLOSS` `audio`
 * [clive](https://mathr.co.uk/clive/), live-coding audio in C. `GNU/Linux` `C` `FLOSS` `audio`
-* [Conductive](http://www.renickbell.net/doku.php?id=conductive),  a set of Haskell libraries for livecoding and real-time music applications. `Windows | macOS | GNU/Linux` `haskell`  `Supercollider` `FLOSS` `audio`
+* [Conductive](http://www.renickbell.net/doku.php?id=conductive),  a set of Haskell libraries for livecoding and real-time music applications. `Windows | macOS | GNU/Linux` `haskell`  `SuperCollider` `FLOSS` `audio`
 * [Cyril](http://cyrilcode.com/), a programming language designed for fast prototyping of visualisations and livecoding visuals. `Windows | macOS | GNU/Linux` `openFrameworks` `FLOSS` `visuals`
 * [Extempore](http://extempore.moso.com.au/), (previously [Impromptu](http://impromptu.moso.com.au/)) a programming language and runtime environment designed to support 'cyberphysical programming'. `Windows | macOS | GNU/Linux` `lisp` `FLOSS` `audio`
 * [Fluxus](http://www.pawfal.org/fluxus/), a rapid prototyping, playing and learning environment for 3D graphics, sound and games. `Windows | macOS | GNU/Linux | Android | PS2` `racket-lang` `lisp` `FLOSS` `visuals`
-* [FoxDot](http://foxdot.org/), Live Coding with Python and SuperCollider. `Windows | macOS | GNU/Linux` `Python` `Supercollider` `FLOSS` `audio`
+* [FoxDot](http://foxdot.org/), Live Coding with Python and SuperCollider. `Windows | macOS | GNU/Linux` `Python` `SuperCollider` `FLOSS` `audio`
 * [Gibber](http://charlie-roberts.com/gibber/), creative coding for JavaScript. `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `audio` `visuals`
-* [ixi lang](http://www.ixi-audio.net/), an experimental project concerned with the creation of digital musical instruments and environments for generative music. `Windows | macOS | GNU/Linux` `Supercollider` `audio`
+* [ixi lang](http://www.ixi-audio.net/), an experimental project concerned with the creation of digital musical instruments and environments for generative music. `Windows | macOS | GNU/Linux` `SuperCollider` `audio`
 * [i-score](http://www.i-score.org/), an interactive sequencer that allows live programming of OSC-enabled applications, through a visual language and JavaScript scripting. `Windows | macOS | GNU/Linux` `C++` `FLOSS` `audio`
 * [LiveCodeLab](http://livecodelab.net), a web-based language and environment for VJs, musicians and graphic artists. Allows for immediate and engaging run-as-you-type prototyping, also used in education. `Windows | macOS | GNU/Linux` `web` `FLOSS` `visuals` `audio`
 * [Max](https://cycling74.com/products/max/), a visual programming language for media. `Windows | macOS` `graphical-language` `Commercial` `audio` `visuals`
 * [Moonlet](https://github.com/elihugarret/Moonlet), Lua live coding. `Windows | GNU/Linux` `audio`
 * [Negasonic](https://github.com/merongivian/negasonic) Live coding in the browser with Ruby. `Google Chrome | Mozilla Firefox` `web` `Ruby` `FLOSS` `audio`
 * [ORCΛ](https://github.com/hundredrabbits/Orca), an esoteric live coding environment with two-dimensional syntax. `Windows | macOS | GNU/Linux` `audio` `FLOSS`
-* [Overtone](http://overtone.github.io/), an open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming. `Windows | macOS | GNU/Linux` `Supercollider` `lisp` `FLOSS` `audio` `FLOSS`
+* [Overtone](http://overtone.github.io/), an open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming. `Windows | macOS | GNU/Linux` `SuperCollider` `lisp` `FLOSS` `audio` `FLOSS`
 * [PraxisLive](http://www.praxislive.org/), hybrid visual IDE for live creative coding. `Windows | macOS | GNU/Linux` `Java` `Processing` `GLSL` `graphical-language` `FLOSS` `visuals` `audio`
 * [Pure Data](https://puredata.info/), an open source visual programming language that can be used to process and generate sound, video, 2D/3D graphics, and interface sensors, input devices, and MIDI. `Windows | macOS | GNU/Linux` `graphical-language` `FLOSS` `audio` `visuals`
 * [re<urse](https://github.com/carrierdown/recurse), a language for generating musical patterns.  `Windows | macOS | GNU/Linux` `TypeScript` `FLOSS` `audio`
-* [Repetition.sc](https://github.com/lvm/Repetition.sc), a set of tools to build a SequenceableCollection of Events. `Windows | macOS | GNU/Linux` `Supercollider` `FLOSS` `audio`
+* [Repetition.sc](https://github.com/lvm/Repetition.sc), a set of tools to build a SequenceableCollection of Events. `Windows | macOS | GNU/Linux` `SuperCollider` `FLOSS` `audio`
 * [serialist](https://github.com/irritant/serialist), a live coding environment that generates MIDI messages. `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `audio`
 * [Skoar](https://github.com/sofakid/Skoarcery), a high-level language for coding music with SuperCollider. `Windows | macOS | GNU/Linux` `SuperCollider` `Python` `FLOSS` `audio`
-* [Sonic Pi](http://sonic-pi.net/), the Live Coding music synth for everyone. `Windows | macOS | GNU/Linux` `Ruby` `Supercollider` `FLOSS` `audio`
+* [Sonic Pi](http://sonic-pi.net/), the Live Coding music synth for everyone. `Windows | macOS | GNU/Linux` `Ruby` `SuperCollider` `FLOSS` `audio`
 * [Speccy](https://chr15m.github.io/speccy), live code 8-bit algorave in ClojureScript. `Windows | macOS | GNU/Linux` `web` `FLOSS` `audio` `lisp`
-* [Steno](https://github.com/musikinformatik/Steno), Concatenative little metalanguage for live coding. `Windows | macOS | GNU/Linux` `Supercollider`  `audio`
+* [Steno](https://github.com/musikinformatik/Steno), Concatenative little metalanguage for live coding. `Windows | macOS | GNU/Linux` `SuperCollider`  `audio`
 * [SuperCollider](http://supercollider.github.io/), a platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound. `Windows | macOS | GNU/Linux` `FLOSS` `audio`
 * [synth-x](https://github.com/luiscript/synth-x), an experimental live coding environment for making music created with modern web technologies. `Windows | macOS | GNU/Linux` `JavaScript` `nodejs` `audio`
-* [TidalCycles](https://tidalcycles.org/), is a language for Live Coding pattern. `Windows | macOS | GNU/Linxux` `Haskell` `Supercollider` `FLOSS` `audio`
-* [TimeLines](https://github.com/lnfiniteMonkeys/TimeLines), a modular synthesizer for live coding the flow of time. `Windows | macOS | Gnu/LINUX` `Haskell` `SuperCollider` `audio`
-* [Vivid](http://vivid-synth.com/), Haskell synth live coding. `Haskell` `Supercollider` `audio`
+* [TidalCycles](https://tidalcycles.org/), is a language for Live Coding pattern. `Windows | macOS | GNU/Linxux` `Haskell` `SuperCollider` `FLOSS` `audio`
+* [TimeLines](https://github.com/lnfiniteMonkeys/TimeLines), a modular synthesizer for live coding the flow of time. `Windows | macOS | GNU/Linux` `Haskell` `SuperCollider` `audio`
+* [Vivid](http://vivid-synth.com/), Haskell synth live coding. `Haskell` `SuperCollider` `audio`
 * [Vuo](https://vuo.org), a realtime visual programming language for interactive media. `macOS` `visual-language` `FLOSS | Commercial` `visuals`
 * [vvvv](https://vvvv.org/),  a hybrid visual/textual live-programming environment for easy prototyping and development.  `Windows` `visual-language` `Freeware | Commercial` `visuals`
 * [Wulfcode](https://github.com/echolevel/wulfcode), a Midi live-coding environment for performance or composition. `macOS | Windows* | GNU/Linux*` `FLOSS` `audio`
-* [xi](https://github.com/xi-livecode), a domain-specific language for Live Coding musical patterns in Ruby. `Windows | macOS | GNU/Linux` `Ruby` `Supercollider` `FLOSS` `audio`
+* [xi](https://github.com/xi-livecode), a domain-specific language for Live Coding musical patterns in Ruby. `Windows | macOS | GNU/Linux` `Ruby` `SuperCollider` `FLOSS` `audio`
 
 
 ## Libraries and tools
@@ -104,7 +104,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 * [KodeLife](https://hexler.net/software/kodelife), Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
 * [LiCK](https://github.com/heuermh/lick), Library for ChucK, provides intervals, chords, scales, arpeggiators, patterns, effects, etc.
 * [LÖVELive](https://github.com/sharow/lovelive), :two_hearts: Live coding framework for LÖVE(2D Game Engine).
-* [Lua2SC](https://github.com/sonoro1234/Lua2SC),  Lua client for supercollider scsynth and supernova.
+* [Lua2SC](https://github.com/sonoro1234/Lua2SC),  Lua client for superCollider scsynth and supernova.
 * [Petal](https://github.com/siaflab/petal), a small language on Sonic Pi with similar syntax to TidalCycles.
 * [pytebeat](https://github.com/kragen/pytebeat), a piece of software for doing livecoding [bytebeat](http://canonical.org/%7Ekragen/bytebeat/) performances.
 * [p5-live](https://github.com/yangsu/p5-live), Live Coding for p5.js.
