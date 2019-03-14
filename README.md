@@ -176,7 +176,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## Community
 
-* [We.LURK](http://we.lurk.org/), a host for discussions around cultural freedom, experimental, new media art, net and computational culture, and things like that. `Mailing List`
+* [TOPLAP.LURK](https://toplap.lurk.org), a web-based 'discourse' forum for in-depth discussion and exchange around live coding. `Forum` 
+* [We.LURK](http://we.lurk.org/), an email-based discussion system including several livecoding and algorave related forums. `Mailing List`
 * [Talk.LURK](https://talk.lurk.org/), self-hosted + open-source + slack-like service. `Chat`
 * [POTAC](https://medium.com/potac), Programing of The Art Computer. `Weblog`
 * [/r/livecoding](https://www.reddit.com/r/livecoding/), the Live Coding subreddit. 
