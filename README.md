@@ -245,7 +245,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [ICLC](http://iclc.livecodenetwork.org/) - International Conference on Live Coding.
 - [FARM](http://functional-art.org/) - Workshop on Functional Art, Music, Modeling, and Design.
 - [ICLI](http://www.liveinterfaces.org/) - International Conference on Live Interfaces.
-- [NIME](http://www.nime.org) - New Interfaces for Musical Expression conference
+- [NIME](http://www.nime.org) - New Interfaces for Musical Expression conference.
 
 ## Community
 
@@ -267,7 +267,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## Related lists
 
-- [Awesome Creative Coding ](https://github.com/terkelg/awesome-creative-coding) - Creative Coding, Generative Art, Interaction Design, Resources.
+- [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding, Generative Art, Interaction Design, Resources.
 - [Awesome Audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 - [Awesome Music](https://github.com/ciconia/awesome-music) - A categorized collection of awesome music libraries, tools, frameworks and software.
 - [Awesome Live Coding Music](https://github.com/pjagielski/awesome-live-coding-music) - A curated list of awesome Music Live Coding Music environments, libraries and talks.
@@ -318,7 +318,7 @@ This has been brought to you by [these](https://github.com/lvm/awesome-livecodin
 
 [Here](contributing.md) is a friendly guide of how to proceed.
 
-## Code Of Conduct
+## Code of Conduct
 
 This list follows the [Contributor Covenant](http://contributor-covenant.org/) Code of Conduct v1.4.0, available [here](http://contributor-covenant.org/version/1/4/code_of_conduct.txt).
 
