@@ -19,6 +19,8 @@ This list was created with the intention of giving a quick-glance over the many 
 - [Community](#community)
 - [Related lists](#related-lists)
 - [Acknowledgement](#acknowledgement)
+- [How to contribute](#how-to-contribute)
+- [contributeCode of Conduct](#code-of-conduct)
 - [License](#license)
 
 
@@ -137,7 +139,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Vuo](https://vuo.org) - A realtime visual programming language for interactive media.
 
   `macOS` `visual-language` `FLOSS | Commercial` `visuals`
-- [vvvv](https://vvvv.org/) -  a hybrid visual/textual live-programming environment for easy prototyping and development.  `Windows` `visual-language` `Freeware | Commercial` `visuals`
+- [vvvv](https://vvvv.org/) - A hybrid visual/textual live-programming environment for easy prototyping and development.  `Windows` `visual-language` `Freeware | Commercial` `visuals`
 - [Wulfcode](https://github.com/echolevel/wulfcode) - A Midi live-coding environment for performance or composition.
 
   `macOS | Windows* | GNU/Linux*` `FLOSS` `audio`
@@ -155,7 +157,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Bonzomatic](https://github.com/Gargaj/Bonzomatic) - GLSL and HLSL live coding environment, originally designed for live coding competitions at demoparties.
 - [CHmUsiCK](https://github.com/essteban/CHmUsiCK) - Library to make ChucK a 'more algorave like' language.
 - [cl-collider](https://github.com/byulparan/cl-collider) - A SuperCollider client for CommonLisp.
-- [dafxpipe](https://github.com/nwoeanhinnogaehr/dafxpipe) -  software for live coding audio effects and synths.
+- [dafxpipe](https://github.com/nwoeanhinnogaehr/dafxpipe) - Software for live coding audio effects and synths.
 - [disclojure](https://github.com/pjagielski/disclojure) - A live coding environment for Overtone and Leipzig.
 - [EspGrid](https://github.com/d0kt0r0/EspGrid) - Synchronization and sharing for network music.
 - [Extramuros](https://github.com/d0kt0r0/extramuros) - Language-neutral shared-buffer networked live coding system.
@@ -173,7 +175,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [KodeLife](https://hexler.net/software/kodelife) - Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
 - [LiCK](https://github.com/heuermh/lick) - Library for ChucK, provides intervals, chords, scales, arpeggiators, patterns, effects, etc.
 - [LÖVELive](https://github.com/sharow/lovelive) - :two_hearts: Live coding framework for LÖVE(2D Game Engine).
-- [Lua2SC](https://github.com/sonoro1234/Lua2SC) -  Lua client for superCollider scsynth and supernova.
+- [Lua2SC](https://github.com/sonoro1234/Lua2SC) - Lua client for superCollider scsynth and supernova.
 - [Petal](https://github.com/siaflab/petal) - A small language on Sonic Pi with similar syntax to TidalCycles.
 - [pytebeat](https://github.com/kragen/pytebeat) - A piece of software for doing livecoding [bytebeat](http://canonical.org/%7Ekragen/bytebeat/) performances.
 - [p5-live](https://github.com/yangsu/p5-live) - Live Coding for p5.js.
@@ -208,8 +210,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [ComputerMusic(now)](https://www.youtube.com/watch?v=GSGKEy8vHqg) - Andrew Sorensen.
 - [Show Us Your Screens](https://vimeo.com/20241649) - A Documentary about live coding practise by Louis McCallum and Davy Smith.
 - [Algorithms are Thoughts, Chainsaws are Tools](https://vimeo.com/9790850) - A short film on livecoding presented as part of the Critical Code Studies Working Group, March 2010, by Stephen Ramsay.
-- [ICLC Youtube Channel](https://www.youtube.com/channel/UCN-9RKW_izkIUMH0eQ60H2g/videos?shelf_id=0&view=0&sort=dd) - International Conference on Live Coding.
-- [TidalCycles Youtube Channel](https://www.youtube.com/channel/UCG5Ynx9mvouuSHYEyxaJ0Cg) - Official channel of the TidalCycles collective.
+- [ICLC YouTube Channel](https://www.youtube.com/channel/UCN-9RKW_izkIUMH0eQ60H2g/videos?shelf_id=0&view=0&sort=dd) - International Conference on Live Coding.
+- [TidalCycles YouTube Channel](https://www.youtube.com/channel/UCG5Ynx9mvouuSHYEyxaJ0Cg) - Official channel of the TidalCycles collective.
 - [SuperCollider Tutorials](https://www.youtube.com/playlist?list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC) - A video series by Eli Fieldsteel.
 - [Hacking Choreography](https://www.youtube.com/watch?v=hoV01_P6PGw) - A live coded dance performance.
 - [PBUP - A patchwork portrait](https://www.youtube.com/playlist?list=PLKRUGJaqJkAfU_PaYUeiRzD5qh5tkwvdj) - A documentary about PowerBooks UnPlugged, "the first acoustic computer band".
@@ -239,7 +241,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 ## Conferences
 
 - [ICLC](http://iclc.livecodenetwork.org/) - International Conference on Live Coding.
-- [FARM](http://functional-art.org/) - Workshop on Functional Art, Music, Modeling and Design.
+- [FARM](http://functional-art.org/) - Workshop on Functional Art, Music, Modeling, and Design.
 - [ICLI](http://www.liveinterfaces.org/) - International Conference on Live Interfaces.
 - [NIME](http://www.nime.org) - New Interfaces for Musical Expression conference
 
@@ -263,7 +265,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## Related lists
 
-- [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - :art: Creative Coding, Generative Art, Interaction Design, Resources.
+- [Awesome Creative Coding :art: ](https://github.com/terkelg/awesome-creative-coding) - Creative Coding, Generative Art, Interaction Design, Resources.
 - [Awesome Audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 - [Awesome Music](https://github.com/ciconia/awesome-music) - A categorized collection of awesome music libraries, tools, frameworks and software.
 - [Awesome Live Coding Music](https://github.com/pjagielski/awesome-live-coding-music) - A curated list of awesome Music Live Coding Music environments, libraries and talks.
@@ -303,7 +305,7 @@ This has been brought to you by [these](https://github.com/lvm/awesome-livecodin
  [<img src="https://avatars3.githubusercontent.com/u/22543694?v=4" height=50 width=50>](https://github.com/iyzsong) 
 
 
-### How to contribute?
+### How to contribute
 
 - Fork this repository.  
 - Add the changes you feel appropriate (be it a language, something to read, something to watch, a tool, a conf, etc).  
