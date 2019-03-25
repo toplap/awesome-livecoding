@@ -19,7 +19,7 @@ This list was created with the intention of giving a quick-glance over the many 
 - [Community](#community)
 - [Related lists](#related-lists)
 - [Acknowledgement](#acknowledgement)
-- [How to contribute](#how-to-contribute)
+- [How to Contribute](#how-to-contribute)
 - [Code of Conduct](#code-of-conduct)
 - [License](#license)
 
@@ -85,7 +85,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Moonlet](https://github.com/elihugarret/Moonlet) - Lua live coding.
 
   `Windows | GNU/Linux` `FLOSS` `audio`
-- [Negasonic](https://github.com/merongivian/negasonic) Live coding in the browser with Ruby.
+- [Negasonic](https://github.com/merongivian/negasonic) - Live coding in the browser with Ruby.
 
   `Google Chrome | Mozilla Firefox` `web` `Ruby` `FLOSS` `audio`
 - [ORCΛ](https://github.com/hundredrabbits/Orca) - An esoteric live coding environment with two-dimensional syntax.
@@ -139,7 +139,9 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Vuo](https://vuo.org) - A realtime visual programming language for interactive media.
 
   `macOS` `visual-language` `FLOSS | Commercial` `visuals`
-- [vvvv](https://vvvv.org/) - A hybrid visual/textual live-programming environment for easy prototyping and development.  `Windows` `visual-language` `Freeware | Commercial` `visuals`
+- [vvvv](https://vvvv.org/) - A hybrid visual/textual live-programming environment for easy prototyping and development.
+
+`Windows` `visual-language` `Freeware | Commercial` `visuals`
 - [Wulfcode](https://github.com/echolevel/wulfcode) - A Midi live-coding environment for performance or composition.
 
   `macOS | Windows* | GNU/Linux*` `FLOSS` `audio`
@@ -165,7 +167,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [The Force](https://shawnlawson.github.io/The_Force/) - WebGL live coding performance IDE. 
 - [Gibberwocky](https://github.com/charlieroberts/gibberwocky) - Use Gibber inside Max/MSP and Max4Live.
 - [Gideros](http://giderosmobile.com/) - Lua 2D game engine with live coding capabilities.
-- [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Live GLSL coding render for MacOS and Linux.
+- [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Live GLSL coding render for macOS and Linux.
 - [hsc3](https://hackage.haskell.org/package/hsc3) - A Haskell SuperCollider client.
 - [hydra](https://github.com/ojack/hydra) - Live Coding networked visuals in the browser.
 - [HYLOGEN](https://github.com/sleexyz/hylogen) - An embedding of GLSL in Haskell.
@@ -203,7 +205,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 ## To Watch
 
 - [Live coding for Algoraving](https://www.youtube.com/watch?v=RpzEzUCgVoQ) - Shelly Knotts+Joanne Armitage / workshop supported by YSWN + LCRN.
-- [Arte Tracks - Live coding and Algorave](https://www.youtube.com/watch?v=X_NQKPH91kM).
+- [Arte Tracks - Live coding and Algorave](https://www.youtube.com/watch?v=X_NQKPH91kM)
 - [Programming as Performance](https://www.youtube.com/watch?v=TK1mBqKvIyU) - Sam Aaron.
 - [THIS is computer music](https://www.youtube.com/watch?v=S-T8kcSRLL0) - Ge Wang.
 - [Programming in Time - Live Coding for creative performances](https://www.youtube.com/watch?v=Sg2BjFQnr9s) - Andrew Sorensen.
@@ -305,7 +307,7 @@ This has been brought to you by [these](https://github.com/lvm/awesome-livecodin
  [<img src="https://avatars3.githubusercontent.com/u/22543694?v=4" height=50 width=50>](https://github.com/iyzsong) 
 
 
-### How to contribute
+## How to Contribute
 
 - Fork this repository.  
 - Add the changes you feel appropriate (be it a language, something to read, something to watch, a tool, a conf, etc).  
@@ -316,7 +318,7 @@ This has been brought to you by [these](https://github.com/lvm/awesome-livecodin
 
 [Here](contributing.md) is a friendly guide of how to proceed.
 
-### Code Of Conduct
+## Code Of Conduct
 
 This list follows the [Contributor Covenant](http://contributor-covenant.org/) Code of Conduct v1.4.0, available [here](http://contributor-covenant.org/version/1/4/code_of_conduct.txt).
 
