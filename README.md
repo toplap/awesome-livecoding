@@ -21,7 +21,6 @@ This list was created with the intention of giving a quick-glance over the many 
 - [Acknowledgement](#acknowledgement)
 - [How to Contribute](#how-to-contribute)
 - [Code of Conduct](#code-of-conduct)
-- [License](#license)
 
 
 ## What is live coding
@@ -320,7 +319,7 @@ This has been brought to you by [these](https://github.com/lvm/awesome-livecodin
 
 ## Code of Conduct
 
-This list follows the [Contributor Covenant](http://contributor-covenant.org/) Code of Conduct v1.4.0, available [here](http://contributor-covenant.org/version/1/4/code_of_conduct.txt).
+This list follows the [Contributor Covenant](http://contributor-covenant.org/) Code of Conduct v1.4.0, available [here](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).
 
 > In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
