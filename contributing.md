@@ -1,59 +1,18 @@
 # How to Contribute
 
-* First of all, you'll need a [GitHub account](https://github.com/join).
-* Point your browser to the [README.md](https://github.com/lvm/awesome-livecoding/blob/master/README.md) file
-![](https://raw.githubusercontent.com/lvm/awesome-livecoding/images/readme.md.png)
-* Click on the edit icon 
-![](https://raw.githubusercontent.com/lvm/awesome-livecoding/images/click-edit.png)
-* Edit the file and add whatever you feel appropriate. Make sure you follow the CoC guidelines!
-![](https://raw.githubusercontent.com/lvm/awesome-livecoding/images/edit-file.png)
-* Create a new `commit` (_save the changes_) with your work. Be descriptive and concise!
-![](https://raw.githubusercontent.com/lvm/awesome-livecoding/images/save-commit.png)
-* Create a `Pull Request` (_prepare to send your changes to the original repository_)
-![](https://raw.githubusercontent.com/lvm/awesome-livecoding/images/new-pull-request.png)
-* Review your changes and if everything looks good... _Send your changes!_
-![](https://raw.githubusercontent.com/lvm/awesome-livecoding/images/create-pull-request.png)
+If you have something awesome to contribute to the list, this is how you do it.
 
-If everything looks good, your change will be integrated to the list soon enough.  
+You'll need a [GitHub account](https://github.com/join)!
 
-## Tips and content formatting
+1. Access the awesome list's GitHub page. For example: https://github.com/sindresorhus/awesome
+2. Click on the `readme.md` file: ![Step 2 Click on Readme.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
+3. Now click on the edit icon. ![Step 3 - Click on Edit](https://cloud.githubusercontent.com/assets/170270/9402927/6506af22-480c-11e5-8c18-7ea823530099.png)
+4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). ![Step 4 - Edit the file](https://cloud.githubusercontent.com/assets/170270/9402932/7301c3a0-480c-11e5-81f5-7e343b71674f.png)
+5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
+6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
-* Make sure your suggestion isn't already there
-* New categories or improvements to the existing categorization are welcome
-* Check your spelling and grammar (nobody is perfect anyway)
-* Make sure your text editor is set to remove trailing whitespace
-* The pull request and commit should be clear of what has been updated
+## Updating your Pull Request
 
+Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
 
-When adding a new language, make sure that:
-
-1. Is ordered alphabetically
-2. follows the following format:
-```
-* [Language](http://language.com), brief description of this language. `OS SUPPORTED | SEPARATED BY | A PIPE` `RELEVANT-TAG` `ANOTHER-RELEVANT-TAG` `LICENSE`
-```
-
-* When adding tool/library, make sure that:
-
-1. Is ordered alphabetically
-2. follows the following format:
-```
-* [Library-or-tool](http://Library-or-tool.com), brief description of the Library-or-tool
-```
-_Note the missing dot (.) at the end of the line_
-
-When adding a anything else, make sure that:
-
-1. Is added to the bottom of the list
-2. follows the following format:
-```
-* [Title](http://url.com), brief description of the link added
-```
-_Note the missing dot (.) at the end of the line_
-
-
-Here are a couple of articles that might come in handy while working:
-
-* [GitHub Markdown](https://help.github.com/categories/writing-on-github/)
-* [Pull requests](https://help.github.com/articles/using-pull-requests/)
-* [Amending a Pull Request](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md)
+[Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
