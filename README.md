@@ -39,24 +39,25 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 (In Alphabetical Order)
 
-- [afterglow](https://github.com/brunchboy/afterglow) - A live-coding lighting controller, building on the Open Lighting Architecture with Clojure and bits of Overtone.
+- [afterglow](https://github.com/brunchboy/afterglow) - A live-coding lighting controller, building on the Open Lighting Architecture with Clojure and bits of Overtone.<br/>
 
   `Windows | macOS | GNU/Linux` `lisp` `FLOSS` `audio`
-- [Alda](https://github.com/alda-lang/alda) - A music programming language for musicians.
 
+- [Alda](https://github.com/alda-lang/alda) - A music programming language for musicians.<br/>
   `Windows | macOS | GNU/Linux` `FLOSS` `audio`
-- [ChucK](http://chuck.cs.princeton.edu/) - Strongly-timed, Concurrent, and On-the-fly Music Programming Language.
 
-  `Windows | macOS | GNU/Linux` `FLOSS` `audio`
+- [ChucK](http://chuck.cs.princeton.edu/) - Strongly-timed, Concurrent, and On-the-fly Music Programming Language.<br/>
+    `Windows | macOS | GNU/Linux` `FLOSS` `audio`
+
 - [clive](https://mathr.co.uk/clive/) - Live-coding audio in C.
+  <br>`GNU/Linux` `C` `FLOSS` `audio`
 
-  `GNU/Linux` `C` `FLOSS` `audio`
 - [Conductive](http://www.renickbell.net/doku.php?id=conductive) - A set of Haskell libraries for livecoding and real-time music applications.
+<br>  `Windows | macOS | GNU/Linux` `haskell`  `SuperCollider` `FLOSS` `audio`
 
-  `Windows | macOS | GNU/Linux` `haskell`  `SuperCollider` `FLOSS` `audio`
 - [Cyril](http://cyrilcode.com/) - A programming language designed for fast prototyping of visualisations and livecoding visuals.
+<br> tags - `Windows | macOS | GNU/Linux` `openFrameworks` `FLOSS` `visuals`.
 
-  `Windows | macOS | GNU/Linux` `openFrameworks` `FLOSS` `visuals`
 - [Extempore](http://extempore.moso.com.au/) - (Previously [Impromptu](http://impromptu.moso.com.au/)) A programming language and runtime environment designed to support 'cyberphysical programming'.
 
   `Windows | macOS | GNU/Linux` `lisp` `FLOSS` `audio`
