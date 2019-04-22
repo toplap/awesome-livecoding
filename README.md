@@ -317,6 +317,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 This has been brought to you by [these](https://github.com/lvm/awesome-livecoding/issues) [contributors](https://github.com/lvm/awesome-livecoding/graphs/contributors).
 
  [<img src="https://avatars1.githubusercontent.com/u/34095?v=4" height=50 width=50>](https://github.com/lvm)
+ [<img src="https://avatars3.githubusercontent.com/u/87758?v=4" height=50 width=50>](https://github.com/NewAlexandria)
  [<img src="https://avatars0.githubusercontent.com/u/27940?v=4" height=50 width=50>](https://github.com/yaxu)
  [<img src="https://avatars3.githubusercontent.com/u/6239104?v=4" height=50 width=50>](https://github.com/sicchio)
  [<img src="https://avatars0.githubusercontent.com/u/9406025?v=4" height=50 width=50>](https://github.com/ddovod)
@@ -342,6 +343,7 @@ This has been brought to you by [these](https://github.com/lvm/awesome-livecodin
  [<img src="https://avatars3.githubusercontent.com/u/29144942?v=4" height=50 width=50>](https://github.com/lnfiniteMonkeys)
  [<img src="https://avatars1.githubusercontent.com/u/15203140?v=4" height=50 width=50>](https://github.com/paullucas)
  [<img src="https://avatars3.githubusercontent.com/u/22543694?v=4" height=50 width=50>](https://github.com/iyzsong)
+
 
 
 ## How to Contribute
