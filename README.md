@@ -351,6 +351,7 @@ This has been brought to you by [these](https://github.com/lvm/awesome-livecodin
  [<img src="https://avatars3.githubusercontent.com/u/29144942?v=4" height=50 width=50>](https://github.com/lnfiniteMonkeys)
  [<img src="https://avatars1.githubusercontent.com/u/15203140?v=4" height=50 width=50>](https://github.com/paullucas)
  [<img src="https://avatars3.githubusercontent.com/u/22543694?v=4" height=50 width=50>](https://github.com/iyzsong)
+ [<img src="https://avatars2.githubusercontent.com/u/169088?v=4" height=50 width=50>](https://github.com/rumblesan)
 
 
 
