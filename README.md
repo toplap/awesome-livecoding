@@ -83,6 +83,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `audio` `visuals`
 
+- [Improviz](http://github.com/rumblesan/improviz) - An environment for using and abusing primitive shapes and animated textures.
+
+  `Windows | macOS | GNU/Linux` `Haskell` `FLOSS` `visuals`
+
 - [ixi lang](http://www.ixi-audio.net/) - An experimental project concerned with the creation of digital musical instruments and environments for generative music.
 
   `Windows | macOS | GNU/Linux` `FLOSS` `SuperCollider` `audio`
