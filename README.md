@@ -47,6 +47,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `FLOSS` `audio`
 
+- [Atomiix](https://github.com/rumblesan/atomiix) - A re-implementation and re-invigoration of ixi lang.
+
+  `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `SuperCollider` `audio`
+
 - [ChucK](http://chuck.cs.princeton.edu/) - Strongly-timed, Concurrent, and On-the-fly Music Programming Language.
 
   `Windows | macOS | GNU/Linux` `FLOSS` `audio`
@@ -78,6 +82,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Gibber](http://charlie-roberts.com/gibber/) - Creative coding for JavaScript.
 
   `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `audio` `visuals`
+
+- [Improviz](http://github.com/rumblesan/improviz) - An environment for using and abusing primitive shapes and animated textures.
+
+  `Windows | macOS | GNU/Linux` `Haskell` `FLOSS` `visuals`
 
 - [ixi lang](http://www.ixi-audio.net/) - An experimental project concerned with the creation of digital musical instruments and environments for generative music.
 
@@ -343,6 +351,7 @@ This has been brought to you by [these](https://github.com/lvm/awesome-livecodin
  [<img src="https://avatars3.githubusercontent.com/u/29144942?v=4" height=50 width=50>](https://github.com/lnfiniteMonkeys)
  [<img src="https://avatars1.githubusercontent.com/u/15203140?v=4" height=50 width=50>](https://github.com/paullucas)
  [<img src="https://avatars3.githubusercontent.com/u/22543694?v=4" height=50 width=50>](https://github.com/iyzsong)
+ [<img src="https://avatars2.githubusercontent.com/u/169088?v=4" height=50 width=50>](https://github.com/rumblesan)
 
 
 
