@@ -69,7 +69,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 - [Extempore](http://extempore.moso.com.au/) - (Previously [Impromptu](http://impromptu.moso.com.au/)) A programming language and runtime environment designed to support 'cyberphysical programming'.
 
-  `Windows | macOS | GNU/Linux` `lisp` `FLOSS` `audio`
+  `Windows | macOS | GNU/Linux` `lisp` `audio`
 
 - [Fluxus](http://www.pawfal.org/fluxus/) - A rapid prototyping, playing and learning environment for 3D graphics, sound and games.
 
