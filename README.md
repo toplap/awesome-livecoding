@@ -107,6 +107,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | GNU/Linux` `FLOSS` `audio`
 
+- [mutate4l](https://github.com/carrierdown/mutate4l) - Live coding integrated into Ableton Live's session view.
+
+  `Windows | macOS` `Max for Live` `C#` `FLOSS` `audio`
+
 - [Negasonic](https://github.com/merongivian/negasonic) - Live coding in the browser with Ruby.
 
   `Google Chrome | Mozilla Firefox` `web` `Ruby` `FLOSS` `audio`
@@ -126,10 +130,6 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Pure Data](https://puredata.info/) - An open source visual programming language that can be used to process and generate sound, video, 2D/3D graphics, and interface sensors, input devices, and MIDI.
 
   `Windows | macOS | GNU/Linux` `graphical-language` `FLOSS` `audio` `visuals`
-
-- [re<urse](https://github.com/carrierdown/recurse) - A language for generating musical patterns.
-
-  `Windows | macOS | GNU/Linux` `TypeScript` `FLOSS` `audio`
 
 - [Repetition.sc](https://github.com/lvm/Repetition.sc) - A set of tools to build a SequenceableCollection of Events.
 
