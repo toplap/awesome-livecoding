@@ -131,6 +131,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `graphical-language` `FLOSS` `audio` `visuals`
 
+- ~~[re<urse](https://github.com/carrierdown/recurse)~~ - A language for generating musical patterns.
+
+  `abandoned` `Windows | macOS | GNU/Linux` `TypeScript` `FLOSS` `audio`
+
 - [Repetition.sc](https://github.com/lvm/Repetition.sc) - A set of tools to build a SequenceableCollection of Events.
 
   `Windows | macOS | GNU/Linux` `SuperCollider` `FLOSS` `audio`
