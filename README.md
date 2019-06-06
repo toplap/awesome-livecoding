@@ -254,6 +254,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Algorithms are Thoughts, Chainsaws are Tools](https://vimeo.com/9790850) - A short film on livecoding presented as part of the Critical Code Studies Working Group, March 2010, by Stephen Ramsay.
 - [Arte Tracks - Live coding and Algorave](https://www.youtube.com/watch?v=X_NQKPH91kM)
 - [ComputerMusic(now)](https://www.youtube.com/watch?v=GSGKEy8vHqg) - Andrew Sorensen.
+- [Gareth Hubball](https://twitch.tv/garethhubball) - Live coding on twitch.tv in a variey of languages.
 - [Hacking Choreography](https://www.youtube.com/watch?v=hoV01_P6PGw) - A live coded dance performance.
 - [ICLC YouTube Channel](https://www.youtube.com/channel/UCN-9RKW_izkIUMH0eQ60H2g/videos?shelf_id=0&view=0&sort=dd) - International Conference on Live Coding.
 - [Live coding for Algoraving](https://www.youtube.com/watch?v=RpzEzUCgVoQ) - Shelly Knotts+Joanne Armitage / workshop supported by YSWN + LCRN.
