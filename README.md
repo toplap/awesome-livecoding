@@ -297,23 +297,24 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## Community
 
-- [TOPLAP.LURK](https://toplap.lurk.org) - A web-based 'discourse' forum for in-depth discussion and exchange around live coding.
+- [FORUM](https://forum.toplap.org) - A web-based 'discourse' forum for in-depth discussion and exchange around live coding. (formerly found at toplap.lurk.org)
 
   `Forum`
+
+- [CHAT](https://chat.toplap.org/) - A host of many (slack-like) active chat rooms around live coding activities, topics and technologies. (formerly at talk.lurk.org)
+
+  `Chat`
+
 - [We.LURK](http://we.lurk.org/) - An email-based discussion system including several livecoding and algorave related forums.
 
   `Mailing List`
 
-- [Talk.LURK](https://talk.lurk.org/) - Self-hosted + open-source + slack-like service.
-
-  `Chat`
-
-- [POTAC](https://medium.com/potac) - Programing of The Art Computer.
+- [POTAC](https://medium.com/potac) - Programing of The Art Computer. (inactive)
 
   `Weblog`
 
 - [/r/livecoding](https://www.reddit.com/r/livecoding/) - The Live Coding subreddit.
-- [LiveCoders](https://github.com/toplap/livecoders/) - A semi-curated list of people doing live coding in the performing arts.
+- [LiveCoders](https://github.com/toplap/livecoders/) - A semi-curated, rather incomplete list of people doing live coding in the performing arts.
 
 
 ## Related lists
