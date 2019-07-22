@@ -229,6 +229,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [p5-live](https://github.com/yangsu/p5-live) - Live Coding for p5.js.
 - [REPL Mode](https://github.com/joelmoniz/REPLmode) - This mode adds in a Read-Evaluate-Print-Loop console to Processing 3.0.
 - [Republic](https://github.com/supercollider-quarks/Republic) - SuperCollider library for conversational coding.
+- [Ronin](https://github.com/hundredrabbits/Ronin) - LISP repl for graphics livecoding.
 - [s2hs2](https://github.com/yecto/s2hs2-TidalCycles-0.8-) - An interface between TidalCycles and Processing.
 - [Siren](https://github.com/cannc4/Siren/) - A tracker interface that embodies abstractions where programming is realized as the medium for pattern sequencing in a modular fashion.
 - [sonic-pixels](https://github.com/emlyn/sonic-pixels) - Interactive lighting effects for Sonic Pi.
