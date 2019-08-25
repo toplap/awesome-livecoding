@@ -95,6 +95,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `C++` `FLOSS` `audio`
 
+- [Krill](https://github.com/Mdashdotdashn/krill) - Tidal cycle like live coding in NodeJS / Browser.
+
+  `Windows | macOS | GNU/Linux` `NodeJS` `Browser` `FLOSS` `midi`
+
 - [LiveCodeLab](http://livecodelab.net) - A web-based language and environment for VJs, musicians and graphic artists. Allows for immediate and engaging run-as-you-type prototyping, also used in education.
 
   `Windows | macOS | GNU/Linux` `web` `FLOSS` `visuals` `audio`
