@@ -111,6 +111,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | GNU/Linux` `FLOSS` `audio`
 
+- [Motifn](https://www.motifn.com/) - Code music in Javascript that plays in your DAW or browser
+
+  `Google Chrome | Mozilla Firefox` `web` `JavaScript` `MIDI` `audio` `WebAudio`
+
 - [mutate4l](https://github.com/carrierdown/mutate4l) - Live coding integrated into Ableton Live's session view.
 
   `Windows | macOS` `Max for Live` `C#` `FLOSS` `audio`
@@ -228,6 +232,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [LiCK](https://github.com/heuermh/lick) - Library for ChucK, provides intervals, chords, scales, arpeggiators, patterns, effects, etc.
 - [LÖVELive :two_hearts:](https://github.com/sharow/lovelive) - Live coding framework for LÖVE(2D Game Engine).
 - [Lua2SC](https://github.com/sonoro1234/Lua2SC) - Lua client for superCollider scsynth and supernova.
+- [Motifn](https://www.motifn.com/) - Code music in Javascript that plays in your DAW or browser
 - [Petal](https://github.com/siaflab/petal) - A small language on Sonic Pi with similar syntax to TidalCycles.
 - [pytebeat](https://github.com/kragen/pytebeat) - A piece of software for doing livecoding [bytebeat](http://canonical.org/%7Ekragen/bytebeat/) performances.
 - [p5-live](https://github.com/yangsu/p5-live) - Live Coding for p5.js.
