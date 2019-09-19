@@ -226,6 +226,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [jet-live](https://github.com/ddovod/jet-live) - A library which implements c++ hot code reload approach for Linux and macOS.
 - [KodeLife](https://hexler.net/software/kodelife) - Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
 - [LiCK](https://github.com/heuermh/lick) - Library for ChucK, provides intervals, chords, scales, arpeggiators, patterns, effects, etc.
+- [LiveCore](https://github.com/freeeco/livecore) - Library for live coding inside Reaktor Core.
 - [LÖVELive :two_hearts:](https://github.com/sharow/lovelive) - Live coding framework for LÖVE(2D Game Engine).
 - [Lua2SC](https://github.com/sonoro1234/Lua2SC) - Lua client for superCollider scsynth and supernova.
 - [Petal](https://github.com/siaflab/petal) - A small language on Sonic Pi with similar syntax to TidalCycles.
