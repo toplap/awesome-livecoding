@@ -67,7 +67,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `openFrameworks` `FLOSS` `visuals`
 
-- [Extempore](http://extempore.moso.com.au/) - (Previously [Impromptu](http://impromptu.moso.com.au/)) A programming language and runtime environment designed to support 'cyberphysical programming'.
+- [Extempore](https://extemporelang.github.io) - (Previously [Impromptu](http://impromptu.moso.com.au/)) A programming language and runtime environment designed to support 'cyberphysical programming'.
 
   `Windows | macOS | GNU/Linux` `lisp` `FLOSS` `audio`
 
