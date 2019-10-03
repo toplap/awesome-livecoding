@@ -198,6 +198,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Wulfcode](https://github.com/echolevel/wulfcode) - A Midi live-coding environment for performance or composition.
 
   `macOS | Windows* | GNU/Linux*` `FLOSS` `audio`
+  
+- [wide](https://github.com/pd3v/wide) - Multi-instrumental, polyphonic, "DSLish" API for live coding music in C++.
+
+  `macOS | Windows | GNU/Linux` `FLOSS` `audio`
 
 - [xi](https://github.com/xi-livecode) - A domain-specific language for Live Coding musical patterns in Ruby.
 
