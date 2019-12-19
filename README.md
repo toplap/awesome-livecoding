@@ -183,6 +183,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `FLOSS` `Haskell` `SuperCollider` `audio`
 
+- [Tinalla](https://github.com/axelkramble/tinalla/) - Framework Regex based for language parsing written in javascript.
+
+  `Windows | macOS | GNU/Linux` `FLOSS` `Javascript` `SuperCollider` `audio`
+
 - [Vivid](http://vivid-synth.com/) - Haskell synth live coding.
 
   `Haskell` `SuperCollider` `FLOSS` `audio`
