@@ -270,18 +270,25 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## To Watch
 
-- [Algorave Generation](https://www.youtube.com/watch?v=S2EZqikCIfY) - Resident Advisor
+### Documentaries and features
+
+- [Algorave Generation](https://www.youtube.com/watch?v=S2EZqikCIfY) - Resident Advisor.
 - [Algorithms are Thoughts, Chainsaws are Tools](https://vimeo.com/9790850) - A short film on livecoding presented as part of the Critical Code Studies Working Group, March 2010, by Stephen Ramsay.
+- [Live coding for Algoraving](https://www.youtube.com/watch?v=RpzEzUCgVoQ) - Shelly Knotts+Joanne Armitage / workshop supported by YSWN + LCRN.
+- [PBUP - A patchwork portrait](https://www.youtube.com/playlist?list=PLKRUGJaqJkAfU_PaYUeiRzD5qh5tkwvdj) - A documentary about PowerBooks UnPlugged, "the first acoustic computer band".
+- [Run the code](https://www.youtube.com/watch?v=h340aNznHnM) - Documentary in The Guardian.
+- [Show Us Your Screens](https://vimeo.com/20241649) - A Documentary about live coding practise by Louis McCallum and Davy Smith.
+- [Sounds of code](https://www.youtube.com/watch?v=uA4SDytz8Aw) - 2019 documentary w/ interviews with live coders.
+
+### Performances, talks, etc
+
+- [Algorave - Algorithmic dance culture](https://www.youtube.com/watch?v=nAGjTYa95HM) - Alex McLean.
 - [Arte Tracks - Live coding and Algorave](https://www.youtube.com/watch?v=X_NQKPH91kM)
 - [ComputerMusic(now)](https://www.youtube.com/watch?v=GSGKEy8vHqg) - Andrew Sorensen.
 - [Hacking Choreography](https://www.youtube.com/watch?v=hoV01_P6PGw) - A live coded dance performance.
 - [ICLC YouTube Channel](https://www.youtube.com/channel/UCN-9RKW_izkIUMH0eQ60H2g/videos?shelf_id=0&view=0&sort=dd) - International Conference on Live Coding.
-- [Live coding for Algoraving](https://www.youtube.com/watch?v=RpzEzUCgVoQ) - Shelly Knotts+Joanne Armitage / workshop supported by YSWN + LCRN.
-- [PBUP - A patchwork portrait](https://www.youtube.com/playlist?list=PLKRUGJaqJkAfU_PaYUeiRzD5qh5tkwvdj) - A documentary about PowerBooks UnPlugged, "the first acoustic computer band".
 - [Programming as Performance](https://www.youtube.com/watch?v=TK1mBqKvIyU) - Sam Aaron.
 - [Programming in Time - Live Coding for creative performances](https://www.youtube.com/watch?v=Sg2BjFQnr9s) - Andrew Sorensen.
-- [Run the code](https://www.youtube.com/watch?v=h340aNznHnM) - The Guardian
-- [Show Us Your Screens](https://vimeo.com/20241649) - A Documentary about live coding practise by Louis McCallum and Davy Smith.
 - [SuperCollider Tutorials](https://www.youtube.com/playlist?list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC) - A video series by Eli Fieldsteel.
 - [THIS is computer music](https://www.youtube.com/watch?v=S-T8kcSRLL0) - Ge Wang.
 - [TidalCycles YouTube Channel](https://www.youtube.com/channel/UCG5Ynx9mvouuSHYEyxaJ0Cg) - Official channel of the TidalCycles collective.
