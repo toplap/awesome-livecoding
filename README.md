@@ -197,7 +197,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 - [vvvv](https://vvvv.org/) - A hybrid visual/textual live-programming environment for easy prototyping and development.
 
-`Windows` `visual-language` `Freeware | Commercial` `visuals`
+  `Windows` `visual-language` `Freeware | Commercial` `visuals`
 
 - [Wulfcode](https://github.com/echolevel/wulfcode) - A Midi live-coding environment for performance or composition.
 
