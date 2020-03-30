@@ -225,6 +225,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [disclojure](https://github.com/pjagielski/disclojure) - A live coding environment for Overtone and Leipzig.
 - [EspGrid](https://github.com/d0kt0r0/EspGrid) - Synchronization and sharing for network music.
 - [Extramuros](https://github.com/d0kt0r0/extramuros) - Language-neutral shared-buffer networked live coding system.
+- [Flok](https://munshkr.github.io/flok) - Web-based P2P collaborative editor for live coding music and graphics.
 - [Fragment](https://www.fsynth.com) - Collaborative live GLSL coding environment, additive/spectral/granular synthesizer.
 - [The Force](https://shawnlawson.github.io/The_Force/) - WebGL live coding performance IDE.
 - [Gibberwocky](https://github.com/charlieroberts/gibberwocky) - Use Gibber inside Max/MSP and Max4Live.
