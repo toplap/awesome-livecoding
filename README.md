@@ -253,7 +253,6 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [s2hs2](https://github.com/yecto/s2hs2-TidalCycles-0.8-) - An interface between TidalCycles and Processing.
 - [Siren](https://github.com/cannc4/Siren/) - A tracker interface that embodies abstractions where programming is realized as the medium for pattern sequencing in a modular fashion.
 - [sonic-pixels](https://github.com/emlyn/sonic-pixels) - Interactive lighting effects for Sonic Pi.
-- [SpectralTricks](https://github.com/datamads/SpectralTricks) - A haskell package adding spectral effects to Tidal.
 - [Supriya](https://github.com/josiah-wolf-oberholtzer/supriya) - A Python API for SuperCollider.
 - [tidal-autocode](https://atom.io/packages/tidal-autocode) - Auto-generates patterns for TidalCycles (requires [Atom](https://atom.io/) editor).
 - [tidal-chord](https://github.com/fp4me/tidal-chord) - An add-on to the amazing live coding project TidalCycles.
