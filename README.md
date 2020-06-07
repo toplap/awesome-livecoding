@@ -217,6 +217,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 (Also in Alphabetical Order)
 
 - [Arcadia](https://arcadia-unity.github.io/) - Live coding Clojure in Unity3D.
+- [Automationism](https://www.automatonism.com/) - A modular synthesiser that runs in the open source programming language Pure Data.
 - [blink](https://github.com/crosire/blink) - A library which allows you to edit source code of any Windows C++ project live at runtime.
 - [Bonzomatic](https://github.com/Gargaj/Bonzomatic) - GLSL and HLSL live coding environment, originally designed for live coding competitions at demoparties.
 - [CHmUsiCK](https://github.com/essteban/CHmUsiCK) - Library to make ChucK a 'more algorave like' language.
