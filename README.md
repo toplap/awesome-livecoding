@@ -199,6 +199,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows` `visual-language` `Freeware | Commercial` `visuals`
 
+- [WASM-music](https://github.com/petersalomonsen/javascriptmusic/blob/master/wasmaudioworklet/README.md) - A live-coding environment for performance, composition and synthesis in the web-browser.
+
+  `Google Chrome | Mozilla Firefox` `web` `JavaScript` `MIDI` `audio` `WebAudio`
+
 - [Wulfcode](https://github.com/echolevel/wulfcode) - A Midi live-coding environment for performance or composition.
 
   `macOS | Windows* | GNU/Linux*` `FLOSS` `audio`
