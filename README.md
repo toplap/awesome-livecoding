@@ -186,6 +186,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Tinalla](https://github.com/axelkramble/tinalla/) - Framework Regex based for language parsing written in javascript.
 
   `Windows | macOS | GNU/Linux` `FLOSS` `Javascript` `SuperCollider` `audio`
+  
+- [Tweakable](https://tweakable.org/) - Visual programming for music, sound and video, used by artists and musicians to make interactive art and music on the web.
+
+  `Google Chrome | Microsoft Edge` `PWA` `web` `JavaScript` `MIDI` `audio` `visuals` `WebAudio`
 
 - [Vivid](http://vivid-synth.com/) - Haskell synth live coding.
 
