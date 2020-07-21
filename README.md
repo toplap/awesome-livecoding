@@ -106,6 +106,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Max](https://cycling74.com/products/max/) - A visual programming language for media.
 
   `Windows | macOS` `graphical-language` `Commercial` `audio` `visuals`
+  
+- [Mercury](https://github.com/tmhglnd/mercury) - A highly abstracted minimal language for the live coding of algorithmic music designed to make code more accessible for the performer and less obfuscating for the audience.
+
+  `Windows | macOS` `audio` `visuals` `MaxMSP`
 
 - [Moonlet](https://github.com/elihugarret/Moonlet) - Lua live coding.
 
@@ -271,6 +275,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Tidal-Unity](https://github.com/lvm/Tidal-Unity) - TidalCycles meets Unity 3D.
 - [tida1vm](https://github.com/lvm/tida1vm) - Another TidalCycles environment inside Docker.
 - [tidebox](https://github.com/DoubleDensity/tidebox) - TidalCycles live coding environment inside a Docker container.
+- [total-serialism](https://tmhglnd.github.io/total-serialism/) - A NodeJS package filled with methods designed for algorithmic composition.
 - [Troop](https://github.com/Qirky/Troop) - Real-time collaborative live coding with FoxDot.
 - [VEDA](https://veda.gl/) - Real-time GLSL editor for Atom.
 - [WavTexture](https://github.com/keijiro/WavTexture) - A Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader.
