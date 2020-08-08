@@ -47,6 +47,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `FLOSS` `audio`
 
+- [ANSIedad](https://github.com/gabochi/ANSIedad) - Generate visuals through a terminal emulator using ANSI escape codes.
+
+  `Windows | macOS | GNU/Linux` `FLOSS` `visuals`
+
 - [Atomiix](https://github.com/rumblesan/atomiix) - A re-implementation and re-invigoration of ixi lang.
 
   `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `SuperCollider` `audio`
