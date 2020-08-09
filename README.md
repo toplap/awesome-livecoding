@@ -47,10 +47,6 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `FLOSS` `audio`
 
-- [ANSIedad](https://github.com/gabochi/ANSIedad) - Generate visuals through a terminal emulator using ANSI escape codes.
-
-  `Windows | macOS | GNU/Linux` `FLOSS` `visuals`
-
 - [Atomiix](https://github.com/rumblesan/atomiix) - A re-implementation and re-invigoration of ixi lang.
 
   `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `SuperCollider` `audio`
@@ -232,6 +228,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 (Also in Alphabetical Order)
 
+- [ANSIedad](https://github.com/gabochi/ANSIedad) - Generate visuals through a terminal emulator using ANSI escape codes.
 - [Arcadia](https://arcadia-unity.github.io/) - Live coding Clojure in Unity3D.
 - [Automationism](https://www.automatonism.com/) - A modular synthesiser that runs in the open source programming language Pure Data.
 - [blink](https://github.com/crosire/blink) - A library which allows you to edit source code of any Windows C++ project live at runtime.
