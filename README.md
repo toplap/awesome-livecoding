@@ -114,6 +114,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Moonlet](https://github.com/elihugarret/Moonlet) - Lua live coding.
 
   `Windows | GNU/Linux` `FLOSS` `audio`
+  
+- [Mosaic](https://mosaic.d3cod3.org/) - An openFrameworks based Visual Patching Creative-Coding Platform.
+
+  `Windows | macOS | GNU/Linux` `FLOSS` `graphical-language` `audio` `visuals`
 
 - [Motifn](https://www.motifn.com/) - Code music in Javascript that plays in your DAW or browser
 
@@ -400,6 +404,7 @@ This has been brought to you by [these](https://github.com/lvm/awesome-livecodin
  [<img src="https://avatars1.githubusercontent.com/u/15203140?v=4" height=50 width=50>](https://github.com/paullucas)
  [<img src="https://avatars3.githubusercontent.com/u/22543694?v=4" height=50 width=50>](https://github.com/iyzsong)
  [<img src="https://avatars2.githubusercontent.com/u/169088?v=4" height=50 width=50>](https://github.com/rumblesan)
+ [<img src="https://avatars0.githubusercontent.com/u/141075?v=4" height=50 width=50>](https://github.com/d3cod3)
 
 
 
