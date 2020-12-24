@@ -190,7 +190,11 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [TimeLines](https://github.com/lnfiniteMonkeys/TimeLines) - A modular synthesizer for live coding the flow of time.
 
   `Windows | macOS | GNU/Linux` `FLOSS` `Haskell` `SuperCollider` `audio`
+  
+- [tinyspec](https://github.com/nwoeanhinnogaehr/tinyspec-cling) - A C++ live-coding environment for overlap-add (re)synthesis.
 
+  `GNU/Linux` `C++` `FLOSS` `audio`
+  
 - [Tinalla](https://github.com/axelkramble/tinalla/) - Framework Regex based for language parsing written in javascript.
 
   `Windows | macOS | GNU/Linux` `FLOSS` `Javascript` `SuperCollider` `audio`
