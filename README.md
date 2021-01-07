@@ -354,7 +354,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ### Discord servers
 
-- [Estuary](https://discord.gg/D4Enr5u7Rp)
+- [Estuary](https://discord.gg/twqWteAFA2)
 - [Hydra](https://discord.gg/cJBs9smhWE)
 - [TidalCycles](https://discord.gg/CqWhZEfNbq)
 - [TOPLAP](https://discord.gg/D4Enr5u7Rp)
