@@ -356,6 +356,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 - [Estuary](https://discord.gg/twqWteAFA2)
 - [Hydra](https://discord.gg/cJBs9smhWE)
+- [Pure Data](https://discord.com/invite/AZ43djV)
 - [TidalCycles](https://discord.gg/CqWhZEfNbq)
 - [TOPLAP](https://discord.gg/D4Enr5u7Rp)
 
