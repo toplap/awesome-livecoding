@@ -10,13 +10,13 @@ This list was created with the intention of giving a quick-glance over the many 
 
 - [What is live coding](#what-is-live-coding)
 - [Websites](#websites)
+- [Community](#community)
 - [Languages](#languages)
 - [Libraries and tools](#libraries-and-tools)
 - [To Watch](#to-watch)
 - [To Read](#to-read)
 - [To Dance](#to-dance)
 - [Conferences](#conferences)
-- [Community](#community)
 - [Related lists](#related-lists)
 - [Acknowledgement](#acknowledgement)
 - [How to Contribute](#how-to-contribute)
@@ -33,6 +33,21 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 ## Websites
 
 - [TOPLAP](https://toplap.org/) - The home of Live Coding.
+
+## Community
+
+- [FORUM](https://forum.toplap.org) - A web-based 'discourse' forum for in-depth discussion and exchange around live coding.
+- [CHAT](https://chat.toplap.org/) - A host of many (slack-like) active chat rooms around live coding activities, topics and technologies (discord servers are currently more active for chat - see below)
+- Discord servers
+  - [TOPLAP](https://discord.gg/D4Enr5u7Rp)
+  - [Estuary](https://discord.gg/twqWteAFA2)
+  - [Hydra](https://discord.gg/cJBs9smhWE)
+  - [Pure Data](https://discord.com/invite/AZ43djV)
+  - [SuperCollider](https://discord.gg/bgFf9fm3)
+  - [TidalCycles](https://discord.gg/CqWhZEfNbq)
+- [We.LURK](http://we.lurk.org/) - An email-based discussion system including several livecoding and algorave related forums. (mostly inactive)
+- [/r/livecoding](https://www.reddit.com/r/livecoding/) - The Live Coding subreddit.
+- [LiveCoders](https://github.com/toplap/livecoders/) - A semi-curated, rather incomplete list of people doing live coding in the performing arts.
 
 
 ## Languages
@@ -343,21 +358,6 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [FARM](http://functional-art.org/) - Workshop on Functional Art, Music, Modeling, and Design.
 - [ICLI](http://www.liveinterfaces.org/) - International Conference on Live Interfaces.
 - [NIME](http://www.nime.org) - New Interfaces for Musical Expression conference.
-
-## Community
-
-- [FORUM](https://forum.toplap.org) - A web-based 'discourse' forum for in-depth discussion and exchange around live coding.
-- [CHAT](https://chat.toplap.org/) - A host of many (slack-like) active chat rooms around live coding activities, topics and technologies (discord servers are currently more active for chat - see below)
-- Discord servers
-  - [TOPLAP](https://discord.gg/D4Enr5u7Rp)
-  - [Estuary](https://discord.gg/twqWteAFA2)
-  - [Hydra](https://discord.gg/cJBs9smhWE)
-  - [Pure Data](https://discord.com/invite/AZ43djV)
-  - [SuperCollider](https://discord.gg/bgFf9fm3)
-  - [TidalCycles](https://discord.gg/CqWhZEfNbq)
-- [We.LURK](http://we.lurk.org/) - An email-based discussion system including several livecoding and algorave related forums. (mostly inactive)
-- [/r/livecoding](https://www.reddit.com/r/livecoding/) - The Live Coding subreddit.
-- [LiveCoders](https://github.com/toplap/livecoders/) - A semi-curated, rather incomplete list of people doing live coding in the performing arts.
 
 ## Related lists
 
