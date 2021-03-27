@@ -45,6 +45,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
   - [Pure Data](https://discord.com/invite/AZ43djV)
   - [SuperCollider](https://discord.gg/bgFf9fm3)
   - [TidalCycles](https://discord.gg/CqWhZEfNbq)
+  - [ctrlAV](https://discord.gg/WJXDHWwUs6) - A community Twitch Channel for streaming live coding, audiovisual art, tutorials, and mass games.
 - [We.LURK](http://we.lurk.org/) - An email-based discussion system including several livecoding and algorave related forums. (mostly inactive)
 - [/r/livecoding](https://www.reddit.com/r/livecoding/) - The Live Coding subreddit.
 - [LiveCoders](https://github.com/toplap/livecoders/) - A semi-curated, rather incomplete list of people doing live coding in the performing arts.
