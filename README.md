@@ -114,7 +114,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `C++` `FLOSS` `audio`
   
-- [kilobeat](https://ijc8.me/2020/05/22/kilobeat/) - A collaborative web-based dsp livecoding instrument inspired by bytebeat and Gibber.
+- [kilobeat](https://ijc8.me/kilobeat) - A collaborative web-based dsp livecoding instrument inspired by bytebeat and Gibber.
 
   `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `audio`
 
