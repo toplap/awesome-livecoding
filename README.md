@@ -49,6 +49,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [We.LURK](http://we.lurk.org/) - An email-based discussion system including several livecoding and algorave related forums. (mostly inactive)
 - [/r/livecoding](https://www.reddit.com/r/livecoding/) - The Live Coding subreddit.
 - [LiveCoders](https://github.com/toplap/livecoders/) - A semi-curated, rather incomplete list of people doing live coding in the performing arts.
+- [Algorithmic Music @ LinuxMusicians](https://linuxmusicians.com/viewforum.php?f=65) - A section of the popular LinuxMusicians forum for discussing live coding languages.
 
 ## Languages
 
