@@ -111,7 +111,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `FLOSS` `SuperCollider` `audio`
 
-- [i-score](http://www.i-score.org/) - An interactive sequencer that allows live programming of OSC-enabled applications, through a visual language and JavaScript scripting.
+- [ossia score](https://ossia.io/) - An interactive sequencer that allows live programming of intermedia, inter-protocol artworks, through a custom visual language.
 
   `Windows | macOS | GNU/Linux` `C++` `FLOSS` `audio`
 
