@@ -98,6 +98,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Gibber](http://charlie-roberts.com/gibber/) - Creative coding for JavaScript.
 
   `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `audio` `visuals`
+  
+- [GLICOL](https://glicol.web.app/) - A graph-oriented live coding language written in Rust.
+
+  `Google Chrome | Mozilla Firefox` `web` `Rust` `JavaScript` `WebAssembly` `FLOSS` `audio` `visuals`
 
 - [Improviz](http://github.com/rumblesan/improviz) - An environment for using and abusing primitive shapes and animated textures.
 
@@ -114,6 +118,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [i-score](http://www.i-score.org/) - An interactive sequencer that allows live programming of OSC-enabled applications, through a visual language and JavaScript scripting.
 
   `Windows | macOS | GNU/Linux` `C++` `FLOSS` `audio`
+  
+- [kilobeat](https://ijc8.me/kilobeat) - A collaborative web-based dsp livecoding instrument inspired by bytebeat and Gibber.
+
+  `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `audio`
 
 - [Krill](https://github.com/Mdashdotdashn/krill) - Tidal cycle like live coding in NodeJS / Browser.
 
@@ -363,6 +371,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [FARM](http://functional-art.org/) - Workshop on Functional Art, Music, Modeling, and Design.
 - [ICLI](http://www.liveinterfaces.org/) - International Conference on Live Interfaces.
 - [NIME](http://www.nime.org) - New Interfaces for Musical Expression conference.
+- [WAC](https://webaudioconf.com/) - The Web Audio Conference.
 
 ## Related lists
 
