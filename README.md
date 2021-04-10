@@ -87,6 +87,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `lisp` `FLOSS` `audio`
 
+- [FaustLive](https://faustdoc.grame.fr/manual/overview/#faustlive) - FaustLive is an advanced self-contained prototyping environment for the Faust programming language with an ultra-short edit-compile-run cycle.
+
+  `Windows | macOS | GNU/Linux` `faust` `llvm` `FLOSS` `audio` `DSP`
+
 - [Fluxus](http://www.pawfal.org/fluxus/) - A rapid prototyping, playing and learning environment for 3D graphics, sound and games.
 
   `Windows | macOS | GNU/Linux | Android | PS2` `racket-lang` `lisp` `FLOSS` `visuals`
