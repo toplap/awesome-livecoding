@@ -103,6 +103,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `Haskell` `FLOSS` `visuals`
 
+- [Iannix](https://www.iannix.org/en/) - A graphical open-source sequencer for digital art
+
+  `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `audio` `Open Sound Control` `visuals`
+
 - [ixi lang](http://www.ixi-audio.net/) - An experimental project concerned with the creation of digital musical instruments and environments for generative music.
 
   `Windows | macOS | GNU/Linux` `FLOSS` `SuperCollider` `audio`
