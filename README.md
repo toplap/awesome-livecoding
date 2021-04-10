@@ -366,7 +366,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [FARM](http://functional-art.org/) - Workshop on Functional Art, Music, Modeling, and Design.
 - [ICLI](http://www.liveinterfaces.org/) - International Conference on Live Interfaces.
 - [NIME](http://www.nime.org) - New Interfaces for Musical Expression conference.
-- [WAC](https://http://webaudioconf.com/) - The Web Audio Conference.
+- [WAC](https://webaudioconf.com/) - The Web Audio Conference.
 
 ## Related lists
 
