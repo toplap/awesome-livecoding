@@ -289,6 +289,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [hydra](https://github.com/ojack/hydra) - Live Coding networked visuals in the browser.
 - [HYLOGEN](https://github.com/sleexyz/hylogen) - An embedding of GLSL in Haskell.
 - [incudine](http://incudine.sourceforge.net) - Music/DSP programming environment for Common Lisp.
+- [INSTRUMENT](https://github.com/punksnotdev/INSTRUMENT) - For live coding music and interfacing musical instruments and controllers in SuperCollider.
 - [isobar](https://github.com/ideoforms/isobar) - A Python library for algorithmic composition by expressing and constructing musical patterns.
 - [jet-live](https://github.com/ddovod/jet-live) - A library which implements c++ hot code reload approach for Linux and macOS.
 - [KodeLife](https://hexler.net/software/kodelife) - Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
