@@ -273,6 +273,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Automationism](https://www.automatonism.com/) - A modular synthesiser that runs in the open source programming language Pure Data.
 - [blink](https://github.com/crosire/blink) - A library which allows you to edit source code of any Windows C++ project live at runtime.
 - [Bonzomatic](https://github.com/Gargaj/Bonzomatic) - GLSL and HLSL live coding environment, originally designed for live coding competitions at demoparties.
+- [CaosBox](https://github.com/josecaos/caosbox) - A non-common live coding and algorave sequencer written with SuperCollider.
 - [CHmUsiCK](https://github.com/essteban/CHmUsiCK) - Library to make ChucK a 'more algorave like' language.
 - [cl-collider](https://github.com/byulparan/cl-collider) - A SuperCollider client for CommonLisp.
 - [dafxpipe](https://github.com/nwoeanhinnogaehr/dafxpipe) - Software for live coding audio effects and synths.
