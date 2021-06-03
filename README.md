@@ -66,6 +66,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Atomiix](https://github.com/rumblesan/atomiix) - A re-implementation and re-invigoration of ixi lang.
 
   `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `SuperCollider` `audio`
+  
+- [Bacalao](https://github.com/totalgee/bacalao) - A live-coding library for SuperCollider inspired by Tidalcycles syntax.
+
+  `Windows | macOS | GNU/Linux` `SuperCollider` `audio`
 
 - [ChucK](http://chuck.cs.princeton.edu/) - Strongly-timed, Concurrent, and On-the-fly Music Programming Language.
 
