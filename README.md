@@ -50,6 +50,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [/r/livecoding](https://www.reddit.com/r/livecoding/) - The Live Coding subreddit.
 - [LiveCoders](https://github.com/toplap/livecoders/) - A semi-curated, rather incomplete list of people doing live coding in the performing arts.
 - [Algorithmic Music @ LinuxMusicians](https://linuxmusicians.com/viewforum.php?f=65) - A section of the popular LinuxMusicians forum for discussing live coding languages.
+- [livecode.demozoo.org](https://livecode.demozoo.org) - Archive of demoscene related live coding events.
 
 ## Languages
 
