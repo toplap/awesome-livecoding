@@ -192,6 +192,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `SuperCollider` `FLOSS` `audio`
 
+- [sema](https://github.com/mimic-sussex/sema) - Sema – A Playground for Live Coding Music and Machine Learning.
+
+  `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `audio`
+
 - [serialist](https://github.com/irritant/serialist) - A live coding environment that generates MIDI messages.
 
   `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `audio`
