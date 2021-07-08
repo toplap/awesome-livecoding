@@ -42,6 +42,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
   - [TOPLAP](https://discord.gg/D4Enr5u7Rp) - cross-community live coding chat + discussion 
   - [Estuary](https://discord.gg/twqWteAFA2)
   - [Hydra](https://discord.gg/cJBs9smhWE)
+  - [gwion](https://discord.gg/KmHqbTKSmS)
   - [Pure Data](https://discord.com/invite/AZ43djV)
   - [SuperCollider](https://discord.gg/bgFf9fm3)
   - [TidalCycles](https://discord.gg/CqWhZEfNbq)
@@ -111,6 +112,9 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [GLICOL](https://glicol.web.app/) - A graph-oriented live coding language written in Rust.
 
   `Google Chrome | Mozilla Firefox` `web` `Rust` `JavaScript` `WebAssembly` `FLOSS` `audio` `visuals`
+
+- [gwion](https://github.com/Gwion/Gwion) - :musical_note: strongly-timed musical programming language
+  `Windows | macOS | GNU/Linux` `FLOSS` `audio`
 
 - [Improviz](http://github.com/rumblesan/improviz) - An environment for using and abusing primitive shapes and animated textures.
 
