@@ -362,6 +362,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [SuperCollider Tutorials](https://www.youtube.com/playlist?list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC) - A video series by Eli Fieldsteel.
 - [THIS is computer music](https://www.youtube.com/watch?v=S-T8kcSRLL0) - Ge Wang.
 - [TidalCycles YouTube Channel](https://www.youtube.com/channel/UCG5Ynx9mvouuSHYEyxaJ0Cg) - Official channel of the TidalCycles collective.
+- [Manning Publications YouTube Channel](https://www.youtube.com/channel/UCDia_lkNYKLJVLRLQl_-pFw) - Join your favorite Manning authors as they write code, answer your questions, and demonstrate the tech they love. 
 
 ## To Read
 
