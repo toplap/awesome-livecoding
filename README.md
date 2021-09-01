@@ -37,8 +37,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 ## Community
 
 - [FORUM](https://forum.toplap.org) - A web-based 'discourse' forum for in-depth discussion and exchange around live coding.
-- [CHAT](https://chat.toplap.org/) - A host of many (slack-like) active chat rooms around live coding activities, topics and technologies (discord servers are currently more active for chat - see below)
-- Discord servers
+- Discord chat servers
   - [TOPLAP](https://discord.gg/D4Enr5u7Rp) - cross-community live coding chat + discussion 
   - [Estuary](https://discord.gg/twqWteAFA2)
   - [Hydra](https://discord.gg/cJBs9smhWE)
