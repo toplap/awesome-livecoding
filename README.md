@@ -290,6 +290,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [CHmUsiCK](https://github.com/essteban/CHmUsiCK) - Library to make ChucK a 'more algorave like' language.
 - [cl-collider](https://github.com/byulparan/cl-collider) - A SuperCollider client for CommonLisp.
 - [dafxpipe](https://github.com/nwoeanhinnogaehr/dafxpipe) - Software for live coding audio effects and synths.
+- [diatonic](https://github.com/pd3v/diatonic) - Diatonic transforms for music making.
 - [disclojure](https://github.com/pjagielski/disclojure) - A live coding environment for Overtone and Leipzig.
 - [EspGrid](https://github.com/d0kt0r0/EspGrid) - Synchronization and sharing for network music.
 - [Extramuros](https://github.com/d0kt0r0/extramuros) - Language-neutral shared-buffer networked live coding system.
