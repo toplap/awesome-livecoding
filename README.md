@@ -373,7 +373,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Alex McLean's publications](https://slab.org/publications/) - Conference papers, book chapters and journal articles.
 - [Live Coding Mailing List Archive](https://raw.githubusercontent.com/yaxu/unravelling/master/livecodemlarchive.txt) - A piece of history.
 - [TOPLAP Wiki](https://toplap.org/wiki/Videos,_Articles_and_Papers) - Videos, articles, and papers.
-- [Collaboration and learning through live coding](http://drops.dagstuhl.de/opus/frontdoor.php?source_opus=4420) - Blackwell, Alan ; McLean, Alex ; Noble, James ; Rohrhuber, Julian.
+- [Collaboration and learning through live coding](http://drops.dagstuhl.de/opus/frontdoor.php?source_opus=4420) - Alan Blackwell, Alex McLean, James Noble,  Julian Rohrhuber (2014).
 - [howto_co34pt_liveCode](https://theseanco.github.io/howto_co34pt_liveCode/) - Guide on how to live code in SuperCollider based on the performance practice of live coder coï¿¥ï¾¡pt.
 - [Run the code: is algorave the future of dance music?](https://www.theguardian.com/music/2017/nov/30/is-algorave-the-future-of-dance-music-sheffield-algomech-festival) - Another part of the Guardian’s underground music series (2017).
 
