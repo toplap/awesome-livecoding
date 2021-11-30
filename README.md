@@ -391,6 +391,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [ICLI](http://www.liveinterfaces.org/) - International Conference on Live Interfaces.
 - [NIME](http://www.nime.org) - New Interfaces for Musical Expression conference.
 - [WAC](https://webaudioconf.com/) - The Web Audio Conference.
+- [HLCI](https://hybrid-livecode.pubpub.org/) - Hybrid Live Coding Interfaces: performance and craft.
 
 ## Related lists
 
