@@ -289,6 +289,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [CaosBox](https://github.com/josecaos/caosbox) - A non-common live coding and algorave sequencer written with SuperCollider.
 - [CHmUsiCK](https://github.com/essteban/CHmUsiCK) - Library to make ChucK a 'more algorave like' language.
 - [cl-collider](https://github.com/byulparan/cl-collider) - A SuperCollider client for CommonLisp.
+- [Cowbells](https://github.com/omkamra/cowbells) - A Clojure library for musical experimentation and live coding.
 - [dafxpipe](https://github.com/nwoeanhinnogaehr/dafxpipe) - Software for live coding audio effects and synths.
 - [diatonic](https://github.com/pd3v/diatonic) - Diatonic transforms for music making.
 - [disclojure](https://github.com/pjagielski/disclojure) - A live coding environment for Overtone and Leipzig.
