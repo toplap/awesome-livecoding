@@ -104,7 +104,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `Python` `SuperCollider` `FLOSS` `audio`
 
-- [Gibber](http://charlie-roberts.com/gibber/) - Creative coding for JavaScript.
+- [Gibber](https://gibber.cc/) - Creative coding for JavaScript.
 
   `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `audio` `visuals`
   
