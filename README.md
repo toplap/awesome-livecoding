@@ -41,6 +41,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
   - [TOPLAP](https://discord.gg/D4Enr5u7Rp) - cross-community live coding chat + discussion 
   - [Estuary](https://discord.gg/twqWteAFA2)
   - [Hydra](https://discord.gg/cJBs9smhWE)
+  - [Cane](https://discord.gg/UVYAtpYYD2)
   - [gwion](https://discord.gg/KmHqbTKSmS)
   - [Pure Data](https://discord.com/invite/AZ43djV)
   - [SuperCollider](https://discord.gg/bgFf9fm3)
@@ -71,6 +72,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Bacalao](https://github.com/totalgee/bacalao) - A live-coding library for SuperCollider inspired by Tidalcycles syntax.
 
   `Windows | macOS | GNU/Linux` `SuperCollider` `audio`
+
+- [Cane](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
 
 - [ChucK](http://chuck.cs.princeton.edu/) - Strongly-timed, Concurrent, and On-the-fly Music Programming Language.
 
