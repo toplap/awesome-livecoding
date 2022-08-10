@@ -199,6 +199,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `SuperCollider` `FLOSS` `audio`
 
+- [Sardine](https://github.com/Bubobubobubobubo/Sardine) A Python based live coding library (MIDI/OSC/SuperDirt).
+
+  `Windows | macOS | GNU/Linux` `Python` `SuperCollider` `FLOSS` `audio` `midi` `Open Sound Control`
+
 - [sema](https://github.com/mimic-sussex/sema) - Sema – A Playground for Live Coding Music and Machine Learning.
 
   `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `audio`
