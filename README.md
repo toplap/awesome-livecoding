@@ -75,6 +75,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 - [Cane](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
 
+  `Windows | macOS | GNU/Linux` `FLOSS` `audio` `MIDI` `Jack`
+
 - [ChucK](http://chuck.cs.princeton.edu/) - Strongly-timed, Concurrent, and On-the-fly Music Programming Language.
 
   `Windows | macOS | GNU/Linux` `FLOSS` `audio`
