@@ -418,6 +418,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Programming Languages Used for Music](http://www.nosuch.com/plum/cgi/showlist.cgi?sort=name&concise=yes) - An historical list of languages to produce music.
 - [awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) - A curated list of Oli Larkin's favourite music DSP and audio plug-in frameworks.
 - [Awesome SuperCollider](https://github.com/madskjeldgaard/awesome-supercollider) - A curated list of SuperCollider stuff.
+- [Awesome TidalCycles](https://github.com/tidalcycles/awesome-tidalcycles) - An awesome list about the pattern-based live coding system TidalCycles (or just 'Tidal' for short) and its close relatives
+
 
 
 ## Acknowledgement
