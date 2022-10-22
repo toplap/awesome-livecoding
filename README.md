@@ -143,6 +143,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Krill](https://github.com/Mdashdotdashn/krill) - Tidal cycle like live coding in NodeJS / Browser.
 
   `Windows | macOS | GNU/Linux` `NodeJS` `Browser` `FLOSS` `midi`
+  
+- [Live Coding Toolkit](https://github.com/algomusic/Live-Coding-Toolkit-for-Pure-Data) - A suite of Pure Data abstractions (predefined functions) for musical live coding.
+
+  `Windows | macOS | GNU/Linux` `audio` `midi` `FLOSS` `graphical-language`
 
 - [LiveCodeLab](http://livecodelab.net) - A web-based language and environment for VJs, musicians and graphic artists. Allows for immediate and engaging run-as-you-type prototyping, also used in education.
 
