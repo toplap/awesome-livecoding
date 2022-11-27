@@ -248,7 +248,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linxux` `Haskell` `SuperCollider` `FLOSS` `audio`
 
-- [TimeLines](https://github.com/lnfiniteMonkeys/TimeLines) - A modular synthesizer for live coding the flow of time.
+- [TimeLines](https://github.com/lnfiniteMonkeys/TimeLines-hs) - A modular synthesizer for live coding the flow of time.
 
   `Windows | macOS | GNU/Linux` `FLOSS` `Haskell` `SuperCollider` `audio`
   
