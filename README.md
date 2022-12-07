@@ -144,7 +144,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `NodeJS` `Browser` `FLOSS` `midi`
   
-- [Limut](https://github.com/pd3v/line) - Live code music and visuals in a web browser.
+- [Limut](https://github.com/sdclibbery/limut) - Live code music and visuals in a web browser.
   
   `Google Chrome | Mozilla Firefox | Safari` `web` `JavaScript` `FLOSS` `audio` `visuals`
 
