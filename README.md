@@ -167,6 +167,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Mercury](https://github.com/tmhglnd/mercury) - A highly abstracted minimal language for the live coding of algorithmic music designed to make code more accessible for the performer and less obfuscating for the audience.
 
   `Windows | macOS` `audio` `visuals` `MaxMSP`
+  
+- [Mercury Web](https://mercury.timohoogland.com) - Browser version of the Mercury live coding environment based on ToneJS.
+
+  `Google Chrome | Mozilla Firefox` `web` `JavaScript` `audio` `visuals`
 
 - [Moonlet](https://github.com/elihugarret/Moonlet) - Lua live coding.
 
