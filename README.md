@@ -119,6 +119,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 - [gwion](https://github.com/Gwion/Gwion) - :musical_note: strongly-timed musical programming language
   `Windows | macOS | GNU/Linux` `FLOSS` `audio`
+  
+- [hydra](https://github.com/ojack/hydra) - Live Coding networked visuals in the browser.
+
+  `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `visuals`
 
 - [Improviz](http://github.com/rumblesan/improviz) - An environment for using and abusing primitive shapes and animated textures.
 
@@ -239,6 +243,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Steno](https://github.com/musikinformatik/Steno) - Concatenative little metalanguage for live coding.
 
   `Windows | macOS | GNU/Linux` `SuperCollider` `FLOSS` `audio`
+  
+- [Strudel](https://strudel.tidalcycles.org) - Live coding (Tidal-style) algorithmic patterns for the web.
+
+  `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `audio`
 
 - [SuperCollider](http://supercollider.github.io/) - A platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound.
 
@@ -324,7 +332,6 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Gideros](http://giderosmobile.com/) - Lua 2D game engine with live coding capabilities.
 - [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Live GLSL coding render for macOS and Linux.
 - [hsc3](https://hackage.haskell.org/package/hsc3) - A Haskell SuperCollider client.
-- [hydra](https://github.com/ojack/hydra) - Live Coding networked visuals in the browser.
 - [HYLOGEN](https://github.com/sleexyz/hylogen) - An embedding of GLSL in Haskell.
 - [incudine](http://incudine.sourceforge.net) - Music/DSP programming environment for Common Lisp.
 - [INSTRUMENT](https://github.com/punksnotdev/INSTRUMENT) - For live coding music and interfacing musical instruments and controllers in SuperCollider.
