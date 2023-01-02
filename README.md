@@ -166,11 +166,11 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 - [Mégra.rs](https://github.com/the-drunk-coder/megra.rs) - A high-level, LISP-y live coding language implemented in Rust. Prominently features Markov chains.
 
-   `Windows | macOS | GNU/Linux` `FLOSS` `audio` `LISP` `rust` 
+   `Windows | macOS | GNU/Linux` `FLOSS` `audio` `LISP` `rust`
   
-- [Mercury](https://github.com/tmhglnd/mercury) - A highly abstracted minimal language for the live coding of algorithmic music designed to make code more accessible for the performer and less obfuscating for the audience.
+- [Mercury](https://github.com/tmhglnd/mercury) | [Mercury Playground](https://mercury.timohoogland.com) - A highly abstracted minimal language for the live coding of algorithmic music, designed to make code more accessible for both the performer and the audience. Runs in Max or the Browser.
 
-  `Windows | macOS` `audio` `visuals` `MaxMSP`
+  `Windows | macOS` `Chrome | Firefox` `audio` `visuals` `MaxMSP` `JavaScript`
 
 - [Moonlet](https://github.com/elihugarret/Moonlet) - Lua live coding.
 
