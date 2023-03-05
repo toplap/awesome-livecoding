@@ -163,6 +163,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Max](https://cycling74.com/products/max/) - A visual programming language for media.
 
   `Windows | macOS` `graphical-language` `Commercial` `audio` `visuals`
+  
+- [Melrōse](https://melrōse.org) - a MIDI producing environment for creating (live) music
+
+  `Windows | macOS | GNU/Linux` `golang` `web` `midi` `MIT`
 
 - [Mégra.rs](https://github.com/the-drunk-coder/megra.rs) - A high-level, LISP-y live coding language implemented in Rust. Prominently features Markov chains.
 
