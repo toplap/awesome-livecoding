@@ -96,6 +96,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Extempore](https://extemporelang.github.io) - (Previously [Impromptu](http://impromptu.moso.com.au/)) A programming language and runtime environment designed to support 'cyberphysical programming'.
 
   `Windows | macOS | GNU/Linux` `lisp` `FLOSS` `audio`
+  
+- [Facet](https://github.com/mjcella/facet) - An open source livecoding environment in NodeJS with a text editor in the browser.
+
+  `Windows | macOS | GNU/Linux` `NodeJS` `JavaScript` `midi` `Open Sound Control` `audio` `synthesis`
 
 - [FaustLive](https://faustdoc.grame.fr/manual/overview/#faustlive) - FaustLive is an advanced self-contained prototyping environment for the Faust programming language with an ultra-short edit-compile-run cycle.
 
