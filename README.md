@@ -411,6 +411,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## To Read
 
+- [Live Coding: A User's Manual](https://livecodingbook.toplap.org/) - Open access book, published by MIT Press
 - [Manifesto (draft)](https://toplap.org/wiki/ManifestoDraft) - Obscurantism is dangerous. Show us your screens.
 - [Origins of Live Coding](http://composerprogrammer.com/research/originsoflivecoding.pdf) - Nick Collins - Durham University.
 - [Herding Cats: Observing Live Coding in the Wild](http://www.mitpressjournals.org/doi/pdf/10.1162/COMJ_a_00216) - Thor Magnusson - Department of Music - University of Sussex.
