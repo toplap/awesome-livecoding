@@ -214,7 +214,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 - [Pulchra](https://pulchra.netlify.app/) - Live coding language for 3D graphics.
 
-  `Google Chrome | Microsoft Edge | etc.` `Web` `WebGL` `JavaScript` `visuals`
+  `Google Chrome | Microsoft Edge | etc.` `Web` `WebGL` `visuals`
 
 - [Pure Data](https://puredata.info/) - An open source visual programming language that can be used to process and generate sound, video, 2D/3D graphics, and interface sensors, input devices, and MIDI.
 
