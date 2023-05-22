@@ -212,6 +212,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `Java` `Processing` `GLSL` `graphical-language` `FLOSS` `visuals` `audio`
 
+- [Pulchra](https://pulchra.netlify.app/) - Live coding language for 3D graphics.
+
+  `Google Chrome | Microsoft Edge | etc.` `Web` `WebGL` `JavaScript` `visuals`
+
 - [Pure Data](https://puredata.info/) - An open source visual programming language that can be used to process and generate sound, video, 2D/3D graphics, and interface sensors, input devices, and MIDI.
 
   `Windows | macOS | GNU/Linux` `graphical-language` `FLOSS` `audio` `visuals`
