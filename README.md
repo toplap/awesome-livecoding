@@ -53,7 +53,9 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
   - [SuperCollider](https://discord.gg/bgFf9fm3)
   - [TidalCycles](https://discord.gg/CqWhZEfNbq)
   - [ctrlAV](https://discord.gg/WJXDHWwUs6) - A community Twitch Channel for streaming live coding, audiovisual art, tutorials, and mass games.
-- [We.LURK](http://we.lurk.org/) - An email-based discussion system including several livecoding and algorave related forums. (mostly inactive)
+- Mastodon
+  - Live coding-related and -adjacent servers include: [sonomu.club](https://sonomu.club/), [assemblag.es](https://assemblag.es) and [post.lurk.org](https://post.lurk.org)
+  - General live coding-related accounts include: [@toplap@assemblag.es ](https://assemblag.es/@toplap) [https://post.lurk.org/@algorave](@algorave@post.lurk.org)
 - [/r/livecoding](https://www.reddit.com/r/livecoding/) - The Live Coding subreddit.
 - [LiveCoders](https://github.com/toplap/livecoders/) - A semi-curated, rather incomplete list of people doing live coding in the performing arts.
 - [Algorithmic Music @ LinuxMusicians](https://linuxmusicians.com/viewforum.php?f=65) - A section of the popular LinuxMusicians forum for discussing live coding languages.
