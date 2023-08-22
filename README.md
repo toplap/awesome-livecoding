@@ -39,7 +39,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [livecode mailing list](https://we.lurk.org/mailman3/lists/livecode.we.lurk.org/) - Old school email discussion list, going since 2004!
   - [Archive from February 2004 - August 2023](https://toplap.org/livecode-archive/)
   - [Current archive](https://we.lurk.org/archives/list/livecode@we.lurk.org/latest)
-- [TOPLAP Forum](https://forum.toplap.org) - A web-based 'discourse' forum for in-depth discussion and exchange around live coding.
+- Web forums
+  - [TOPLAP Forum](https://forum.toplap.org) - A web-based 'discourse' forum for in-depth discussion and exchange around live coding.
+  - [Tidal club](https://club.tidalcycles.org) - A discourse forum for TidalCycles (including for the [video course](https://club.tidalcycles.org/c/course/14?ascending=true&order=created))
+  - [Lines Forum](https://llllllll.co/) - from the monome community, with loads of general music tech threads including [on live coding](https://llllllll.co/t/live-coding/5032) 
 - Discord servers for live chat around live coding
   - [TOPLAP](https://discord.gg/D4Enr5u7Rp) - cross-community live coding chat + discussion 
   - [Estuary](https://discord.gg/twqWteAFA2)
