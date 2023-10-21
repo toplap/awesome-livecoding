@@ -93,7 +93,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `GNU/Linux` `C` `FLOSS` `audio`
 
-- [Conductive](http://www.renickbell.net/doku.php?id=conductive) - A set of Haskell libraries for livecoding and real-time music applications.
+- [Conductive]([http://www.renickbell.net/doku.php?id=conductive](https://hackage.haskell.org/package/conductive-base)) - A set of Haskell libraries for livecoding and real-time music applications.
 
   `Windows | macOS | GNU/Linux` `haskell`  `SuperCollider` `FLOSS` `audio`
 
