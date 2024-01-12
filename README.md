@@ -405,7 +405,6 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 ### Documentaries and features
 
 - [Algorave Generation](https://www.youtube.com/watch?v=S2EZqikCIfY) - Resident Advisor.
-- [Algorithms are Thoughts, Chainsaws are Tools](https://vimeo.com/9790850) - A short film on livecoding presented as part of the Critical Code Studies Working Group, March 2010, by Stephen Ramsay.
 - [Live coding for Algoraving](https://www.youtube.com/watch?v=RpzEzUCgVoQ) - Shelly Knotts+Joanne Armitage / workshop supported by YSWN + LCRN.
 - [PBUP - A patchwork portrait](https://www.youtube.com/playlist?list=PLKRUGJaqJkAfU_PaYUeiRzD5qh5tkwvdj) - A documentary about PowerBooks UnPlugged, "the first acoustic computer band".
 - [Run the code](https://www.youtube.com/watch?v=h340aNznHnM) - Documentary in The Guardian.
@@ -413,6 +412,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Sounds of code](https://www.youtube.com/watch?v=uA4SDytz8Aw) - 2019 documentary w/ interviews with live coders.
 
 ### Performances, talks, etc
+
+- Eulerroom - Over 1000 performances to watch! Also [archived on archive.org](https://archive.org/details/toplap).
 
 - [Algorave - Algorithmic dance culture](https://www.youtube.com/watch?v=nAGjTYa95HM) - Alex McLean.
 - [Arte Tracks - Live coding and Algorave](https://www.youtube.com/watch?v=X_NQKPH91kM)
@@ -423,7 +424,6 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Programming in Time - Live Coding for creative performances](https://www.youtube.com/watch?v=Sg2BjFQnr9s) - Andrew Sorensen.
 - [SuperCollider Tutorials](https://www.youtube.com/playlist?list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC) - A video series by Eli Fieldsteel.
 - [THIS is computer music](https://www.youtube.com/watch?v=S-T8kcSRLL0) - Ge Wang.
-- [TidalCycles YouTube Channel](https://www.youtube.com/channel/UCG5Ynx9mvouuSHYEyxaJ0Cg) - Official channel of the TidalCycles collective.
 
 ## To Read
 
@@ -439,7 +439,6 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Collaboration and learning through live coding](http://drops.dagstuhl.de/opus/frontdoor.php?source_opus=4420) - Alan Blackwell, Alex McLean, James Noble,  Julian Rohrhuber (2014).
 - [howto_co34pt_liveCode](https://theseanco.github.io/howto_co34pt_liveCode/) - Guide on how to live code in SuperCollider based on the performance practice of live coder coï¿¥ï¾¡pt.
 - [Run the code: is algorave the future of dance music?](https://www.theguardian.com/music/2017/nov/30/is-algorave-the-future-of-dance-music-sheffield-algomech-festival) - Another part of the Guardian’s underground music series (2017).
-
 
 ## To Dance
 
@@ -466,8 +465,6 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) - A curated list of Oli Larkin's favourite music DSP and audio plug-in frameworks.
 - [Awesome SuperCollider](https://github.com/madskjeldgaard/awesome-supercollider) - A curated list of SuperCollider stuff.
 - [Awesome TidalCycles](https://github.com/tidalcycles/awesome-tidalcycles) - An awesome list about the pattern-based live coding system TidalCycles (or just 'Tidal' for short) and its close relatives
-
-
 
 ## Acknowledgement
 
