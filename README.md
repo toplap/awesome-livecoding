@@ -56,10 +56,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
   - Official TOPLAP mastodon instance: [TOPLAP Social](https://social.toplap.org/)
   - List of livecode communities and projects on mastodon: https://social.toplap.org/@toplap/111703319382988669
   - Other live coding-related and -adjacent instances include: [sonomu.club](https://sonomu.club/), [assemblag.es](https://assemblag.es) and [post.lurk.org](https://post.lurk.org)
-  - General live coding-related accounts include: [@toplap@assemblag.es ](https://assemblag.es/@toplap) [https://post.lurk.org/@algorave](@algorave@post.lurk.org)
+  - General live coding-related accounts include: [@toplap@toplap.org](https://social.toplap.org/@toplap) [https://social.toplap.org/@algorave](@algorave@toplap.org)
 - [/r/livecoding](https://www.reddit.com/r/livecoding/) - The Live Coding subreddit.
-- [LiveCoders](https://github.com/toplap/livecoders/) - A semi-curated, rather incomplete list of people doing live coding in the performing arts.
-- [Algorithmic Music @ LinuxMusicians](https://linuxmusicians.com/viewforum.php?f=65) - A section of the popular LinuxMusicians forum for discussing live coding languages.
 - [livecode.demozoo.org](https://livecode.demozoo.org) - Archive of demoscene related live coding events.
 
 ## Languages
