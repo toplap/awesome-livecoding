@@ -50,9 +50,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
   - [Cane](https://discord.gg/UVYAtpYYD2)
   - [gwion](https://discord.gg/KmHqbTKSmS)
   - [Pure Data](https://discord.com/invite/AZ43djV)
-  - [SuperCollider](https://discord.gg/bgFf9fm3)
+  - [SuperCollider](https://discord.gg/ktz4xQZv7b)
   - [TidalCycles](https://discord.gg/CqWhZEfNbq)
-  - [ctrlAV](https://discord.gg/WJXDHWwUs6) - A community Twitch Channel for streaming live coding, audiovisual art, tutorials, and mass games.
 - Mastodon
   - Official TOPLAP mastodon instance: [TOPLAP Social](https://social.toplap.org/)
   - List of livecode communities and projects on mastodon: https://social.toplap.org/@toplap/111703319382988669
