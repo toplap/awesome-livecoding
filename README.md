@@ -242,6 +242,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `SuperCollider` `FLOSS` `audio`
 
+- [Regex](https://library.vcvrack.com/Biset/Biset-Regex) - A VCV Rack live coding module generating intricated pitch and rhythm sequences.
+
+  `Windows | macOS | GNU/Linux` `VCV` `Rack` `Modular` `FLOSS` `audio`
+
 - [Sardine](https://github.com/Bubobubobubobubo/Sardine) A Python based live coding library (MIDI/OSC/SuperDirt).
 
   `Windows | macOS | GNU/Linux` `Python` `SuperCollider` `FLOSS` `audio` `midi` `Open Sound Control`
