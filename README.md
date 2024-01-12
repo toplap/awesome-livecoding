@@ -51,7 +51,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
   - [gwion](https://discord.gg/KmHqbTKSmS)
   - [Pure Data](https://discord.com/invite/AZ43djV)
   - [SuperCollider](https://discord.gg/ktz4xQZv7b)
-  - [TidalCycles](https://discord.gg/CqWhZEfNbq)
+  - [TidalCycles, Strudel and friends](https://discord.gg/CqWhZEfNbq)
 - Mastodon
   - Official TOPLAP mastodon instance: [TOPLAP Social](https://social.toplap.org/)
   - List of livecode communities and projects on mastodon: https://social.toplap.org/@toplap/111703319382988669
@@ -72,7 +72,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `FLOSS` `audio`
 
-- [Atomiix](https://github.com/rumblesan/atomiix) - A re-implementation and re-invigoration of ixi lang.
+- [Atomiix](https://github.com/rumblesan/atomiix) - A re-implementation and re-invigoration of ixi lang. (inactive)
 
   `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `SuperCollider` `audio`
   
@@ -92,11 +92,11 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `GNU/Linux` `C` `FLOSS` `audio`
 
-- [Conductive](http://www.renickbell.net/doku.php?id=conductive) - A set of Haskell libraries for livecoding and real-time music applications.
+- [Conductive](https://hackage.haskell.org/package/conductive-base) - A set of Haskell libraries for livecoding and real-time music applications. (inactive)
 
   `Windows | macOS | GNU/Linux` `haskell`  `SuperCollider` `FLOSS` `audio`
 
-- [Cyril](http://cyrilcode.com/) - A programming language designed for fast prototyping of visualisations and livecoding visuals.
+- [Cyril](http://cyrilcode.com/) - A programming language designed for fast prototyping of visualisations and livecoding visuals. (inactive)
 
   `Windows | macOS | GNU/Linux` `openFrameworks` `FLOSS` `visuals`
 
@@ -112,11 +112,11 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `faust` `llvm` `FLOSS` `audio` `DSP`
 
-- [Fluxus](http://www.pawfal.org/fluxus/) - A rapid prototyping, playing and learning environment for 3D graphics, sound and games.
+- [Fluxus](http://www.pawfal.org/Software/fluxus_/) - A rapid prototyping, playing and learning environment for 3D graphics, sound and games.
 
   `Windows | macOS | GNU/Linux | Android | PS2` `racket-lang` `lisp` `FLOSS` `visuals`
 
-- [FoxDot](http://foxdot.org/) - Live Coding with Python and SuperCollider.
+- [FoxDot](http://foxdot.org/) - Live Coding with Python and SuperCollider. See also the [pitchglitch](https://gitlab.com/iShapeNoise/foxdot) actively maintained fork.
 
   `Windows | macOS | GNU/Linux` `Python` `SuperCollider` `FLOSS` `audio`
 
@@ -131,11 +131,11 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [gwion](https://github.com/Gwion/Gwion) - :musical_note: strongly-timed musical programming language
   `Windows | macOS | GNU/Linux` `FLOSS` `audio`
   
-- [hydra](https://github.com/ojack/hydra) - Live Coding networked visuals in the browser.
+- [hydra](https://github.com/hydra-synth/hydra) - Live Coding networked visuals in the browser.
 
   `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `visuals`
 
-- [Improviz](http://github.com/rumblesan/improviz) - An environment for using and abusing primitive shapes and animated textures.
+- [Improviz](http://github.com/rumblesan/improviz) - An environment for using and abusing primitive shapes and animated textures. (inactive/deprecated)
 
   `Windows | macOS | GNU/Linux` `Haskell` `FLOSS` `visuals`
 
@@ -143,7 +143,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `audio` `Open Sound Control` `visuals`
 
-- [ixi lang](http://www.ixi-audio.net/) - An experimental project concerned with the creation of digital musical instruments and environments for generative music.
+- [ixi lang](https://github.com/thormagnusson/ixilang) - An experimental project concerned with the creation of digital musical instruments and environments for generative music. (inactive)
 
   `Windows | macOS | GNU/Linux` `FLOSS` `SuperCollider` `audio`
 
@@ -155,7 +155,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `audio`
 
-- [Krill](https://github.com/Mdashdotdashn/krill) - Tidal cycle like live coding in NodeJS / Browser.
+- [Krill](https://github.com/Mdashdotdashn/krill) - Tidal cycle like live coding in NodeJS / Browser. (inactive)
 
   `Windows | macOS | GNU/Linux` `NodeJS` `Browser` `FLOSS` `midi`
   
@@ -167,7 +167,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
   
   `Windows | macOS | GNU/Linux` `c++` `FLOSS` `midi` `audio`
 
-- [LiveCodeLab](http://livecodelab.net) - A web-based language and environment for VJs, musicians and graphic artists. Allows for immediate and engaging run-as-you-type prototyping, also used in education.
+- [LiveCodeLab](http://livecodelab.net) - A web-based language and environment for VJs, musicians and graphic artists. Allows for immediate and engaging run-as-you-type prototyping, also used in education. (inactive)
 
   `Windows | macOS | GNU/Linux` `web` `FLOSS` `visuals` `audio`
 
@@ -187,7 +187,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS` `Chrome | Firefox` `audio` `visuals` `MaxMSP` `JavaScript`
 
-- [Moonlet](https://github.com/elihugarret/Moonlet) - Lua live coding.
+- [Moonlet](https://github.com/elihugarret/Moonlet) - Lua live coding. (inactive)
 
   `Windows | GNU/Linux` `FLOSS` `audio`
   
@@ -227,11 +227,11 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `graphical-language` `FLOSS` `audio` `visuals`
 
-- ~~[re<urse](https://github.com/carrierdown/recurse)~~ - A language for generating musical patterns.
+- [re<urse](https://github.com/carrierdown/recurse) - A language for generating musical patterns. (inactive)
 
   `abandoned` `Windows | macOS | GNU/Linux` `TypeScript` `FLOSS` `audio`
 
-- [Repetition.sc](https://github.com/lvm/Repetition.sc) - A set of tools to build a SequenceableCollection of Events.
+- [Repetition.sc](https://github.com/lvm/Repetition.sc) - A set of tools to build a SequenceableCollection of Events. (inactive)
 
   `Windows | macOS | GNU/Linux` `SuperCollider` `FLOSS` `audio`
 
@@ -239,15 +239,15 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `Python` `SuperCollider` `FLOSS` `audio` `midi` `Open Sound Control`
 
-- [sema](https://github.com/mimic-sussex/sema) - Sema – A Playground for Live Coding Music and Machine Learning.
+- [sema](https://github.com/mimic-sussex/sema) - Sema – A Playground for Live Coding Music and Machine Learning. (inactive)
 
   `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `audio`
 
-- [serialist](https://github.com/irritant/serialist) - A live coding environment that generates MIDI messages.
+- [serialist](https://github.com/irritant/serialist) - A live coding environment that generates MIDI messages. (inactive)
 
   `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `audio`
 
-- [Skoar](https://github.com/sofakid/Skoarcery) - A high-level language for coding music with SuperCollider.
+- [Skoar](https://github.com/sofakid/Skoarcery) - A high-level language for coding music with SuperCollider. (inactive)
 
   `Windows | macOS | GNU/Linux` `SuperCollider` `Python` `FLOSS` `audio`
 
@@ -255,15 +255,15 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `Ruby` `SuperCollider` `FLOSS` `audio`
 
-- [Speccy](https://chr15m.github.io/speccy) - Live code 8-bit algorave in ClojureScript.
+- [Speccy](https://chr15m.github.io/speccy) - Live code 8-bit algorave in ClojureScript. (inactive)
 
   `Windows | macOS | GNU/Linux` `web` `FLOSS` `audio` `lisp`
 
-- [Steno](https://github.com/musikinformatik/Steno) - Concatenative little metalanguage for live coding.
+- [Steno](https://github.com/musikinformatik/Steno) - Concatenative little metalanguage for live coding. (inactive)
 
   `Windows | macOS | GNU/Linux` `SuperCollider` `FLOSS` `audio`
   
-- [Strudel](https://strudel.tidalcycles.org) - Live coding (Tidal-style) algorithmic patterns for the web.
+- [Strudel](https://strudel.cc) - Live coding (Tidal-style) algorithmic patterns for the web.
 
   `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `audio`
 
@@ -275,7 +275,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `FreeBSD | GNU/Linux` `Go` `audio` `synthesis` `FOSS`
 
-- [synth-x](https://github.com/luiscript/synth-x) - An experimental live coding environment for making music created with modern web technologies.
+- [synth-x](https://github.com/luiscript/synth-x) - An experimental live coding environment for making music created with modern web technologies. (inactive)
 
   `Windows | macOS | GNU/Linux` `JavaScript` `nodejs` `audio`
 
@@ -283,19 +283,19 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linxux` `Haskell` `SuperCollider` `FLOSS` `audio`
 
-- [TimeLines](https://github.com/lnfiniteMonkeys/TimeLines-hs) - A modular synthesizer for live coding the flow of time.
+- [TimeLines](https://github.com/lnfiniteMonkeys/TimeLines-hs) - A modular synthesizer for live coding the flow of time. (inactive)
 
   `Windows | macOS | GNU/Linux` `FLOSS` `Haskell` `SuperCollider` `audio`
   
-- [tinyspec](https://github.com/nwoeanhinnogaehr/tinyspec-cling) - A C++ live-coding environment for overlap-add (re)synthesis.
+- [tinyspec](https://github.com/nwoeanhinnogaehr/tinyspec-cling) - A C++ live-coding environment for overlap-add (re)synthesis. (inactive)
 
   `GNU/Linux` `C++` `FLOSS` `audio`
   
-- [Tinalla](https://github.com/axelkramble/tinalla/) - Framework Regex based for language parsing written in javascript.
+- [Tinalla](https://github.com/axelkramble/tinalla/) - Framework Regex based for language parsing written in javascript. (inactive)
 
   `Windows | macOS | GNU/Linux` `FLOSS` `Javascript` `SuperCollider` `audio`
 
-- [Topos](https://topos.raphaelforment.fr) - Web-based live coding environment inspired by the Monome Teletype.
+- [Topos](https://topos.live/) - Web-based live coding environment inspired by the Monome Teletype.
 
   `Google Chrome | Mozilla Firefox` `FLOSS` `Javascript` `audio` `midi`
 
@@ -304,7 +304,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Google Chrome | Microsoft Edge` `PWA` `web` `JavaScript` `MIDI` `audio` `visuals` `WebAudio`
 
-- [Vivid](http://vivid-synth.com/) - Haskell synth live coding.
+- [Vivid](http://vivid-synth.com/) - Haskell synth live coding. (inactive)
 
   `Haskell` `SuperCollider` `FLOSS` `audio`
 
@@ -320,7 +320,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Google Chrome | Mozilla Firefox` `web` `JavaScript` `MIDI` `audio` `WebAudio`
 
-- [Wulfcode](https://github.com/echolevel/wulfcode) - A Midi live-coding environment for performance or composition.
+- [Wulfcode](https://github.com/echolevel/wulfcode) - A Midi live-coding environment for performance or composition. (inactive)
 
   `macOS | Windows* | GNU/Linux*` `FLOSS` `audio`
   
@@ -328,7 +328,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `macOS | Windows | GNU/Linux` `FLOSS` `audio`
 
-- [xi](https://github.com/xi-livecode) - A domain-specific language for Live Coding musical patterns in Ruby.
+- [xi](https://github.com/xi-livecode) - A domain-specific language for Live Coding musical patterns in Ruby. (inactive)
 
   `Windows | macOS | GNU/Linux` `Ruby` `SuperCollider` `FLOSS` `audio`
 
