@@ -50,17 +50,14 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
   - [Cane](https://discord.gg/UVYAtpYYD2)
   - [gwion](https://discord.gg/KmHqbTKSmS)
   - [Pure Data](https://discord.com/invite/AZ43djV)
-  - [SuperCollider](https://discord.gg/bgFf9fm3)
-  - [TidalCycles](https://discord.gg/CqWhZEfNbq)
-  - [ctrlAV](https://discord.gg/WJXDHWwUs6) - A community Twitch Channel for streaming live coding, audiovisual art, tutorials, and mass games.
+  - [SuperCollider](https://discord.gg/ktz4xQZv7b)
+  - [TidalCycles, Strudel and friends](https://discord.gg/CqWhZEfNbq)
 - Mastodon
   - Official TOPLAP mastodon instance: [TOPLAP Social](https://social.toplap.org/)
   - List of livecode communities and projects on mastodon: https://social.toplap.org/@toplap/111703319382988669
   - Other live coding-related and -adjacent instances include: [sonomu.club](https://sonomu.club/), [assemblag.es](https://assemblag.es) and [post.lurk.org](https://post.lurk.org)
-  - General live coding-related accounts include: [@toplap@assemblag.es ](https://assemblag.es/@toplap) [https://post.lurk.org/@algorave](@algorave@post.lurk.org)
+  - General live coding-related accounts include: [@toplap@toplap.org](https://social.toplap.org/@toplap) [https://social.toplap.org/@algorave](@algorave@toplap.org)
 - [/r/livecoding](https://www.reddit.com/r/livecoding/) - The Live Coding subreddit.
-- [LiveCoders](https://github.com/toplap/livecoders/) - A semi-curated, rather incomplete list of people doing live coding in the performing arts.
-- [Algorithmic Music @ LinuxMusicians](https://linuxmusicians.com/viewforum.php?f=65) - A section of the popular LinuxMusicians forum for discussing live coding languages.
 - [livecode.demozoo.org](https://livecode.demozoo.org) - Archive of demoscene related live coding events.
 
 ## Languages
@@ -75,7 +72,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `FLOSS` `audio`
 
-- [Atomiix](https://github.com/rumblesan/atomiix) - A re-implementation and re-invigoration of ixi lang.
+- [Atomiix](https://github.com/rumblesan/atomiix) - A re-implementation and re-invigoration of ixi lang. (inactive)
 
   `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `SuperCollider` `audio`
   
@@ -95,11 +92,11 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `GNU/Linux` `C` `FLOSS` `audio`
 
-- [Conductive](http://www.renickbell.net/doku.php?id=conductive) - A set of Haskell libraries for livecoding and real-time music applications.
+- [Conductive](https://hackage.haskell.org/package/conductive-base) - A set of Haskell libraries for livecoding and real-time music applications. (inactive)
 
   `Windows | macOS | GNU/Linux` `haskell`  `SuperCollider` `FLOSS` `audio`
 
-- [Cyril](http://cyrilcode.com/) - A programming language designed for fast prototyping of visualisations and livecoding visuals.
+- [Cyril](http://cyrilcode.com/) - A programming language designed for fast prototyping of visualisations and livecoding visuals. (inactive)
 
   `Windows | macOS | GNU/Linux` `openFrameworks` `FLOSS` `visuals`
 
@@ -115,11 +112,11 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `faust` `llvm` `FLOSS` `audio` `DSP`
 
-- [Fluxus](http://www.pawfal.org/fluxus/) - A rapid prototyping, playing and learning environment for 3D graphics, sound and games.
+- [Fluxus](http://www.pawfal.org/Software/fluxus_/) - A rapid prototyping, playing and learning environment for 3D graphics, sound and games.
 
   `Windows | macOS | GNU/Linux | Android | PS2` `racket-lang` `lisp` `FLOSS` `visuals`
 
-- [FoxDot](http://foxdot.org/) - Live Coding with Python and SuperCollider.
+- [FoxDot](http://foxdot.org/) - Live Coding with Python and SuperCollider. See also the [pitchglitch](https://gitlab.com/iShapeNoise/foxdot) actively maintained fork.
 
   `Windows | macOS | GNU/Linux` `Python` `SuperCollider` `FLOSS` `audio`
 
@@ -134,11 +131,11 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [gwion](https://github.com/Gwion/Gwion) - :musical_note: strongly-timed musical programming language
   `Windows | macOS | GNU/Linux` `FLOSS` `audio`
   
-- [hydra](https://github.com/ojack/hydra) - Live Coding networked visuals in the browser.
+- [hydra](https://github.com/hydra-synth/hydra) - Live Coding networked visuals in the browser.
 
   `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `visuals`
 
-- [Improviz](http://github.com/rumblesan/improviz) - An environment for using and abusing primitive shapes and animated textures.
+- [Improviz](http://github.com/rumblesan/improviz) - An environment for using and abusing primitive shapes and animated textures. (inactive/deprecated)
 
   `Windows | macOS | GNU/Linux` `Haskell` `FLOSS` `visuals`
 
@@ -146,7 +143,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `audio` `Open Sound Control` `visuals`
 
-- [ixi lang](http://www.ixi-audio.net/) - An experimental project concerned with the creation of digital musical instruments and environments for generative music.
+- [ixi lang](https://github.com/thormagnusson/ixilang) - An experimental project concerned with the creation of digital musical instruments and environments for generative music. (inactive)
 
   `Windows | macOS | GNU/Linux` `FLOSS` `SuperCollider` `audio`
 
@@ -158,7 +155,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `audio`
 
-- [Krill](https://github.com/Mdashdotdashn/krill) - Tidal cycle like live coding in NodeJS / Browser.
+- [Krill](https://github.com/Mdashdotdashn/krill) - Tidal cycle like live coding in NodeJS / Browser. (inactive)
 
   `Windows | macOS | GNU/Linux` `NodeJS` `Browser` `FLOSS` `midi`
   
@@ -170,7 +167,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
   
   `Windows | macOS | GNU/Linux` `c++` `FLOSS` `midi` `audio`
 
-- [LiveCodeLab](http://livecodelab.net) - A web-based language and environment for VJs, musicians and graphic artists. Allows for immediate and engaging run-as-you-type prototyping, also used in education.
+- [LiveCodeLab](http://livecodelab.net) - A web-based language and environment for VJs, musicians and graphic artists. Allows for immediate and engaging run-as-you-type prototyping, also used in education. (inactive)
 
   `Windows | macOS | GNU/Linux` `web` `FLOSS` `visuals` `audio`
 
@@ -190,7 +187,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS` `Chrome | Firefox` `audio` `visuals` `MaxMSP` `JavaScript`
 
-- [Moonlet](https://github.com/elihugarret/Moonlet) - Lua live coding.
+- [Moonlet](https://github.com/elihugarret/Moonlet) - Lua live coding. (inactive)
 
   `Windows | GNU/Linux` `FLOSS` `audio`
   
@@ -234,11 +231,11 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `graphical-language` `FLOSS` `audio` `visuals`
 
-- ~~[re<urse](https://github.com/carrierdown/recurse)~~ - A language for generating musical patterns.
+- [re<urse](https://github.com/carrierdown/recurse) - A language for generating musical patterns. (inactive)
 
   `abandoned` `Windows | macOS | GNU/Linux` `TypeScript` `FLOSS` `audio`
 
-- [Repetition.sc](https://github.com/lvm/Repetition.sc) - A set of tools to build a SequenceableCollection of Events.
+- [Repetition.sc](https://github.com/lvm/Repetition.sc) - A set of tools to build a SequenceableCollection of Events. (inactive)
 
   `Windows | macOS | GNU/Linux` `SuperCollider` `FLOSS` `audio`
 
@@ -250,15 +247,15 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `Python` `SuperCollider` `FLOSS` `audio` `midi` `Open Sound Control`
 
-- [sema](https://github.com/mimic-sussex/sema) - Sema – A Playground for Live Coding Music and Machine Learning.
+- [sema](https://github.com/mimic-sussex/sema) - Sema – A Playground for Live Coding Music and Machine Learning. (inactive)
 
   `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `audio`
 
-- [serialist](https://github.com/irritant/serialist) - A live coding environment that generates MIDI messages.
+- [serialist](https://github.com/irritant/serialist) - A live coding environment that generates MIDI messages. (inactive)
 
   `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `audio`
 
-- [Skoar](https://github.com/sofakid/Skoarcery) - A high-level language for coding music with SuperCollider.
+- [Skoar](https://github.com/sofakid/Skoarcery) - A high-level language for coding music with SuperCollider. (inactive)
 
   `Windows | macOS | GNU/Linux` `SuperCollider` `Python` `FLOSS` `audio`
 
@@ -266,15 +263,15 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `Ruby` `SuperCollider` `FLOSS` `audio`
 
-- [Speccy](https://chr15m.github.io/speccy) - Live code 8-bit algorave in ClojureScript.
+- [Speccy](https://chr15m.github.io/speccy) - Live code 8-bit algorave in ClojureScript. (inactive)
 
   `Windows | macOS | GNU/Linux` `web` `FLOSS` `audio` `lisp`
 
-- [Steno](https://github.com/musikinformatik/Steno) - Concatenative little metalanguage for live coding.
+- [Steno](https://github.com/musikinformatik/Steno) - Concatenative little metalanguage for live coding. (inactive)
 
   `Windows | macOS | GNU/Linux` `SuperCollider` `FLOSS` `audio`
   
-- [Strudel](https://strudel.tidalcycles.org) - Live coding (Tidal-style) algorithmic patterns for the web.
+- [Strudel](https://strudel.cc) - Live coding (Tidal-style) algorithmic patterns for the web.
 
   `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `audio`
 
@@ -286,7 +283,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `FreeBSD | GNU/Linux` `Go` `audio` `synthesis` `FOSS`
 
-- [synth-x](https://github.com/luiscript/synth-x) - An experimental live coding environment for making music created with modern web technologies.
+- [synth-x](https://github.com/luiscript/synth-x) - An experimental live coding environment for making music created with modern web technologies. (inactive)
 
   `Windows | macOS | GNU/Linux` `JavaScript` `nodejs` `audio`
   
@@ -298,19 +295,20 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linxux` `Haskell` `SuperCollider` `FLOSS` `audio`
 
-- [TimeLines](https://github.com/lnfiniteMonkeys/TimeLines-hs) - A modular synthesizer for live coding the flow of time.
+- [TimeLines](https://github.com/lnfiniteMonkeys/TimeLines-hs) - A modular synthesizer for live coding the flow of time. (inactive)
 
   `Windows | macOS | GNU/Linux` `FLOSS` `Haskell` `SuperCollider` `audio`
   
-- [tinyspec](https://github.com/nwoeanhinnogaehr/tinyspec-cling) - A C++ live-coding environment for overlap-add (re)synthesis.
+- [tinyspec](https://github.com/nwoeanhinnogaehr/tinyspec-cling) - A C++ live-coding environment for overlap-add (re)synthesis. (inactive)
 
   `GNU/Linux` `C++` `FLOSS` `audio`
   
-- [Tinalla](https://github.com/axelkramble/tinalla/) - Framework Regex based for language parsing written in javascript.
+- [Tinalla](https://github.com/axelkramble/tinalla/) - Framework Regex based for language parsing written in javascript. (inactive)
 
   `Windows | macOS | GNU/Linux` `FLOSS` `Javascript` `SuperCollider` `audio`
 
-- [Topos](https://topos.live) - Web-based live coding environment inspired by the Monome Teletype.
+- [Topos](https://topos.live/) - Web-based live coding environment inspired by the Monome Teletype.
+
 
   `Google Chrome | Mozilla Firefox` `FLOSS` `Javascript` `audio` `midi`
   
@@ -318,7 +316,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Google Chrome | Microsoft Edge` `PWA` `web` `JavaScript` `MIDI` `audio` `visuals` `WebAudio`
 
-- [Vivid](http://vivid-synth.com/) - Haskell synth live coding.
+- [Vivid](http://vivid-synth.com/) - Haskell synth live coding. (inactive)
 
   `Haskell` `SuperCollider` `FLOSS` `audio`
 
@@ -334,7 +332,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Google Chrome | Mozilla Firefox` `web` `JavaScript` `MIDI` `audio` `WebAudio`
 
-- [Wulfcode](https://github.com/echolevel/wulfcode) - A Midi live-coding environment for performance or composition.
+- [Wulfcode](https://github.com/echolevel/wulfcode) - A Midi live-coding environment for performance or composition. (inactive)
 
   `macOS | Windows* | GNU/Linux*` `FLOSS` `audio`
   
@@ -342,7 +340,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `macOS | Windows | GNU/Linux` `FLOSS` `audio`
 
-- [xi](https://github.com/xi-livecode) - A domain-specific language for Live Coding musical patterns in Ruby.
+- [xi](https://github.com/xi-livecode) - A domain-specific language for Live Coding musical patterns in Ruby. (inactive)
 
   `Windows | macOS | GNU/Linux` `Ruby` `SuperCollider` `FLOSS` `audio`
 
@@ -419,7 +417,6 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 ### Documentaries and features
 
 - [Algorave Generation](https://www.youtube.com/watch?v=S2EZqikCIfY) - Resident Advisor.
-- [Algorithms are Thoughts, Chainsaws are Tools](https://vimeo.com/9790850) - A short film on livecoding presented as part of the Critical Code Studies Working Group, March 2010, by Stephen Ramsay.
 - [Live coding for Algoraving](https://www.youtube.com/watch?v=RpzEzUCgVoQ) - Shelly Knotts+Joanne Armitage / workshop supported by YSWN + LCRN.
 - [PBUP - A patchwork portrait](https://www.youtube.com/playlist?list=PLKRUGJaqJkAfU_PaYUeiRzD5qh5tkwvdj) - A documentary about PowerBooks UnPlugged, "the first acoustic computer band".
 - [Run the code](https://www.youtube.com/watch?v=h340aNznHnM) - Documentary in The Guardian.
@@ -427,6 +424,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Sounds of code](https://www.youtube.com/watch?v=uA4SDytz8Aw) - 2019 documentary w/ interviews with live coders.
 
 ### Performances, talks, etc
+
+- Eulerroom - Over 1000 performances to watch! Also [archived on archive.org](https://archive.org/details/toplap).
 
 - [Algorave - Algorithmic dance culture](https://www.youtube.com/watch?v=nAGjTYa95HM) - Alex McLean.
 - [Arte Tracks - Live coding and Algorave](https://www.youtube.com/watch?v=X_NQKPH91kM)
@@ -437,7 +436,6 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Programming in Time - Live Coding for creative performances](https://www.youtube.com/watch?v=Sg2BjFQnr9s) - Andrew Sorensen.
 - [SuperCollider Tutorials](https://www.youtube.com/playlist?list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC) - A video series by Eli Fieldsteel.
 - [THIS is computer music](https://www.youtube.com/watch?v=S-T8kcSRLL0) - Ge Wang.
-- [TidalCycles YouTube Channel](https://www.youtube.com/channel/UCG5Ynx9mvouuSHYEyxaJ0Cg) - Official channel of the TidalCycles collective.
 
 ## To Read
 
@@ -453,7 +451,6 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Collaboration and learning through live coding](http://drops.dagstuhl.de/opus/frontdoor.php?source_opus=4420) - Alan Blackwell, Alex McLean, James Noble,  Julian Rohrhuber (2014).
 - [howto_co34pt_liveCode](https://theseanco.github.io/howto_co34pt_liveCode/) - Guide on how to live code in SuperCollider based on the performance practice of live coder coï¿¥ï¾¡pt.
 - [Run the code: is algorave the future of dance music?](https://www.theguardian.com/music/2017/nov/30/is-algorave-the-future-of-dance-music-sheffield-algomech-festival) - Another part of the Guardian’s underground music series (2017).
-
 
 ## To Dance
 
@@ -480,8 +477,6 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) - A curated list of Oli Larkin's favourite music DSP and audio plug-in frameworks.
 - [Awesome SuperCollider](https://github.com/madskjeldgaard/awesome-supercollider) - A curated list of SuperCollider stuff.
 - [Awesome TidalCycles](https://github.com/tidalcycles/awesome-tidalcycles) - An awesome list about the pattern-based live coding system TidalCycles (or just 'Tidal' for short) and its close relatives
-
-
 
 ## Acknowledgement
 
