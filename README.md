@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/toplap/awesome-livecoding/images/toplap-small.png" alt="TOPLAP Logo"> </h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/toplap/awesome-livecoding/images/toplap-circle.png" alt="TOPLAP Logo"> </h1>
 
 # All things live coding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
