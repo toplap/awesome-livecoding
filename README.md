@@ -298,7 +298,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `FLOSS` `Javascript` `SuperCollider` `audio`
 
-- [Topos](https://topos.raphaelforment.fr) - Web-based live coding environment inspired by the Monome Teletype.
+- [Topos](https://topos.live) - Web-based live coding environment inspired by the Monome Teletype.
 
   `Google Chrome | Mozilla Firefox` `FLOSS` `Javascript` `audio` `midi`
 
