@@ -210,6 +210,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [ORCΛ](https://github.com/hundredrabbits/Orca) - An esoteric live coding environment with two-dimensional syntax.
 
   `Windows | macOS | GNU/Linux` `audio` `FLOSS`
+  
+- [OSCII](https://adelfaure.net/tools/liblab/) - OSCII is a web software for drawing and live-coding textmode visuals and sounds.
+
+  `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `audio` `visuals`
 
 - [Overtone](http://overtone.github.io/) - An open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming.
 
@@ -234,6 +238,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Repetition.sc](https://github.com/lvm/Repetition.sc) - A set of tools to build a SequenceableCollection of Events. (inactive)
 
   `Windows | macOS | GNU/Linux` `SuperCollider` `FLOSS` `audio`
+
+- [Regex](https://library.vcvrack.com/Biset/Biset-Regex) - A VCV Rack live coding module generating intricated pitch and rhythm sequences.
+
+  `Windows | macOS | GNU/Linux` `VCV` `Rack` `Modular` `FLOSS` `audio`
 
 - [Sardine](https://github.com/Bubobubobubobubo/Sardine) A Python based live coding library (MIDI/OSC/SuperDirt).
 
@@ -278,6 +286,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [synth-x](https://github.com/luiscript/synth-x) - An experimental live coding environment for making music created with modern web technologies. (inactive)
 
   `Windows | macOS | GNU/Linux` `JavaScript` `nodejs` `audio`
+  
+- [TEXTOR](https://adelfaure.net/tools/textor/) - Textor is a textmode editor and live-coding environement for visuals and sounds.
+
+  `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `audio` `visuals`
 
 - [TidalCycles](https://tidalcycles.org/) - Is a language for Live Coding pattern.
 
@@ -297,8 +309,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 - [Topos](https://topos.live/) - Web-based live coding environment inspired by the Monome Teletype.
 
-  `Google Chrome | Mozilla Firefox` `FLOSS` `Javascript` `audio` `midi`
 
+  `Google Chrome | Mozilla Firefox` `FLOSS` `Javascript` `audio` `midi`
   
 - [Tweakable](https://tweakable.org/) - Visual programming for music, sound and video, used by artists and musicians to make interactive art and music on the web.
 
