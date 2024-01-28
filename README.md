@@ -313,8 +313,11 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 - [Topos](https://topos.live/) - Web-based live coding environment inspired by the Monome Teletype.
 
-
   `Google Chrome | Mozilla Firefox` `FLOSS` `Javascript` `audio` `midi`
+
+- [Trane](https://lisp.trane.studio) - Browser-based livecoding in Janet 
+
+  `Mozilla Firefox | Google Chrome` `web` `Janet` `MIDI` `audio` `WebAudio` `FOSS`
   
 - [Tweakable](https://tweakable.org/) - Visual programming for music, sound and video, used by artists and musicians to make interactive art and music on the web.
 
