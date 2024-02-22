@@ -239,6 +239,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `abandoned` `Windows | macOS | GNU/Linux` `TypeScript` `FLOSS` `audio`
 
+- [Renardo](https://renardo.org/#/) - A FoxDot fork bringing new features and functionalities
+
+  `Windows | macOS | GNU/Linux` `Python` `FLOSS` `audio`
+
 - [Repetition.sc](https://github.com/lvm/Repetition.sc) - A set of tools to build a SequenceableCollection of Events. (inactive)
 
   `Windows | macOS | GNU/Linux` `SuperCollider` `FLOSS` `audio`
