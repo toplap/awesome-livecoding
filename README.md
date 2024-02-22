@@ -33,6 +33,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 ## Websites
 
 - [TOPLAP](https://toplap.org/) - The home of Live Coding.
+- [LiveCoding.fr](https://livecoding.fr) - French-speaking information website on Live Coding
 
 ## Community
 
@@ -52,6 +53,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
   - [Pure Data](https://discord.com/invite/AZ43djV)
   - [SuperCollider](https://discord.gg/ktz4xQZv7b)
   - [TidalCycles, Strudel and friends](https://discord.gg/CqWhZEfNbq)
+  - [Bubo Tools](https://discord.gg/uJFF6rPKHH)
 - Mastodon
   - Official TOPLAP mastodon instance: [TOPLAP Social](https://social.toplap.org/)
   - List of livecode communities and projects on mastodon: https://social.toplap.org/@toplap/111703319382988669
