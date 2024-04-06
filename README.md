@@ -126,7 +126,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `audio` `visuals`
   
-- [GLICOL](https://glicol.web.app/) - A graph-oriented live coding language written in Rust.
+- [Glicol](https://glicol.org/) - A graph-oriented live coding language written in Rust.
 
   `Google Chrome | Mozilla Firefox` `web` `Rust` `JavaScript` `WebAssembly` `FLOSS` `audio` `visuals`
 
