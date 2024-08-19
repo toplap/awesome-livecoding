@@ -37,6 +37,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## Community
 
+- Directory of local TOPLAP nodes / live coding collectives: https://toplap.org/nodes/
 - [livecode mailing list](https://we.lurk.org/mailman3/lists/livecode.we.lurk.org/) - Old school email discussion list, going since 2004!
   - [Archive from February 2004 - August 2023](https://toplap.org/livecode-archive/)
   - [Current archive](https://we.lurk.org/archives/list/livecode@we.lurk.org/latest)
