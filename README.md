@@ -377,6 +377,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [dafxpipe](https://github.com/nwoeanhinnogaehr/dafxpipe) - Software for live coding audio effects and synths.
 - [diatonic](https://github.com/pd3v/diatonic) - Diatonic transforms for music making.
 - [disclojure](https://github.com/pjagielski/disclojure) - A live coding environment for Overtone and Leipzig.
+- [dublang](https://dublang.4two.art/) - A multi-language live coding system with support for multiple languages in a single session.
 - [essence-of-live-coding](https://hackage.haskell.org/package/essence-of-live-coding) - General purpose (console, webservice, audio, graphics) live coding framework in Haskell
 - [EspGrid](https://github.com/d0kt0r0/EspGrid) - Synchronization and sharing for network music.
 - [Extramuros](https://github.com/d0kt0r0/extramuros) - Language-neutral shared-buffer networked live coding system.
