@@ -190,6 +190,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS` `Chrome | Firefox` `audio` `visuals` `MaxMSP` `JavaScript`
 
+- [MicroBlocks](https://microblocks.fun) - A stack VM-based, small, live and concurrent visual programming language for 32 bit microcontrollers inspired in Scratch and Snap!. It includes libraries for interacting with MIDI devices, as well as libraries for musical abstractions.
+
+   `Windows | macOS | GNU/Linux | Chromebook | Chrome-based browsers` `FLOSS` `graphical-language` `microcontrollers` `midi` `audio`
+
 - [Moonlet](https://github.com/elihugarret/Moonlet) - Lua live coding. (inactive)
 
   `Windows | GNU/Linux` `FLOSS` `audio`
