@@ -79,13 +79,13 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `SuperCollider` `audio`
 
-- [Bitrhythm](https://bitrhythm.xyzzyapps.link/) - A dsl inspired by bitpatterns and tracker notation to make music with javascript, midi, vsts and webaudio.
-
-  `Web | Windows | macOS` `javascript` `JUCE` `audio` `midi` `CC BY-NC-SA`
-  
 - [Bacalao](https://github.com/totalgee/bacalao) - A live-coding library for SuperCollider inspired by Tidalcycles syntax.
 
   `Windows | macOS | GNU/Linux` `SuperCollider` `audio`
+
+- [Bitrhythm](https://bitrhythm.xyzzyapps.link/) - A dsl inspired by bitpatterns and tracker notation to make music with javascript, midi, vsts and webaudio.
+
+  `Web | Windows | macOS` `javascript` `JUCE` `audio` `midi` `CC BY-NC-SA`
 
 - [Cane](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
 
