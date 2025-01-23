@@ -246,6 +246,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `graphical-language` `FLOSS` `audio` `visuals`
 
+- [Re:code](https://machiaworx.net/recode/doku.php?id=start) - Midi and Playback Samples Sequencer using MiniScript and unique MML(Music Macro Language)
+
+  `Windows` `MiniScript` `Freeware` `audio` `midi`
+
 - [re<urse](https://github.com/carrierdown/recurse) - A language for generating musical patterns. (inactive)
 
   `abandoned` `Windows | macOS | GNU/Linux` `TypeScript` `FLOSS` `audio`
