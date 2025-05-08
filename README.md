@@ -179,6 +179,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `web` `FLOSS` `visuals` `audio`
 
+- [LocoMotion](https://github.com/dktr0/LocoMotion) - A browser-based language for live coding dance, choreography, and 3D visuals (available in Estuary and as a standalone).
+
+  `Google Chrome | Mozilla Firefox` `web` `WebGL` `JavaScript` `FLOSS` `visuals`
+
 - [Max](https://cycling74.com/products/max/) - A visual programming language for media.
 
   `Windows | macOS` `graphical-language` `Commercial` `audio` `visuals`
@@ -239,7 +243,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Google Chrome | Microsoft Edge | etc.` `Web` `WebGL` `visuals`
 
-- [Punctual](https://github.com/dktr0/Punctual) - Browser-based, zero-installation, audiovisual live coding language, built into the Estuary collaborative platform.
+- [Punctual](https://github.com/dktr0/Punctual) - Browser-based, zero-installation, audiovisual live coding language (available in Estuary and as a standalone).
 
   `Google Chrome | Mozilla Firefox` `web` `WebGL` `JavaScript` `FLOSS` `visuals`
 
@@ -393,6 +397,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [dublang](https://dublang.4two.art/) - A multi-language live coding system with support for multiple languages in a single session.
 - [essence-of-live-coding](https://hackage.haskell.org/package/essence-of-live-coding) - General purpose (console, webservice, audio, graphics) live coding framework in Haskell
 - [EspGrid](https://github.com/d0kt0r0/EspGrid) - Synchronization and sharing for network music.
+- [Estuary](https://estuary.mcmaster.ca) - Multilingual, zero-installation, extensible-on-the-fly collaborative live coding platform.
 - [Extramuros](https://github.com/d0kt0r0/extramuros) - Language-neutral shared-buffer networked live coding system.
 - [Flok](https://munshkr.github.io/flok) - Web-based P2P collaborative editor for live coding music and graphics.
 - [Fragment](https://www.fsynth.com) - Collaborative live GLSL coding environment, additive/spectral/granular synthesizer.
