@@ -55,6 +55,11 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
   - [SuperCollider](https://discord.gg/ktz4xQZv7b)
   - [TidalCycles, Strudel and friends](https://discord.gg/CqWhZEfNbq)
   - [Bubo Tools](https://discord.gg/uJFF6rPKHH)
+- Signal groups, also for live chat:
+-   [Live Coding universe](https://signal.group/#CjQKIAHM8D2YHJYgyHDDj5L_xwOEgo0_TwX8eu0VCQpSGKmeEhABT7Z_llRtLcRPMHdgLi8u)
+-   [Live Coding janitors](https://signal.group/#CjQKIDcfz_eQAoxyTvxdwLJiJSm4jUKd3_DBsejc6UaQXbLwEhB0lNcmUGq5d41YFsqpBVmq) - For discussion of internet infrastructure around live coding, including both ethical and technical issues
+-   [Live Coding uk](https://signal.group/#CjQKIEp8QU1zdzSZZGknaJBmjzAiNObINGPhDB3jbL0YlmntEhAaFWtsGdSF0HnR8cTAPDvT)
+  -   [Live Coding london](https://signal.group/#CjQKILVUFMuI1r_tNi4k7Ei4aHTOSVZfYljCjnzal_hmKtMlEhDWv7WqmYv7p2DDkHu4_kGQ)
 - Mastodon
   - Official TOPLAP mastodon instance: [TOPLAP Social](https://social.toplap.org/)
   - List of livecode communities and projects on mastodon: https://social.toplap.org/@toplap/111703319382988669
