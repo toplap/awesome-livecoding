@@ -296,9 +296,9 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `web` `FLOSS` `audio` `lisp`
 
-- [Steno](https://github.com/musikinformatik/Steno) - Concatenative little metalanguage for live coding. (inactive)
+- [Steno](https://github.com/musikinformatik/Steno) - Concatenative little metalanguage for live coding.
 
-  `Windows | macOS | GNU/Linux` `SuperCollider` `FLOSS` `audio`
+  ` macOS | GNU/Linux` `SuperCollider` `FLOSS` `audio`
   
 - [Strudel](https://strudel.cc) - Live coding (Tidal-style) algorithmic patterns for the web.
 
