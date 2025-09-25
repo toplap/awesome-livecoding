@@ -108,6 +108,9 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Conductive](https://hackage.haskell.org/package/conductive-base) - A set of Haskell libraries for livecoding and real-time music applications. (inactive)
 
   `Windows | macOS | GNU/Linux` `haskell`  `SuperCollider` `FLOSS` `audio`
+- [Coypu](https://github.com/lucretiomsp/Coypu) - A Pharo Smalltalk package for programming music on-the-fly with support for multiple audio servers
+  
+  `Windows | macOS | GNU/Linux` `Pharo`  `midi` `Open Sound Control` `FLOSS` `audio`
 
 - [Cyril](http://cyrilcode.com/) - A programming language designed for fast prototyping of visualisations and livecoding visuals. (inactive)
 
