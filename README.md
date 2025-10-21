@@ -438,6 +438,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Siren](https://github.com/cannc4/Siren/) - A tracker interface that embodies abstractions where programming is realized as the medium for pattern sequencing in a modular fashion.
 - [sonic-pixels](https://github.com/emlyn/sonic-pixels) - Interactive lighting effects for Sonic Pi.
 - [Strudel Flow](https://xyflow.com/strudel-flow) - An experimental node-based UI for Strudel built with React Flow.
+- [strudel.nvim](https://github.com/gruvw/strudel.nvim) - A Neovim based Strudel controller.
 - [Supriya](https://github.com/josiah-wolf-oberholtzer/supriya) - A Python API for SuperCollider.
 - [tidal-autocode](https://atom.io/packages/tidal-autocode) - Auto-generates patterns for TidalCycles (requires [Atom](https://atom.io/) editor).
 - [tidal-chord](https://github.com/fp4me/tidal-chord) - An add-on to the amazing live coding project TidalCycles.
