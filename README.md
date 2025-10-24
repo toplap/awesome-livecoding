@@ -315,9 +315,9 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `FLOSS` `audio`
 
-- [Syntə](https://github.com/syntelang/syntelang) - A synthesis based live coding language and environment with integrated sound engine.
+- [Syntə](https://codeberg.org/synte/synte) - A synthesis based live coding language and environment with integrated sound engine.
 
-  `FreeBSD | GNU/Linux` `Go` `audio` `synthesis` `FOSS`
+  `FreeBSD | GNU/Linux | macOS | Windows` `Go` `audio` `synthesis` `FOSS`
 
 - [synth-x](https://github.com/luiscript/synth-x) - An experimental live coding environment for making music created with modern web technologies. (inactive)
 
