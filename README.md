@@ -323,7 +323,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `JavaScript` `nodejs` `audio`
 
-- [textmode.js](https://code.textmode.art/) - A creative coding library for real-time textmode / ASCII graphics in the browser, usable standalone or integrated into live-coding environments like [flok.cc](https://flok.cc).
+- [textmode.js](https://code.textmode.art/) - A creative coding library for real-time textmode / ASCII graphics in the browser, suitable for generative art, interactive sketches, and live-coded visuals.
 
   `web` `JavaScript` `FLOSS` `visuals`
   
