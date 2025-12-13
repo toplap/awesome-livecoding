@@ -322,6 +322,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [synth-x](https://github.com/luiscript/synth-x) - An experimental live coding environment for making music created with modern web technologies. (inactive)
 
   `Windows | macOS | GNU/Linux` `JavaScript` `nodejs` `audio`
+
+- [textmode.js](https://code.textmode.art/) - A creative coding library for real-time textmode / ASCII graphics in the browser, usable standalone or integrated into live-coding environments like [flok.cc](https://flok.cc).
+
+  `web` `JavaScript` `FLOSS` `visuals`
   
 - [TEXTOR](https://adelfaure.net/tools/textor/) - Textor is a textmode editor and live-coding environement for visuals and sounds.
 
