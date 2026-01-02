@@ -386,7 +386,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## Libraries and tools
 
-(Also in Alphabetical Order)
+(Also in Alphabetical Order)ы
 
 - [ANSIedad](https://github.com/gabochi/ANSIedad) - Generate visuals through a terminal emulator using ANSI escape codes.
 - [Arcadia](https://arcadia-unity.github.io/) - Live coding Clojure in Unity3D.
@@ -415,6 +415,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Live GLSL coding render for macOS and Linux.
 - [hsc3](https://hackage.haskell.org/package/hsc3) - A Haskell SuperCollider client.
 - [HYLOGEN](https://github.com/sleexyz/hylogen) - An embedding of GLSL in Haskell.
+- [IBNIZ](https://github.com/viznut/IBNIZ) - A virtual machine for extremely compact low-level audiovisual programs, designed for demoscene productions and glitch art.
 - [incudine](http://incudine.sourceforge.net) - Music/DSP programming environment for Common Lisp.
 - [INSTRUMENT](https://github.com/punksnotdev/INSTRUMENT) - For live coding music and interfacing musical instruments and controllers in SuperCollider.
 - [isobar](https://github.com/ideoforms/isobar) - A Python library for algorithmic composition by expressing and constructing musical patterns.
