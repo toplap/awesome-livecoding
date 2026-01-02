@@ -386,7 +386,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
 ## Libraries and tools
 
-(Also in Alphabetical Order)ы
+(Also in Alphabetical Order)
 
 - [ANSIedad](https://github.com/gabochi/ANSIedad) - Generate visuals through a terminal emulator using ANSI escape codes.
 - [Arcadia](https://arcadia-unity.github.io/) - Live coding Clojure in Unity3D.
