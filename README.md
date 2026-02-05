@@ -319,13 +319,17 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `FreeBSD | GNU/Linux` `Go` `audio` `synthesis` `FOSS`
 
+- [synth.textmode.art](https://synth.textmode.art/) - A web-based live coding environment combining textmode visuals with audio synthesis.
+
+  `web` `JavaScript` `audio` `visuals`
+
 - [synth-x](https://github.com/luiscript/synth-x) - An experimental live coding environment for making music created with modern web technologies. (inactive)
 
   `Windows | macOS | GNU/Linux` `JavaScript` `nodejs` `audio`
 
 - [textmode.js](https://code.textmode.art/) - A creative coding library for real-time textmode / ASCII graphics in the browser, suitable for generative art, interactive sketches, and live-coded visuals.
 
-  `web` `JavaScript` `FLOSS` `visuals`
+  `web` `JavaScript` `visuals`
   
 - [TEXTOR](https://adelfaure.net/tools/textor/) - Textor is a textmode editor and live-coding environement for visuals and sounds.
 
