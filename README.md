@@ -191,6 +191,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Google Chrome | Mozilla Firefox` `web` `WebGL` `JavaScript` `FLOSS` `visuals`
 
+- [loopmaster](https://loopmaster.xyz) - Livecoding language and browser app using a state-of-the-art WebAssembly DSP engine and engaging inline editor visualizations.
+
+  `Google Chrome | Mozilla Firefox | Safari` `web` `WebAssembly` `audio` `synthesis` `dsp` `MIT`
+
 - [Max](https://cycling74.com/products/max/) - A visual programming language for media.
 
   `Windows | macOS` `graphical-language` `Commercial` `audio` `visuals`
