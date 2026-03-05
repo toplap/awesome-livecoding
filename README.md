@@ -52,7 +52,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
   - [Cane](https://discord.gg/UVYAtpYYD2)
   - [gwion](https://discord.gg/KmHqbTKSmS)
   - [Pure Data](https://discord.com/invite/AZ43djV)
-  - [SuperCollider](https://discord.gg/ktz4xQZv7b)
+  - [SuperCollider](https://discord.gg/7gVQ2AB6FZ)
   - [TidalCycles, Strudel and friends](https://discord.gg/CqWhZEfNbq)
   - [Bubo Tools](https://discord.gg/uJFF6rPKHH)
 - Signal groups, also for live chat:
@@ -191,6 +191,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Google Chrome | Mozilla Firefox` `web` `WebGL` `JavaScript` `FLOSS` `visuals`
 
+- [loopmaster](https://loopmaster.xyz) - Livecoding language and browser app using a state-of-the-art WebAssembly DSP engine and engaging inline editor visualizations.
+
+  `Google Chrome | Mozilla Firefox | Safari` `web` `WebAssembly` `audio` `synthesis` `dsp` `MIT`
+
 - [Max](https://cycling74.com/products/max/) - A visual programming language for media.
 
   `Windows | macOS` `graphical-language` `Commercial` `audio` `visuals`
@@ -315,9 +319,9 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `Windows | macOS | GNU/Linux` `FLOSS` `audio`
 
-- [Syntə](https://github.com/syntelang/syntelang) - A synthesis based live coding language and environment with integrated sound engine.
+- [Syntə](https://codeberg.org/synte/synte) - A synthesis based live coding language and environment with integrated sound engine.
 
-  `FreeBSD | GNU/Linux` `Go` `audio` `synthesis` `FOSS`
+  `FreeBSD | GNU/Linux | macOS | Windows` `Go` `audio` `synthesis` `FOSS`
 
 - [synth.textmode.art](https://synth.textmode.art/) - A web-based live coding environment combining textmode visuals with audio synthesis.
 
@@ -423,6 +427,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Live GLSL coding render for macOS and Linux.
 - [hsc3](https://hackage.haskell.org/package/hsc3) - A Haskell SuperCollider client.
 - [HYLOGEN](https://github.com/sleexyz/hylogen) - An embedding of GLSL in Haskell.
+- [IBNIZ](https://github.com/viznut/IBNIZ) - A virtual machine for extremely compact low-level audiovisual programs, designed for demoscene productions and glitch art.
 - [incudine](http://incudine.sourceforge.net) - Music/DSP programming environment for Common Lisp.
 - [INSTRUMENT](https://github.com/punksnotdev/INSTRUMENT) - For live coding music and interfacing musical instruments and controllers in SuperCollider.
 - [isobar](https://github.com/ideoforms/isobar) - A Python library for algorithmic composition by expressing and constructing musical patterns.
