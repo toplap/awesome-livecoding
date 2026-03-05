@@ -323,10 +323,14 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `FreeBSD | GNU/Linux | macOS | Windows` `Go` `audio` `synthesis` `FOSS`
 
+- [synth.textmode.art](https://synth.textmode.art/) - A web-based live coding environment combining textmode visuals with audio synthesis.
+
+  `web` `JavaScript` `audio` `visuals`
+
 - [synth-x](https://github.com/luiscript/synth-x) - An experimental live coding environment for making music created with modern web technologies. (inactive)
 
   `Windows | macOS | GNU/Linux` `JavaScript` `nodejs` `audio`
-  
+
 - [TEXTOR](https://adelfaure.net/tools/textor/) - Textor is a textmode editor and live-coding environement for visuals and sounds.
 
   `Google Chrome | Mozilla Firefox` `web` `JavaScript` `FLOSS` `audio` `visuals`
@@ -444,6 +448,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [sonic-pixels](https://github.com/emlyn/sonic-pixels) - Interactive lighting effects for Sonic Pi.
 - [Strudel Flow](https://xyflow.com/strudel-flow) - An experimental node-based UI for Strudel built with React Flow.
 - [Supriya](https://github.com/josiah-wolf-oberholtzer/supriya) - A Python API for SuperCollider.
+- [textmode.js](https://code.textmode.art/) - A creative coding library for real-time textmode / ASCII graphics in the browser, suitable for generative art, interactive sketches, and live-coded visuals.
+- [textmode.synth.js](https://github.com/humanbydefinition/textmode.synth.js) - A hydra-inspired visual synthesis plugin for textmode.js that drives procedural ASCII/textmode animations through a chainable, WebGL-powered API.
 - [tidal-autocode](https://atom.io/packages/tidal-autocode) - Auto-generates patterns for TidalCycles (requires [Atom](https://atom.io/) editor).
 - [tidal-chord](https://github.com/fp4me/tidal-chord) - An add-on to the amazing live coding project TidalCycles.
 - [TidalFX](https://github.com/calumgunn/TidalFX) - A haskell package adding weirder effects to Tidal from non-standard UGens.
