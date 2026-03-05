@@ -447,6 +447,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Siren](https://github.com/cannc4/Siren/) - A tracker interface that embodies abstractions where programming is realized as the medium for pattern sequencing in a modular fashion.
 - [sonic-pixels](https://github.com/emlyn/sonic-pixels) - Interactive lighting effects for Sonic Pi.
 - [Strudel Flow](https://xyflow.com/strudel-flow) - An experimental node-based UI for Strudel built with React Flow.
+- [strudel.nvim](https://github.com/gruvw/strudel.nvim) - A Neovim based Strudel controller.
 - [Supriya](https://github.com/josiah-wolf-oberholtzer/supriya) - A Python API for SuperCollider.
 - [textmode.js](https://code.textmode.art/) - A creative coding library for real-time textmode / ASCII graphics in the browser, suitable for generative art, interactive sketches, and live-coded visuals.
 - [textmode.synth.js](https://github.com/humanbydefinition/textmode.synth.js) - A hydra-inspired visual synthesis plugin for textmode.js that drives procedural ASCII/textmode animations through a chainable, WebGL-powered API.
