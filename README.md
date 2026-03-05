@@ -449,6 +449,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Strudel Flow](https://xyflow.com/strudel-flow) - An experimental node-based UI for Strudel built with React Flow.
 - [Supriya](https://github.com/josiah-wolf-oberholtzer/supriya) - A Python API for SuperCollider.
 - [textmode.js](https://code.textmode.art/) - A creative coding library for real-time textmode / ASCII graphics in the browser, suitable for generative art, interactive sketches, and live-coded visuals.
+- [textmode.synth.js](https://github.com/humanbydefinition/textmode.synth.js) - A hydra-inspired visual synthesis plugin for textmode.js that drives procedural ASCII/textmode animations through a chainable, WebGL-powered API.
 - [tidal-autocode](https://atom.io/packages/tidal-autocode) - Auto-generates patterns for TidalCycles (requires [Atom](https://atom.io/) editor).
 - [tidal-chord](https://github.com/fp4me/tidal-chord) - An add-on to the amazing live coding project TidalCycles.
 - [TidalFX](https://github.com/calumgunn/TidalFX) - A haskell package adding weirder effects to Tidal from non-standard UGens.
