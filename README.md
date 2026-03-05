@@ -52,7 +52,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
   - [Cane](https://discord.gg/UVYAtpYYD2)
   - [gwion](https://discord.gg/KmHqbTKSmS)
   - [Pure Data](https://discord.com/invite/AZ43djV)
-  - [SuperCollider](https://discord.gg/ktz4xQZv7b)
+  - [SuperCollider](https://discord.gg/7gVQ2AB6FZ)
   - [TidalCycles, Strudel and friends](https://discord.gg/CqWhZEfNbq)
   - [Bubo Tools](https://discord.gg/uJFF6rPKHH)
 - Signal groups, also for live chat:
