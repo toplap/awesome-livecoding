@@ -436,6 +436,8 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [LÖVELive :two_hearts:](https://github.com/sharow/lovelive) - Live coding framework for LÖVE(2D Game Engine).
 - [Lua2SC](https://github.com/sonoro1234/Lua2SC) - Lua client for superCollider scsynth and supernova.
 - [Motifn](https://www.motifn.com/) - Code music in Javascript that plays in your DAW or browser
+- [Noisedeck](https://noisedeck.app/) - Shader art creation studio, built on a live coding DSL.
+- [Noisemaker](https://noisemaker.app/) - Open source (MIT) shader art system for the browser (WebGL2/WebGPU), with live coding language.
 - [Petal](https://github.com/siaflab/petal) - A small language on Sonic Pi with similar syntax to TidalCycles.
 - [pytebeat](https://github.com/kragen/pytebeat) - A piece of software for doing livecoding [bytebeat](http://canonical.org/%7Ekragen/bytebeat/) performances.
 - [P5LIVE](https://github.com/ffd8/p5live) - p5.js collaborative live-coding vj environment!
