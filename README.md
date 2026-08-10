@@ -55,6 +55,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
   - [SuperCollider](https://discord.gg/7gVQ2AB6FZ)
   - [TidalCycles, Strudel and friends](https://discord.gg/CqWhZEfNbq)
   - [Bubo Tools](https://discord.gg/uJFF6rPKHH)
+  - [Auwen](https://soniare.net/d)
 - Signal groups, also for live chat:
   -   [Live Coding universe](https://signal.group/#CjQKIAHM8D2YHJYgyHDDj5L_xwOEgo0_TwX8eu0VCQpSGKmeEhABT7Z_llRtLcRPMHdgLi8u)
   -   [Live Coding janitors](https://signal.group/#CjQKIDcfz_eQAoxyTvxdwLJiJSm4jUKd3_DBsejc6UaQXbLwEhB0lNcmUGq5d41YFsqpBVmq) - For discussion of internet infrastructure around live coding, including both ethical and technical issues
@@ -84,6 +85,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [Atomiix](https://github.com/rumblesan/atomiix) - A re-implementation and re-invigoration of ixi lang. (inactive)
 
   `Windows | macOS | GNU/Linux` `JavaScript` `FLOSS` `SuperCollider` `audio`
+
+- [Auwen](https://www.soniare.net/auwen?f=al) - A CLI app for improvising music live with headphone cueing, visuals, sampling/synthesis & multiplayer.
+
+  `Windows | macOS | GNU/Linux` `C#`
 
 - [Bacalao](https://github.com/totalgee/bacalao) - A live-coding library for SuperCollider inspired by Tidalcycles syntax.
 
