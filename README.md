@@ -117,7 +117,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
   
   `Windows | macOS | GNU/Linux` `Pharo`  `midi` `Open Sound Control` `FLOSS` `audio`
 
-- [Cyril](http://cyrilcode.com/) - A programming language designed for fast prototyping of visualisations and livecoding visuals. (inactive)
+- Cyril - A programming language designed for fast prototyping of visualisations and livecoding visuals. (inactive)
 
   `Windows | macOS | GNU/Linux` `openFrameworks` `FLOSS` `visuals`
 
